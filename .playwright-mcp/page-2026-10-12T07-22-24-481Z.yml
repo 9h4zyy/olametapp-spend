@@ -1,0 +1,262 @@
+- generic [active] [ref=f1e1]:
+  - banner [ref=f1e2]:
+    - navigation "Main Navigation" [ref=f1e3]:
+      - link "Olamet Home" [ref=f1e4] [cursor=pointer]:
+        - /url: /
+        - img "Olamet Logo" [ref=f1e5]
+        - generic [ref=f1e6]: Olamet
+      - menubar [ref=f1e7]:
+        - menuitem "Home" [ref=f1e8] [cursor=pointer]
+        - menuitem "Agency Cooperation" [ref=f1e9] [cursor=pointer]
+        - menuitem "Host Cooperation" [ref=f1e10] [cursor=pointer]
+        - menuitem "About Us" [ref=f1e11] [cursor=pointer]
+        - menuitem "Contact" [ref=f1e12] [cursor=pointer]
+        - menuitem "More navigation options" [ref=f1e13] [cursor=pointer]:
+          - generic [ref=f1e14]: More
+      - link "Sign in" [ref=f1e18] [cursor=pointer]:
+        - /url: https://h5.olamet.net
+  - main [ref=f1e19]:
+    - generic [ref=f1e22]:
+      - generic [ref=f1e23]:
+        - generic [ref=f1e24]: Host Cooperation
+        - heading "Start Your Online Livestreaming Host Career on Olamet" [level=1] [ref=f1e25]
+        - paragraph [ref=f1e26]: Become an Olamet host with us to not only receive guidance but also daily rewards, full mentoring, and official support. All for free and no experience needed.
+        - link "Become a Host" [ref=f1e28] [cursor=pointer]:
+          - /url: https://olamet-client.olamet.net/build2/index.html#/memberInvitation?key=6c46753b47532ae24bd082a7c2810610&guildName=We&nick=We&lang=en
+      - button "Start Your Online Livestreaming Host Career on Olamet - Official Streamer Host - Click to enlarge" [ref=f1e30]
+    - generic [ref=f1e32]:
+      - generic [ref=f1e33]:
+        - generic [ref=f1e34]: Tutorial
+        - heading "Olamet Live Host Registration" [level=2] [ref=f1e35]
+      - generic [ref=f1e36]:
+        - generic [ref=f1e37]:
+          - article [ref=f1e38]:
+            - generic [aria-hidden] [ref=f1e39]: "1"
+            - generic [ref=f1e40]:
+              - 'heading "Step 1: Download the Olamet app" [level=3] [ref=f1e41]'
+              - paragraph [ref=f1e42]:
+                - text: Search for “Olamet” on the
+                - link "Google Play Store" [ref=f1e43] [cursor=pointer]:
+                  - /url: https://olamet-client.olamet.net/build2/index.html#/share?inviteCode=79DTZ5
+          - article [ref=f1e44]:
+            - generic [aria-hidden] [ref=f1e45]: "2"
+            - generic [ref=f1e46]:
+              - 'heading "Step 2: Register Your Account" [level=3] [ref=f1e47]'
+              - paragraph [ref=f1e48]: Register via Google account or phone number
+          - article [ref=f1e49]:
+            - generic [aria-hidden] [ref=f1e50]: "3"
+            - generic [ref=f1e51]:
+              - 'heading "Step 3: Insert the Verification Code" [level=3] [ref=f1e52]'
+              - paragraph [ref=f1e53]: If you’re using your phone number to register, enter the OTP sent to your device
+          - article [ref=f1e54]:
+            - generic [aria-hidden] [ref=f1e55]: "4"
+            - generic [ref=f1e56]:
+              - 'heading "Step 4: Fill In the Rest of Your Information" [level=3] [ref=f1e57]'
+              - paragraph [ref=f1e58]: Fill in a few additional details such as gender and date of birth.
+          - article [ref=f1e59]:
+            - generic [aria-hidden] [ref=f1e60]: "5"
+            - generic [ref=f1e61]:
+              - 'heading "Step 5: Set Your Password" [level=3] [ref=f1e62]'
+              - paragraph [ref=f1e63]: Finally, create a secure password for your Olamet Live account
+          - article [ref=f1e64]:
+            - paragraph [ref=f1e66]:
+              - strong [ref=f1e67]: "Notes:"
+              - text: For more information, visit our blog
+              - link "right here" [ref=f1e68] [cursor=pointer]:
+                - /url: /blog
+        - button "Olamet Live Streaming Host Workspace and Setup - Click to enlarge" [ref=f1e70]
+    - generic [ref=f1e72]:
+      - generic [ref=f1e73]:
+        - generic [ref=f1e74]: Daily Rewards
+        - heading "Daily Task Rewards for Host" [level=2] [ref=f1e75]
+        - paragraph [ref=f1e76]: Every single day, Olamet offers daily rewards for top performer hosts.
+      - table "Daily Task Rewards for Host Table" [ref=f1e78]:
+        - rowgroup [ref=f1e79]:
+          - row [ref=f1e80]:
+            - columnheader "Level" [ref=f1e81]
+            - columnheader "Gifts Income Requirement" [ref=f1e82]
+            - columnheader "Total Live Hours" [ref=f1e83]
+            - columnheader "Total Calls" [ref=f1e84]
+            - columnheader "Beans Reward" [ref=f1e85]
+        - rowgroup [ref=f1e86]:
+          - row [ref=f1e87]:
+            - cell "1" [ref=f1e88]
+            - cell "84.000" [ref=f1e89]
+            - cell "2" [ref=f1e90]
+            - cell "0" [ref=f1e91]
+            - cell "5000" [ref=f1e92]
+          - row [ref=f1e94]:
+            - cell "2" [ref=f1e95]
+            - cell "175.000" [ref=f1e96]
+            - cell "3" [ref=f1e97]
+            - cell "5" [ref=f1e98]
+            - cell "10.000" [ref=f1e99]
+          - row [ref=f1e101]:
+            - cell "3" [ref=f1e102]
+            - cell "525.000" [ref=f1e103]
+            - cell "5" [ref=f1e104]
+            - cell "10" [ref=f1e105]
+            - cell "30.000" [ref=f1e106]
+          - row [ref=f1e108]:
+            - cell "4" [ref=f1e109]
+            - cell "700.000" [ref=f1e110]
+            - cell "5" [ref=f1e111]
+            - cell "20" [ref=f1e112]
+            - cell "40.000" [ref=f1e113]
+          - row [ref=f1e115]:
+            - cell "5" [ref=f1e116]
+            - cell "1.050.000" [ref=f1e117]
+            - cell "5" [ref=f1e118]
+            - cell "30" [ref=f1e119]
+            - cell "60.000" [ref=f1e120]
+          - row [ref=f1e122]:
+            - cell "6" [ref=f1e123]
+            - cell "1.400.000" [ref=f1e124]
+            - cell "5" [ref=f1e125]
+            - cell "40" [ref=f1e126]
+            - cell "80.000" [ref=f1e127]
+          - row [ref=f1e129]:
+            - cell "7" [ref=f1e130]
+            - cell "2.100.000" [ref=f1e131]
+            - cell "5" [ref=f1e132]
+            - cell "40" [ref=f1e133]
+            - cell "100.000" [ref=f1e134]
+      - generic [ref=f1e136]:
+        - paragraph [ref=f1e137]:
+          - strong [ref=f1e138]: "Notes:"
+        - list [ref=f1e139]:
+          - listitem [ref=f1e140]: The level is determined on last week’s income
+          - listitem [ref=f1e141]: Hosts must complete all the tasks to get the reward
+          - listitem [ref=f1e142]: The host must apply and get approved first.
+        - paragraph [ref=f1e143]:
+          - strong [ref=f1e144]: "How to Withdraw:"
+          - text: To withdraw your earnings please visit this page for the tutorial.
+          - link "Click here for withdrawal guide" [ref=f1e145] [cursor=pointer]:
+            - /url: /agency-cooperation#withdrawal
+          - text: .
+    - generic [ref=f1e147]:
+      - generic [ref=f1e148]:
+        - generic [ref=f1e149]: Community Guidelines
+        - heading "Olamet Host Rules" [level=2] [ref=f1e150]
+        - paragraph [ref=f1e151]: Important rules and requirements for hosts to follow, whether you’re new or have a livestreaming experience.
+      - generic [ref=f1e152]:
+        - article [ref=f1e153]:
+          - generic [ref=f1e154]: "1"
+          - generic [ref=f1e155]:
+            - heading "No Multiple Accounts" [level=4] [ref=f1e156]
+            - paragraph [ref=f1e157]: Hosts are strictly prohibited from registering or operating multiple accounts.
+        - article [ref=f1e158]:
+          - generic [ref=f1e159]: "2"
+          - generic [ref=f1e160]:
+            - heading "Content Policy" [level=4] [ref=f1e161]
+            - paragraph [ref=f1e162]: "Hosts must not showcase pornographic or explicit content during public live broadcasts. (Note: This restriction does not apply to private video calls)."
+        - article [ref=f1e163]:
+          - generic [ref=f1e164]: "3"
+          - generic [ref=f1e165]:
+            - heading "Agency Integrity" [level=4] [ref=f1e166]
+            - paragraph [ref=f1e167]: Hosts must not transfer their account to another agent, nor should an agent induce/persuade a host to create their own independent agency on Olamet.
+        - article [ref=f1e168]:
+          - generic [ref=f1e169]: "4"
+          - generic [ref=f1e170]:
+            - heading "Age Requirement" [level=4] [ref=f1e171]
+            - paragraph [ref=f1e172]: All hosts must be 18 years of age or older to work on the platform.
+    - generic [ref=f1e174]:
+      - generic [ref=f1e175]:
+        - generic [ref=f1e176]: Got Questions?
+        - heading "Frequently Asked Questions" [level=2] [ref=f1e177]
+      - generic [ref=f1e178]:
+        - article [ref=f1e179]:
+          - button "1. How can I register as an Olamet Live Host?" [ref=f1e180] [cursor=pointer]
+          - paragraph [ref=f1e184]: To register as an Olamet Live Host, download the Olamet app from the Google Play Store. Then, create an account using your Google account or phone number.
+        - article [ref=f1e185]:
+          - button "2. Do I need to verify my phone number when registering?" [ref=f1e186] [cursor=pointer]
+          - paragraph [ref=f1e190]: Yes. If you register using your phone number, Olamet will send an OTP verification code to your device.
+        - article [ref=f1e191]:
+          - button "3. How do Olamet Host Daily Task Rewards work?" [ref=f1e192] [cursor=pointer]
+          - generic:
+            - paragraph [ref=f1e196]: Olamet provides daily rewards for top-performing hosts who complete specific performance targets. The reward level is based on your previous week’s income, including requirements such as gift income, live hours, and total calls.
+            - paragraph [ref=f1e197]: Hosts must complete all required tasks for their assigned level to receive the Beans reward. Before joining the reward program, hosts must apply and receive approval first.
+        - article [ref=f1e198]:
+          - button "4. How much can I earn from Daily Task Rewards?" [ref=f1e199] [cursor=pointer]
+          - generic:
+            - paragraph [ref=f1e203]: The reward depends on your achievement level. Hosts can receive rewards starting from 5,000 Beans at Level 1 and up to 100,000 Beans at Level 7 by completing the required gift income, live hours, and call targets.
+            - paragraph [ref=f1e204]: Higher performance levels provide higher Beans rewards.
+        - article [ref=f1e205]:
+          - button "5. What are the rules for Olamet Live Hosts?" [ref=f1e206] [cursor=pointer]
+          - paragraph [ref=f1e210]: Olamet hosts must follow platform rules to maintain a safe and professional community. Hosts are required to use only one account, avoid prohibited explicit content during public live broadcasts, and must not transfer accounts or encourage hosts to leave their agency system. All hosts must also be 18 years old or older to work on Olamet.
+    - generic [ref=f1e213]:
+      - heading "Become an Official Olamet Host Right Now" [level=2] [ref=f1e214]
+      - link "Become a Host" [ref=f1e216] [cursor=pointer]:
+        - /url: https://olamet-client.olamet.net/build2/index.html#/memberInvitation?key=6c46753b47532ae24bd082a7c2810610&guildName=We&nick=We&lang=en
+  - contentinfo [ref=f1e217]:
+    - generic [ref=f1e218]:
+      - generic [ref=f1e219]:
+        - generic [ref=f1e220]:
+          - link "Olamet Home" [ref=f1e221] [cursor=pointer]:
+            - /url: /
+            - img "Olamet Logo" [ref=f1e222]
+            - generic [ref=f1e223]: Olamet
+          - paragraph [ref=f1e224]: One App. Two Ways to Earn from Anywhere.
+          - generic "Social Media Links" [ref=f1e225]:
+            - link "Email" [ref=f1e226] [cursor=pointer]:
+              - /url: mailto:olamet994@gmail.com
+            - link "Telegram" [ref=f1e230] [cursor=pointer]:
+              - /url: https://telegram.me/olametappservice
+            - link "Instagram" [ref=f1e234] [cursor=pointer]:
+              - /url: https://instagram.com/olametagency
+            - link "TikTok" [ref=f1e238] [cursor=pointer]:
+              - /url: https://tiktok.com/@olametapp
+            - link "WhatsApp" [ref=f1e241] [cursor=pointer]:
+              - /url: https://wa.me/6285353344593
+            - link "Official Website" [ref=f1e244] [cursor=pointer]:
+              - /url: https://olametapp.com
+          - generic "Download App" [ref=f1e248]:
+            - link "Download on Google Play Store" [ref=f1e249] [cursor=pointer]:
+              - /url: https://olamet-client.olamet.net/build2/index.html#/share?inviteCode=79DTZ5
+              - generic [ref=f1e252]: Play Store
+            - link "Download on Apple App Store" [ref=f1e253] [cursor=pointer]:
+              - /url: https://olamet-client.olamet.net/build2/index.html#/share?inviteCode=79DTZ5
+              - generic [ref=f1e256]: App Store
+        - generic [ref=f1e257]:
+          - heading "Quick Links" [level=4] [ref=f1e258]
+          - list [ref=f1e259]:
+            - listitem [ref=f1e260]:
+              - link "Agency Cooperation" [ref=f1e261] [cursor=pointer]:
+                - /url: /agency-cooperation
+            - listitem [ref=f1e262]:
+              - link "Host Cooperation" [ref=f1e263] [cursor=pointer]:
+                - /url: /host-cooperation
+            - listitem [ref=f1e264]:
+              - link "About Us" [ref=f1e265] [cursor=pointer]:
+                - /url: /about-us
+            - listitem [ref=f1e266]:
+              - link "Blog" [ref=f1e267] [cursor=pointer]:
+                - /url: https://olametapp.com/blog/
+            - listitem [ref=f1e268]:
+              - link "Privacy Policy" [ref=f1e269] [cursor=pointer]:
+                - /url: https://olametapp.com/privacy-policy/
+            - listitem [ref=f1e270]:
+              - link "Sign in" [ref=f1e271] [cursor=pointer]:
+                - /url: https://h5.olamet.net
+        - generic [ref=f1e272]:
+          - heading "Contact & Support" [level=4] [ref=f1e273]
+          - list [ref=f1e274]:
+            - listitem [ref=f1e275]:
+              - link "olamet994@gmail.com (Email)" [ref=f1e276] [cursor=pointer]:
+                - /url: mailto:olamet994@gmail.com
+            - listitem [ref=f1e277]:
+              - link "+62 853-5334-4593 (WhatsApp)" [ref=f1e278] [cursor=pointer]:
+                - /url: https://wa.me/+6285353344593
+            - listitem [ref=f1e279]:
+              - link "+62 821-1812-261 (WhatsApp)" [ref=f1e280] [cursor=pointer]:
+                - /url: https://wa.me/+628211812261
+            - listitem [ref=f1e281]:
+              - link "telegram.me/olametappservice (Telegram)" [ref=f1e282] [cursor=pointer]:
+                - /url: https://telegram.me/olametappservice
+            - listitem [ref=f1e283]:
+              - link "@olametagency (Instagram)" [ref=f1e284] [cursor=pointer]:
+                - /url: https://www.instagram.com/olametagency
+            - listitem [ref=f1e285]:
+              - link "@olametapp (TikTok)" [ref=f1e286] [cursor=pointer]:
+                - /url: https://www.tiktok.com/@olametapp
+      - paragraph [ref=f1e288]: © 2023–2026 Olamet Agency. All rights reserved.

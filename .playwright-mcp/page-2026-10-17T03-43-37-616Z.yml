@@ -1,0 +1,120 @@
+- generic [active] [ref=f2e1]:
+  - banner:
+    - navigation "Main Navigation" [ref=f2e2]:
+      - link "Olamet Home" [ref=f2e3] [cursor=pointer]:
+        - /url: /
+        - img "Olamet Logo" [ref=f2e4]
+        - generic [ref=f2e5]: Olamet
+      - generic [ref=f2e6]:
+        - link "Sign in" [ref=f2e7] [cursor=pointer]:
+          - /url: https://h5.olamet.net
+        - button "Toggle navigation menu" [ref=f2e8] [cursor=pointer]
+  - main [ref=f2e16]:
+    - article [ref=f2e19]:
+      - generic [ref=f2e20]: Terms of Service
+      - heading "Olamet Service" [level=1] [ref=f2e21]
+      - paragraph [ref=f2e22]: These Terms of Service apply to all users of the Olamet Service. Olamet provided status information may contain links to third party websites that are not owned or controlled by Olamet . Olamet has no control over, and assumes no responsibility for, the content, privacy policies, or practices of any third party websites. In addition, Olamet will not and cannot censor or edit the content of any third-party site. By using the Service, you expressly acknowledge and agree that Olamet shall not be responsible for any damages, claims or other liability arising from or related to your use of any third-party website.
+      - generic [ref=f2e23]:
+        - heading "Olamet Access" [level=2] [ref=f2e24]
+        - paragraph [ref=f2e26]: "1.Subject to your compliance with these Terms of Service, Olamet hereby grants you permission to use the Service, provided that: (1) your use of the Service as permitted is solely for your personal, noncommercial use; (2) you will not duplicate, transfer, give access to, copy or distribute any part of the Service in any medium without Olamet ‘s prior written authorization; (3) you will not attempt to reverse engineer, alter or modify any part of the Service; and (4) you will otherwise comply with the terms and conditions of these Terms of Service."
+        - paragraph [ref=f2e28]: 2. In order to access and use the features of the Service, you acknowledge and agree that you will have to provide Olamet with your phone number, as well as the phone numbers of third parties whom you wish to use the Service with. When providing your phone number, you must provide accurate and complete information. You hereby give your express consent to Olamet to use the phone numbers you provide for use in providing you access and use of the Service. You may never use another person’s phone number without their permission. You are solely responsible for the status message that is displayed for your phone number. You must notify Olamet immediately of any breach of security or unauthorized use of your phone. Although Olamet will not be liable for your losses caused by any unauthorized use of your account, you may be liable for the losses of Olamet or others due to such unauthorized use.
+      - generic [ref=f2e29]:
+        - heading "Intellectual Property Rights" [level=2] [ref=f2e30]
+        - paragraph [ref=f2e32]: The design of the Olamet Service along with all text, scripts, graphics (including stickers), interactive features and the like made available in connection with the Olamet Service (collectively, the “Olamet Client and Content”), except all User Status Submissions (as defined below), and the trademarks, service marks and logos contained therein (“Marks”), are owned by or licensed to Olamet , subject to copyright and other intellectual property rights under British Virgin Islands and foreign laws and international conventions. Subject to these Terms of Service, you are granted a personal, non-exclusive, non-transferable, revocable, limited license to install and use, only in connection with the Service, the Olamet Client and Content for personal and non-commercial purposes only. The Service, including the Olamet Client and Content, is provided to you as is for your information and personal non-commercial use only. Olamet reserves all rights not expressly granted in and to the Service and the Olamet Client and Content. You agree to not engage in the use, copying, distribution or other exploitation of any of the Olamet Client and Content other than expressly permitted herein, including any use, copying, or distribution of User Status Submissions of third parties obtained through the Service for any commercial purposes. You further agree not to use the Olamet Client and Content in a manner that would infringe or violate the rights of any third party and that we are not in any way responsible for any such use by you.
+      - generic [ref=f2e33]:
+        - heading "User Status Submissions" [level=2] [ref=f2e34]
+        - paragraph [ref=f2e36]: 1. The Olamet Service permits the submission of status text and other communications submitted by you and other users (“User Status Submissions”) and the hosting, sharing, and/or publishing of such User Status Submissions. As clarified in the following section, you retain your ownership rights in your User Status Submissions. You understand that whether or not such User Status Submissions are published, Olamet does not guarantee any confidentiality with respect to any submissions.
+        - paragraph [ref=f2e38]: "2. You shall be solely responsible for your own User Status Submissions and the consequences of posting or publishing them. Because Olamet is only acting as a repository of data, user submitted statuses do not necessarily represent the views or opinions of Olamet , and Olamet makes no guarantees as to the validity, accuracy or legal status of any status. In connection with User Status Submissions, you affirm, represent, and/or warrant that: (i) you own or have the necessary licenses, rights, consents, and permissions to use and authorize Olamet to use all patent, trademark, trade secret, copyright or other proprietary rights in and to any and all User Status Submissions to enable inclusion and use of the User Status Submissions in the manner contemplated by the Service and these Terms of Service; and (ii) you have the written consent, release, and/or permission of each and every identifiable individual person in the User Status Submission to use the name or likeness of each and every such identifiable individual person to enable inclusion and use of the User Status Submissions in the manner contemplated by the Service and these Terms of Service. To be clear: you retain all of your ownership rights in your User Status Submissions, but you have to have the rights in the first place. However, by submitting the User Status Submissions to Olamet Live, you hereby grant Olamet a worldwide, non-exclusive, royalty-free, sub-licensable and transferable license to use, reproduce, distribute, prepare derivative works of, display, and perform the User Status Submissions in connection with the Olamet Service and Olamet ‘s (and its successor’s) business, including without limitation for promoting and redistributing part or all of the Olamet Service (and derivative works thereof) in any media formats and through any media channels. You also hereby grant each subscriber to your status on the Olamet Service a non-exclusive license to access your User Status Submissions through the Service, Email, and mobile phone and to display parts of User Status Submissions as permitted through the functionality of the Service and under these Terms of Service. The foregoing license granted by you terminates once you remove or delete a User Status Submission from the Olamet Service."
+        - paragraph [ref=f2e40]: "3. In connection with User Status Submissions, you further agree that you will not: (1) submit material that is copyrighted, protected by trade secret or otherwise subject to third party proprietary rights, including privacy and publicity rights, unless you are the owner of such rights or have permission from their rightful owner to post the material and to grant Olamet all of the license rights granted herein; (2) publish falsehoods or misrepresentations that could damage Olamet Live or any third party; (3) submit material that is unlawful, obscene, defamatory, libelous, threatening, harassing, hateful, racially or ethnically offensive, or encourages conduct that would be considered a criminal offense, give rise to civil liability, violate any law, or is otherwise inappropriate; (4) post advertisements or solicitations of business; (5) impersonate another person; (6) send or store material containing software viruses, worms, Trojan horses or other harmful computer code, files, scripts, agents or programs; (7) interfere with or disrupt the integrity or performance of the Service or the data contained therein; or (8) attempt to gain unauthorized access to the Service or its related systems or networks."
+        - paragraph [ref=f2e42]: 4. Adult content must be identified as such. Olamet does not endorse any User Status Submission or any opinion, recommendation, or advice expressed therein, and Olamet expressly disclaims any and all liability in connection with User Status Submissions. Olamet does not permit copyright infringing activities and infringement of intellectual property rights via its Service, and Olamet Live will remove all Content and User Status Submissions if properly notified that such Content or User Status Submission infringes on another’s intellectual property rights. Olamet reserves the right to remove Content and User Status Submissions without prior notice. Olamet may also terminate a user’s access to its Service, if they are determined to be a repeat infringer, or for any or no reason, including being annoying. A repeat infringer is a User who has been notified of infringing activity more than once and/or has had a User Status Submission removed from the Website more than twice. An annoying person is anyone who is (capriciously or not) determined to be annoying by authorized Olamet employees, agents, subagents, or super agents. Olamet also reserves the right to decide whether content or a User Status Submission is appropriate and complies with these Terms of Service for violations other than copyright infringement and violations of intellectual property law, such as, but not limited to excessive length or limited interest. Olamet may remove such User Status Submissions and/or terminate a User’s access for uploading such material in violation of these Terms of Service at any time, without prior notice and at its sole discretion.
+        - paragraph [ref=f2e44]: 5. You understand that when using the Olamet Service you will be exposed to User Status Submissions from a variety of sources, and that Olamet is not responsible for the accuracy, usefulness, safety, or intellectual property rights of or relating to such User Status Submissions, and that such User Status Submissions are not the responsibility of Olamet . You further understand and acknowledge that you may be exposed to User Status Submissions that are inaccurate, offensive, indecent, or objectionable, and you agree to waive, and hereby do waive, any legal or equitable rights or remedies you have or may have against Olamet with respect thereto, and agree to indemnify and hold Olamet , its Owners/Operators, affiliates, and/or licensors, harmless to the fullest extent allowed by law regarding all matters related to your use of the site.
+        - paragraph [ref=f2e46]: 6. Olamet permits you to link to materials on the Service for personal, non-commercial purposes only. Commercial versions are available under separate licensing and terms. Olamet reserves the right to discontinue any aspect of the Olamet Service at any time. YOU agree THAT YOUR USE OF THE Olamet SERVICE SHALL BE AT YOUR SOLE RISK. TO THE FULLEST EXTENT PERMITTED BY LAW, Olamet , ITS OFFICERS, DIRECTORS, EMPLOYEES, AND AGENTS DISCLAIM ALL WARRANTIES,EXPRESS OR IMPLIED, IN CONNECTION WITH THE SERVICE AND YOUR USE THEREOF. Olamet MAKES NO WARRANTIES OR REPRESENTATIONS ABOUT THE ACCURACY OR COMPLETENESS OF THIS SERVICE’S CONTENT AND ASSUMES NO LIABILITY OR RESPONSIBILITY FOR ANY (I) ERRORS, MISTAKES, OR INACCURACIES OF CONTENT, (II) PERSONAL INJURY OR PROPERTY DAMAGE, OF ANY NATURE WHATSOEVER, RESULTING FROM YOUR ACCESS TO AND USE OF OUR SERVICE, (III) ANY UNAUTHORIZED ACCESS TO OR USE OF OUR SERVERS AND/OR ANY AND ALL PERSONAL INFORMATION AND/OR FINANCIAL INFORMATION STORED THEREIN, (IV) ANY INTERRUPTION OR CESSATION OF TRANSMISSION TO OR FROM OUR SERVICE, (IV) ANY BUGS, VIRUSES, TROJAN HORSES, OR THE LIKE WHICH MAY BE TRANSMITTED TO OR THROUGH OUR SERVICE THROUGH THE ACTIONS OF ANY THIRD PARTY, AND/OR (V) ANY ERRORS OR OMISSIONSIN ANY CONTENT OR FOR ANY LOSS OR DAMAGE OF ANY KIND INCURRED AS A RESULT OF THE USE OF ANY CONTENT POSTED, EMAILED, TRANSMITTED, OR OTHERWISE MADE AVAILABLE VIA THE Olamet SERVICE. Olamet DOES NOT WARRANT, ENDORSE, GUARANTEE, OR ASSUME RESPONSIBILITY FOR ANY PRODUCT OR SERVICE ADVERTISED OR OFFERED BY A THIRD PARTY THROUGH THE Olamet SERVICE OR ANY HYPERLINKED WEBSITE OR FEATURED IN ANY USER STATUS SUBMISSION OR OTHER ADVERTISING, AND Olamet WILL NOT BE A PARTY TO OR IN ANY WAY BE RESPONSIBLE FOR MONITORING ANY TRANSACTION BETWEEN YOU AND THIRD-PARTY PROVIDERS OF PRODUCTS OR SERVICES. AS WITH THE PURCHASE OF A PRODUCT OR SERVICE THROUGH ANY MEDIUM OR IN ANY ENVIRONMENT, YOU SHOULD USE YOUR BEST JUDGMENT AND EXERCISE CAUTION WHERE APPROPRIATE. AND AGAIN, USE THIS JUST FOR FUN.
+      - generic [ref=f2e47]:
+        - heading "Limitation of Liability" [level=2] [ref=f2e48]
+        - paragraph [ref=f2e50]: IN NO EVENT SHALL Olamet , ITS OFFICERS, DIRECTORS, EMPLOYEES, OR AGENTS, BE LIABLE TO YOU FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, PUNITIVE, OR CONSEQUENTIAL DAMAGES WHATSOEVER RESULTING FROM ANY (1) ERRORS, MISTAKES, OR INACCURACIES OF CONTENT, (2) PERSONAL INJURY OR PROPERTY DAMAGE, OF ANY NATURE WHATSOEVER, RESULTING FROM YOUR ACCESS TO AND USE OF OUR SERVICE, (3) ANY UNAUTHORIZED ACCESS TO OR USE OF OUR SECURE SERVERS AND/OR ANY AND ALL PERSONAL INFORMATION AND/OR FINANCIAL INFORMATION STORED THEREIN, (IV) ANY INTERRUPTION OR CESSATION OF TRANSMISSION TO OR FROM OUR SERVERS, (IV) ANY BUGS, VIRUSES, TROJAN HORSES, OR THE LIKE, WHICH MAY BE TRANSMITTED TO OR THROUGH OUR SERVICE BY ANY THIRD PARTY, AND/OR (V) ANY ERRORS OR OMISSIONS IN ANY CONTENT OR FOR ANY LOSS OR DAMAGE OF ANY KIND INCURRED AS A RESULT OF YOUR USE OF ANY CONTENT POSTED, EMAILED, TRANSMITTED, OR OTHERWISE MADE AVAILABLE VIA THE Olamet CLIENT AND CONTENT, WHETHER BASED ON WARRANTY, CONTRACT, TORT, OR ANY OTHER LEGAL THEORY, AND WHETHER OR NOT THE COMPANY IS ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. THE FOREGOING LIMITATION OF LIABILITY SHALL APPLY TO THE FULLEST EXTENT PERMITTED BY LAW IN THE APPLICABLE JURISDICTION. YOU SPECIFICALLY ACKNOWLEDGE THAT Olamet SHALL NOT BE LIABLE FOR USER SUBMISSIONS OR THE DEFAMATORY, OFFENSIVE, OR ILLEGAL CONDUCT OF ANY THIRD PARTY AND THAT THE RISK OF HARM OR DAMAGE FROM THE FOREGOING RESTS ENTIRELY WITH YOU. YOU AGREE THAT YOU WILL NOT USE THE PRODUCT WHILE OPERATING A MOTOR VEHICLE, FOR TIME-CRITICAL OR EMERGENCY SERVICES OR EVENT OR FOR ANY OPERATION WHERE INJURY, DEATH, OR ECONOMIC DAMAGE COULD OCCUR. Olamet makes no representations that the Olamet Service is appropriate or available for use in all the locations. Those who access Olamet or use the Olamet Service from other jurisdictions do so at their own volition and are responsible for compliance with local law.
+      - generic [ref=f2e51]:
+        - heading "Indemnity" [level=2] [ref=f2e52]
+        - paragraph [ref=f2e54]: "You agree to defend, indemnify and hold harmless Olamet , its parent corporation, officers, directors, employees and agents, from and against any and all claims, damages, obligations, losses, liabilities, costs or debt, and expenses (including but not limited to attorney’s fees) arising from: (i) your use of and access to the Olamet Service; (ii) your violation of any term of these Terms of Service; (iii) your violation of any third party right, including without limitation any copyright, property, or privacy right; or (iv) any claim that one of your User Status Submissions caused damage to a third party. This defense and indemnification obligation will survive these Terms of Service and your use of the Olamet Service. We don’t support or encourage illegal consumption of alcohol or tobacco."
+      - generic [ref=f2e55]:
+        - heading "Assignment" [level=2] [ref=f2e56]
+        - paragraph [ref=f2e58]: These Terms of Service, and any rights and licenses granted hereunder, may not be transferred or assigned by you, but may be assigned by Olamet without restriction.
+      - generic [ref=f2e59]:
+        - heading "General" [level=2] [ref=f2e60]
+        - paragraph [ref=f2e62]: "You agree that: (i) the Olamet Service shall be deemed a passive server that does not give rise to personal jurisdiction over Olamet , either specific or general, in jurisdictions other than Hong Kong; and (iii) that you agree to subject to the jurisdiction of Hong Kong in the event of any legal dispute. These Terms of Service shall be governed by the internal substantive laws of Hong Kong, without respect to its conflict of laws principles. Any claim or dispute between you and Olamet Live that arises in whole or in part from the Olamet Service shall be decided exclusively by a court of competent jurisdiction located in Hong Kong. Privacy and any other legal notices published by Olamet , shall constitute the entire agreement between you and Olamet concerning the Olamet Live Service. If any provision of these Terms of Service is deemed invalid by a court of competent jurisdiction, the invalidity of such provision shall not affect the validity of the remaining provisions of these Terms of Service, which shall remain in full force and effect. No waiver of any term of this these Terms of Service shall be deemed a further or continuing waiver of such term or any other term, and Sweet chat’s failure to assert any right or provision under these Terms of Service shall not constitute a waiver of such right or provision. Olamet reserves the right to amend or modify these Terms of Service at any time, and it is your responsibility to review these Terms of Service for any changes. Your use of the Olamet Service following any amendment of these Terms of Service will signify your assent to and acceptance of its revised terms. YOU AND Olamet AGREE THAT ANY CAUSE OF ACTION ARISING OUT OF OR RELATED TO THE Olamet SERVICE MUST COMMENCE WITHIN ONE (1) YEAR AFTER THE CAUSE OF ACTION ACCRUES. OTHERWISE, SUCH CAUSE OF ACTION IS PERMANENTLY BARRED."
+      - generic [ref=f2e63]:
+        - paragraph [ref=f2e64]: "Terms last updated: April, 2021."
+        - paragraph [ref=f2e65]: Olamet Is governed by the laws of Hong Kong
+        - paragraph [ref=f2e66]: Company：HULE TECHNOLOGY GROUP LIMITED
+        - paragraph [ref=f2e67]: Addees：FLAT/RM A 12/F,KIU FU COMM BLDG,300 LOCKHART RD, WAN CHAI, HONG KONG
+  - contentinfo [ref=f2e68]:
+    - generic [ref=f2e69]:
+      - generic [ref=f2e70]:
+        - generic [ref=f2e71]:
+          - link "Olamet Home" [ref=f2e72] [cursor=pointer]:
+            - /url: /
+            - img "Olamet Logo" [ref=f2e73]
+            - generic [ref=f2e74]: Olamet
+          - paragraph [ref=f2e75]: One App. Two Ways to Earn from Anywhere.
+          - generic "Social Media Links" [ref=f2e76]:
+            - link "Email" [ref=f2e77] [cursor=pointer]:
+              - /url: mailto:olamet994@gmail.com
+            - link "Telegram" [ref=f2e81] [cursor=pointer]:
+              - /url: https://telegram.me/olametappservice
+            - link "Instagram" [ref=f2e85] [cursor=pointer]:
+              - /url: https://instagram.com/olametagency
+            - link "TikTok" [ref=f2e89] [cursor=pointer]:
+              - /url: https://tiktok.com/@olametapp
+            - link "WhatsApp" [ref=f2e92] [cursor=pointer]:
+              - /url: https://wa.me/6285353344593
+            - link "Official Website" [ref=f2e95] [cursor=pointer]:
+              - /url: https://olametapp.com
+          - generic "Download App" [ref=f2e99]:
+            - link "Download on Google Play Store" [ref=f2e100] [cursor=pointer]:
+              - /url: https://olamet-client.olamet.net/build2/index.html#/share?inviteCode=79DTZ5
+              - generic [ref=f2e103]: Play Store
+            - link "Download on Apple App Store" [ref=f2e104] [cursor=pointer]:
+              - /url: https://olamet-client.olamet.net/build2/index.html#/share?inviteCode=79DTZ5
+              - generic [ref=f2e107]: App Store
+        - generic [ref=f2e108]:
+          - heading "Quick Links" [level=4] [ref=f2e109]
+          - list [ref=f2e110]:
+            - listitem [ref=f2e111]:
+              - link "Agency Cooperation" [ref=f2e112] [cursor=pointer]:
+                - /url: /agency-cooperation
+            - listitem [ref=f2e113]:
+              - link "Host Cooperation" [ref=f2e114] [cursor=pointer]:
+                - /url: /host-cooperation
+            - listitem [ref=f2e115]:
+              - link "About Us" [ref=f2e116] [cursor=pointer]:
+                - /url: /about-us
+            - listitem [ref=f2e117]:
+              - link "Blog" [ref=f2e118] [cursor=pointer]:
+                - /url: https://olametapp.com/blog/
+            - listitem [ref=f2e119]:
+              - link "Privacy Policy" [ref=f2e120] [cursor=pointer]:
+                - /url: https://olametapp.com/privacy-policy/
+            - listitem [ref=f2e121]:
+              - link "Sign in" [ref=f2e122] [cursor=pointer]:
+                - /url: https://h5.olamet.net
+        - generic [ref=f2e123]:
+          - heading "Contact & Support" [level=4] [ref=f2e124]
+          - list [ref=f2e125]:
+            - listitem [ref=f2e126]:
+              - link "olamet994@gmail.com (Email)" [ref=f2e127] [cursor=pointer]:
+                - /url: mailto:olamet994@gmail.com
+            - listitem [ref=f2e128]:
+              - link "+62 853-5334-4593 (WhatsApp)" [ref=f2e129] [cursor=pointer]:
+                - /url: https://wa.me/+6285353344593
+            - listitem [ref=f2e130]:
+              - link "+62 821-1812-261 (WhatsApp)" [ref=f2e131] [cursor=pointer]:
+                - /url: https://wa.me/+628211812261
+            - listitem [ref=f2e132]:
+              - link "telegram.me/olametappservice (Telegram)" [ref=f2e133] [cursor=pointer]:
+                - /url: https://telegram.me/olametappservice
+            - listitem [ref=f2e134]:
+              - link "@olametagency (Instagram)" [ref=f2e135] [cursor=pointer]:
+                - /url: https://www.instagram.com/olametagency
+            - listitem [ref=f2e136]:
+              - link "@olametapp (TikTok)" [ref=f2e137] [cursor=pointer]:
+                - /url: https://www.tiktok.com/@olametapp
+      - paragraph [ref=f2e139]: © 2023–2026 Olamet Agency. All rights reserved.

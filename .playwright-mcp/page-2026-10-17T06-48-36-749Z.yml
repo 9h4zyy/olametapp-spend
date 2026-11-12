@@ -1,0 +1,310 @@
+- generic [active] [ref=e1]:
+  - banner:
+    - generic [ref=e2]:
+      - link "Hala Live Home" [ref=e3] [cursor=pointer]:
+        - /url: /hala-live
+        - img "Hala Live Official Logo" [ref=e4]
+      - navigation "Main Navigation" [ref=e5]:
+        - link "Home" [ref=e6] [cursor=pointer]:
+          - /url: /hala-live
+        - button "Agency" [ref=e8] [cursor=pointer]
+        - button "Host" [ref=e13] [cursor=pointer]
+        - link "News" [ref=e17] [cursor=pointer]:
+          - /url: /category/blog/
+        - link "Contact" [ref=e18] [cursor=pointer]:
+          - /url: /contact
+      - button "Join Hala" [ref=e21] [cursor=pointer]
+  - main [ref=e25]:
+    - generic [ref=e26]:
+      - text: HALA
+      - generic [ref=e28]:
+        - generic [ref=e29]:
+          - generic [ref=e30]: Official Hala Agency Partnership
+          - heading "Become an Official Hala Agency" [level=1] [ref=e33]
+          - paragraph [ref=e34]: Invite other users to grow your team and earnings with hosts from all over the world.
+          - generic [ref=e35]:
+            - link "Learn More" [ref=e36] [cursor=pointer]:
+              - /url: "#register"
+            - link "Register Agency" [ref=e37] [cursor=pointer]:
+              - /url: https://web.hehala.com/h5/index.html#/share_agentPage?uid=2088653
+        - generic [ref=e38]:
+          - generic [ref=e45]:
+            - generic [ref=e46]: Agency Hub
+            - generic [ref=e47]: Build Your Team
+          - generic [ref=e54]:
+            - generic [ref=e55]: Fast Weekly Payout
+            - generic [ref=e56]: High Commission Rate
+          - img "Become an Official Hala Agency" [ref=e58]
+    - generic [ref=e60]:
+      - generic [ref=e61]:
+        - heading "How to Register Your Hala Agency" [level=2] [ref=e62]
+        - paragraph [ref=e63]: Complete simple steps to set up your agency and start onboarding hosts
+      - generic [ref=e64]:
+        - generic [ref=e65]:
+          - generic [ref=e66]: "1"
+          - 'heading "Step 1: Open “Agency Center” on your profile" [level=3] [ref=e67]'
+          - paragraph [ref=e68]: Download the
+        - generic [ref=e69]:
+          - generic [ref=e70]: "2"
+          - 'heading "Step 2: Click “Create an Agency”" [level=3] [ref=e71]'
+          - paragraph [ref=e72]: Locate and tap the agency creation option in your user menu to initialize registration.
+        - generic [ref=e73]:
+          - generic [ref=e74]: "3"
+          - 'heading "Step 3: Input all the agency information" [level=3] [ref=e75]'
+          - paragraph [ref=e76]: Fill in the required profile credentials, country details, and contact numbers accurately.
+        - generic [ref=e77]:
+          - generic [ref=e78]: "4"
+          - 'heading "Step 4: Choose your admin then ask for your admin approval" [level=3] [ref=e79]'
+          - paragraph [ref=e80]: Submit your verification code and await swift verification from the platform administration.
+      - generic [ref=e81]:
+        - img "Hala Agency Registration Guidance Slide" [ref=e83]
+        - generic [ref=e84]:
+          - generic [ref=e85]: Official In-App Registration Flow
+          - generic [ref=e89]: Click image to zoom
+    - generic [ref=e91]:
+      - generic [ref=e92]:
+        - heading "Hala Agency Commission" [level=2] [ref=e93]
+        - paragraph [ref=e94]: Transparent tiered commission framework designed to maximize your income
+      - generic [ref=e95]:
+        - heading "Commission Table" [level=3] [ref=e96]
+        - table [ref=e98]:
+          - rowgroup [ref=e99]:
+            - row [ref=e100]:
+              - columnheader "Level" [ref=e101]
+              - columnheader "Total Income (past 30 days)" [ref=e102]
+              - columnheader "Commission Rate" [ref=e103]
+          - rowgroup [ref=e104]:
+            - row [ref=e105]:
+              - cell "D" [ref=e106]
+              - cell "0 - 2M" [ref=e108]
+              - cell [ref=e109]:
+                - strong [ref=e110]: 4%
+            - row [ref=e111]:
+              - cell "C" [ref=e112]
+              - cell "2M - 10M" [ref=e114]
+              - cell [ref=e115]:
+                - strong [ref=e116]: 8%
+            - row [ref=e117]:
+              - cell "B" [ref=e118]
+              - cell "10M - 50M" [ref=e120]
+              - cell [ref=e121]:
+                - strong [ref=e122]: 12%
+            - row [ref=e123]:
+              - cell "A" [ref=e124]
+              - cell "50 - 150M" [ref=e126]
+              - cell [ref=e127]:
+                - strong [ref=e128]: 16%
+            - row [ref=e129]:
+              - cell "S" [ref=e130]
+              - cell "150M+" [ref=e132]
+              - cell [ref=e133]:
+                - strong [ref=e134]: 20%
+        - generic [ref=e135]:
+          - heading "Notes:" [level=4] [ref=e136]
+          - list [ref=e137]:
+            - listitem [ref=e138]: Total income = Your agency income + Each of your sub-agencies income
+            - listitem [ref=e139]: Agency ratio will be credited in real-time when the host receives a gift.
+      - generic [ref=e140]:
+        - generic [ref=e141]:
+          - generic [ref=e142]: Host Revenue
+          - heading "Commission from Host" [level=3] [ref=e143]
+          - paragraph [ref=e144]: Agent earns a percentage of their hosts’ total earnings (excluding their platform rewards, rankings, tasks, etc.)
+          - generic [ref=e145]:
+            - paragraph [ref=e146]: "How to calculate commission from only hosts:"
+            - paragraph [ref=e147]: 1. Total Income × commission rate
+        - generic [ref=e148]:
+          - generic [ref=e149]: Sub-agent Revenue
+          - heading "Commission from Sub-agent" [level=3] [ref=e150]
+          - paragraph [ref=e151]: Agents also earn a percentage of their sub-agents’ total earnings.
+          - generic [ref=e152]:
+            - paragraph [ref=e153]: "How to calculate commission from sub-agents:"
+            - paragraph [ref=e154]: (Your agency ratio − Sub-agency ratio rate) × Your total income.
+      - generic [ref=e155]:
+        - heading "Commission Calculation Example" [level=3] [ref=e156]
+        - img "Hala Agency Commission Calculation Hierarchy Diagram" [ref=e158]
+        - generic [ref=e159]:
+          - generic [ref=e160]:
+            - heading "Total Valid Incomes" [level=4] [ref=e161]
+            - list [ref=e162]:
+              - listitem [ref=e163]:
+                - strong [ref=e164]: Agency A’s total valid income
+                - text: = Agency A + Sub-agency B + C + D + E + F (10M + 20M + 70M + 20M + 30M + 80M) =
+                - strong [ref=e165]: 230M
+                - text: Therefore, Agency A’s ratio rate is
+                - strong [ref=e166]: 20%
+                - text: (refer to the table in section 1)
+              - listitem [ref=e167]:
+                - strong [ref=e168]: Agency B’s total valid income
+                - text: = B + D + E 20M + 20M + 30M =
+                - strong [ref=e169]: 70M
+                - text: Therefore, Agency B’s ratio rate is
+                - strong [ref=e170]: 16%
+              - listitem [ref=e171]:
+                - strong [ref=e172]: Agency C’s total valid income
+                - text: = C + F 70M + 80M =
+                - strong [ref=e173]: 150M
+                - text: Therefore, Agency C’s ratio rate is
+                - strong [ref=e174]: 20%
+          - generic [ref=e175]:
+            - heading "Commission Calculations" [level=4] [ref=e176]
+            - list [ref=e177]:
+              - listitem [ref=e178]:
+                - text: Agency A's ratio from Agency B = (20% − 16%) × (20M + 20M + 30M) = 2.8M Agency A's ratio from Agency C = (20% − 20%) × (70M + 80M) = 0 Therefore, Agency A's total ratio from sub-agencies is
+                - strong [ref=e179]: 2.8M + 0 = 2.8M = $280 USD
+              - listitem [ref=e180]:
+                - text: Agency B's ratio from Agency D = (16% − 12%) × 20M = 0.8M Agency B's ratio from Agency E = (16% − 12%) × 30M = 1.2M Therefore, Agency B's total ratio from sub-agencies is
+                - strong [ref=e181]: 0.8M + 1.2M = 2M = $200 USD
+              - listitem [ref=e182]:
+                - text: Agency C's ratio from Agency F = (20% − 16%) × 80M = 3.2M Therefore, Agency C's total ratio from sub-agencies is
+                - strong [ref=e183]: 3.2M = $320 USD
+              - listitem [ref=e184]: Since Agency D, E, and F have no sub-agency, they don’t earn sub-agency ratio.
+    - generic [ref=e186]:
+      - generic [ref=e187]:
+        - heading "How to Withdraw Hala Earnings" [level=2] [ref=e188]
+        - paragraph [ref=e189]: Straightforward withdrawal flow straight to your preferred payment account
+      - generic [ref=e190]:
+        - generic [ref=e191]:
+          - 'img "Step 1: Open your profile and click your Points" [ref=e193]'
+          - 'heading "Step 1: Open your profile and click your “Points”" [level=3] [ref=e194]'
+        - generic [ref=e195]:
+          - 'img "Step 2: Click the Currency menu" [ref=e197]'
+          - 'heading "Step 2: Click the “Currency” menu" [level=3] [ref=e198]'
+        - generic [ref=e199]:
+          - 'img "Step 3: Choose your currency" [ref=e201]'
+          - 'heading "Step 3: Choose your currency" [level=3] [ref=e202]'
+        - generic [ref=e203]:
+          - 'img "Step 4: Choose your payment method and enter the amount" [ref=e205]'
+          - 'heading "Step 4: Choose your payment method and enter the amount" [level=3] [ref=e206]'
+      - generic [ref=e207]:
+        - generic [ref=e208]:
+          - heading "Complete Hala Live Agent & Host Tutorials" [level=3] [ref=e209]
+          - paragraph [ref=e210]: Swipe or click arrows to explore the visual step-by-step guidance slides
+        - generic [ref=e211]:
+          - generic [ref=e213]:
+            - generic [ref=e214]:
+              - 'img "Part 1: How to Become a Host" [ref=e215]'
+              - generic [ref=e216]: "Part 1: How to Become a Host"
+            - generic [ref=e217]:
+              - 'img "Part 2: How to Become an Agent" [ref=e218]'
+              - generic [ref=e219]: "Part 2: How to Become an Agent"
+            - generic [ref=e220]:
+              - 'img "Part 3: Inviting Hosts & Sub-agents Methods" [ref=e221]'
+              - generic [ref=e222]: "Part 3: Inviting Hosts & Sub-agents Methods"
+            - generic [ref=e223]:
+              - 'img "Part 4: How to Invite Host" [ref=e224]'
+              - generic [ref=e225]: "Part 4: How to Invite Host"
+            - generic [ref=e226]:
+              - 'img "Part 4: How to Invite Host (Continued)" [ref=e227]'
+              - generic [ref=e228]: "Part 4: How to Invite Host (Continued)"
+            - generic [ref=e229]:
+              - 'img "Part 5: How to Invite Sub-agents" [ref=e230]'
+              - generic [ref=e231]: "Part 5: How to Invite Sub-agents"
+            - generic [ref=e232]:
+              - 'img "Part 5: How to Invite Sub-agents (Continued)" [ref=e233]'
+              - generic [ref=e234]: "Part 5: How to Invite Sub-agents (Continued)"
+          - button "Previous Slide" [ref=e235] [cursor=pointer]
+          - button "Next Slide" [ref=e238] [cursor=pointer]
+          - tablist [ref=e241]:
+            - button "Go to slide 1" [ref=e242] [cursor=pointer]
+            - button "Go to slide 2" [ref=e243] [cursor=pointer]
+            - button "Go to slide 3" [ref=e244] [cursor=pointer]
+            - button "Go to slide 4" [ref=e245] [cursor=pointer]
+            - button "Go to slide 5" [ref=e246] [cursor=pointer]
+            - button "Go to slide 6" [ref=e247] [cursor=pointer]
+            - button "Go to slide 7" [ref=e248] [cursor=pointer]
+    - generic [ref=e250]:
+      - generic [ref=e251]:
+        - heading "Hala Live Agency Rules" [level=2] [ref=e252]
+        - paragraph [ref=e253]: Please adhere to platform standards to maintain a safe, professional agency ecosystem
+      - list [ref=e255]:
+        - listitem [ref=e256]: Agents are not allowed to spam "join agency" invitations to hosts and users.
+        - listitem [ref=e257]: Agents are not allowed to recruit hosts from other agents on the platform.
+        - listitem [ref=e258]: It is prohibited to promote other Apps.
+        - listitem [ref=e259]: Hala Live strictly prohibits any fraudulent activities. Any violations will result in permanent account suspension.
+        - listitem [ref=e260]: If the agent does not process the request to leave the agency within 7 days, the host will automatically leave the agency.
+        - listitem [ref=e261]: Hosts who have been with the agency for less than 24 hours can leave the agency immediately after submitting their first request.
+        - listitem [ref=e262]: After submitting a request to leave, regardless of whether the request is approved, the hosts cannot submit another request within 30 days.
+    - generic [ref=e264]:
+      - generic [ref=e265]:
+        - heading "Frequently Asked Questions" [level=2] [ref=e266]
+        - paragraph [ref=e267]: Common questions regarding agency requirements, commissions, and policies
+      - generic [ref=e268]:
+        - generic [ref=e269]:
+          - button "1. How do I register as a Hala Agency?" [ref=e270] [cursor=pointer]
+          - paragraph [ref=e274]: Download and install the app, create an account, complete your profile and agency information, then click “Confirm” to finish registration.
+        - generic [ref=e275]:
+          - button "2. How does the Hala Agency commission work?" [ref=e276] [cursor=pointer]
+          - paragraph [ref=e280]: Your commission is based on your agency’s total income from hosts and sub-agencies. The commission rate ranges from 4% to 20% depending on your agency level.
+        - generic [ref=e281]:
+          - button "3. How do I earn commission from hosts and sub-agencies?" [ref=e282] [cursor=pointer]
+          - paragraph [ref=e286]: You earn a percentage from your hosts’ total earnings and additional commission from sub-agencies based on the difference between your agency level and their commission rate.
+        - generic [ref=e287]:
+          - button "4. How can I withdraw my Hala earnings?" [ref=e288] [cursor=pointer]
+          - paragraph [ref=e292]: Go to Profile → Points → Currency, choose your currency, select a payment method, and enter the amount you want to withdraw.
+        - generic [ref=e293]:
+          - button "5. What if I have problems regarding my agency registration or commission?" [ref=e294] [cursor=pointer]
+          - paragraph [ref=e298]:
+            - text: Please contact our team
+            - link "right here" [ref=e299] [cursor=pointer]:
+              - /url: /contact
+            - text: .
+    - generic [ref=e302]:
+      - heading "Become an Official Hala Agent" [level=2] [ref=e303]
+      - paragraph [ref=e304]: Expand your agency network, support talent, and unlock top-tier weekly rewards.
+      - link "Join Hala" [ref=e305] [cursor=pointer]:
+        - /url: https://web.hehala.com/h5/index.html#/share_agentPage?uid=2088653
+  - contentinfo [ref=e306]:
+    - generic [ref=e307]:
+      - generic [ref=e308]:
+        - generic [ref=e309]:
+          - link "Hala Live Home" [ref=e310] [cursor=pointer]:
+            - /url: /hala-live
+            - img "Hala Live Official Logo" [ref=e311]
+          - paragraph [ref=e312]: Hala is a free video chat and calling app to meet new friends worldwide, enjoy social connections, and explore earning opportunities.
+        - generic [ref=e313]:
+          - heading "Navigation" [level=4] [ref=e314]
+          - list [ref=e315]:
+            - listitem [ref=e316]:
+              - link "Home" [ref=e317] [cursor=pointer]:
+                - /url: /hala-live
+            - listitem [ref=e318]:
+              - link "Agency" [ref=e319] [cursor=pointer]:
+                - /url: /agency
+            - listitem [ref=e320]:
+              - link "Host" [ref=e321] [cursor=pointer]:
+                - /url: /host
+            - listitem [ref=e322]:
+              - link "Contact" [ref=e323] [cursor=pointer]:
+                - /url: /contact
+        - generic [ref=e324]:
+          - heading "Join Programs" [level=4] [ref=e325]
+          - list [ref=e326]:
+            - listitem [ref=e327]:
+              - link "Become Host" [ref=e328] [cursor=pointer]:
+                - /url: https://web.hehala.com/h5/index.html#/share_hostPage?uid=2088653
+            - listitem [ref=e329]:
+              - link "Become Agent" [ref=e330] [cursor=pointer]:
+                - /url: https://web.hehala.com/h5/index.html#/share_agentPage?uid=2088653
+        - generic [ref=e331]:
+          - heading "Connect With Us" [level=4] [ref=e332]
+          - generic "Social Media Links" [ref=e333]:
+            - link "TikTok @halalivechat" [ref=e334] [cursor=pointer]:
+              - /url: https://www.tiktok.com/@halalivechat
+            - link "Instagram @halalivechat" [ref=e337] [cursor=pointer]:
+              - /url: https://www.instagram.com/halalivechat
+            - link "Threads @halalivechat" [ref=e340] [cursor=pointer]:
+              - /url: https://www.threads.net/@halalivechat
+            - link "X Twitter @halalivechat" [ref=e343] [cursor=pointer]:
+              - /url: https://x.com/halalivechat
+            - link "Facebook halalivechat" [ref=e346] [cursor=pointer]:
+              - /url: https://www.facebook.com/halalivechat
+            - link "YouTube @halalivechat" [ref=e349] [cursor=pointer]:
+              - /url: https://www.youtube.com/@halalivechat
+            - link "Email halalive2026@gmail.com" [ref=e352] [cursor=pointer]:
+              - /url: mailto:halalive2026@gmail.com
+      - generic [ref=e355]:
+        - paragraph [ref=e356]: © 2026 Hala Live. All rights reserved.
+        - paragraph [ref=e357]:
+          - text: "Official Website:"
+          - link "halavoicechat.com" [ref=e358] [cursor=pointer]:
+            - /url: https://halavoicechat.com/

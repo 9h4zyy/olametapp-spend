@@ -1,0 +1,190 @@
+- generic [active] [ref=f1e1]:
+  - banner [ref=f1e2]:
+    - navigation "Main Navigation" [ref=f1e3]:
+      - link "Olamet Home" [ref=f1e4] [cursor=pointer]:
+        - /url: /
+        - img "Olamet Logo" [ref=f1e5]
+        - generic [ref=f1e6]: Olamet
+      - menubar [ref=f1e7]:
+        - menuitem "Home" [ref=f1e8] [cursor=pointer]
+        - menuitem "Agency Cooperation" [ref=f1e9] [cursor=pointer]
+        - menuitem "Host Cooperation" [ref=f1e10] [cursor=pointer]
+        - menuitem "About Us" [ref=f1e11] [cursor=pointer]
+        - menuitem "Privacy Policy" [ref=f1e12] [cursor=pointer]
+        - menuitem "Blog" [ref=f1e13] [cursor=pointer]
+        - menuitem "Contact" [ref=f1e14] [cursor=pointer]
+        - menuitem "Recharger" [ref=f1e15] [cursor=pointer]
+  - main [ref=f1e16]:
+    - generic [ref=f1e19]:
+      - generic [ref=f1e20]:
+        - heading "Create Your Agency & Work From Home as Host with Official Olamet Partner!" [level=1] [ref=f1e21]
+        - paragraph [ref=f1e22]: Start your additional income from anywhere as a live streaming host and agent with an official partner! All of this with full mentoring from our team.
+        - generic [ref=f1e23]:
+          - link "Register as Host" [ref=f1e24] [cursor=pointer]:
+            - /url: https://olamet-client.olamet.net/build2/index.html#/memberInvitation?key=6c46753b47532ae24bd082a7c2810610&guildName=We&nick=We&lang=en
+          - link "Register Your Agency" [ref=f1e25] [cursor=pointer]:
+            - /url: https://olamet-client.olamet.net/build2/index.html#/subagentRegister?key=6c46753b47532ae24bd082a7c2810610&guildName=We&nick=We&lang=en
+      - generic [ref=f1e26]:
+        - img "Official Olamet Agency Partner - Streamer Host and Agency Manager" [ref=f1e27]
+        - img "Olamet Live Streaming Badge"
+        - img "Olamet Live Heart Interaction"
+        - img "Olamet Streamer Gift Box"
+        - img "Olamet Golden Reward Beans"
+    - generic [ref=f1e30]:
+      - generic [ref=f1e31]:
+        - heading "Millions of Downloads & Thousands of Profitable Users" [level=2] [ref=f1e32]
+        - paragraph [ref=f1e33]: Olamet has helped tens of thousands people to earn as a host or agent from everywhere in our official live streaming agency
+      - generic [ref=f1e34]:
+        - article [ref=f1e35]:
+          - generic [ref=f1e36]: 4M+
+          - heading "4M+ Registered Users" [level=3] [ref=f1e37]
+          - paragraph [ref=f1e38]: Over 4 million registered users worldwide joined Olamet
+        - article [ref=f1e39]:
+          - generic [ref=f1e40]: 5M+
+          - heading "5M+ Total Downloads On Play Store" [level=3] [ref=f1e41]
+          - paragraph [ref=f1e42]: Olamet is supported by over 5 million Play Store downloads
+        - article [ref=f1e43]:
+          - generic [ref=f1e44]: 14K+
+          - heading "14K+ Reviews On Play Store" [level=3] [ref=f1e45]
+          - paragraph [ref=f1e46]: Over fourteen thousands review from Olamet host, user, and viewers
+        - article [ref=f1e47]:
+          - generic [ref=f1e48]: 4.1⭐
+          - heading "4.1⭐ Ratings" [level=3] [ref=f1e49]
+          - paragraph [ref=f1e50]: A solid 4.1-star rating on Play Store
+    - generic [ref=f1e52]:
+      - generic [ref=f1e53]:
+        - heading "Why People Choose Olamet?" [level=2] [ref=f1e54]
+        - paragraph [ref=f1e55]: Here is how the top hosts and agents are building their earnings on our live streaming platform and host or agency program.
+      - generic [ref=f1e56]:
+        - article [ref=f1e57]:
+          - heading "Worldwide Audiences for Bigger Earnings" [level=3] [ref=f1e62]
+          - paragraph [ref=f1e63]: Available in most countries, your audience and earnings as host on Olamet is as large as you want it to be. Earn gifts from people in Asia, America, to even Africa!
+        - article [ref=f1e64]:
+          - heading "Multiple Income Streams for Your Team" [level=3] [ref=f1e69]
+          - paragraph [ref=f1e70]: Olamet gives your hosts several ways to earn, including video chats, gifting, and exclusive events. More earning methods means a more stable, predictable income for you as an agent.
+        - article [ref=f1e71]:
+          - heading "High Livestream Quality All the Time" [level=3] [ref=f1e76]
+          - paragraph [ref=f1e77]: All of the broadcast showcased in a high quality live stream! Zero technical glitches means your hosts stay online longer and never miss out on incoming gifts.
+        - article [ref=f1e78]:
+          - heading "Real-time Auto Translation" [level=3] [ref=f1e84]
+          - paragraph [ref=f1e85]: On Olamet you do not have to worry about worldwide audiences anymore! Make new friends as hosts through any language barrier.
+    - generic [ref=f1e87]:
+      - generic [ref=f1e88]:
+        - heading "How Easy It Is to Work on Olamet" [level=2] [ref=f1e89]
+        - paragraph [ref=f1e90]: To join as a host or an agent, you just have to follow these four steps
+      - generic [ref=f1e91]:
+        - generic [ref=f1e92]:
+          - article [ref=f1e93]:
+            - generic [aria-hidden] [ref=f1e94]: "1"
+            - generic [ref=f1e95]:
+              - 'heading "Step 1: Download the Olamet App" [level=3] [ref=f1e96]'
+              - paragraph [ref=f1e97]: Simply search for Olamet on the Play Store
+          - article [ref=f1e98]:
+            - generic [aria-hidden] [ref=f1e99]: "2"
+            - generic [ref=f1e100]:
+              - 'heading "Step 2: Register Your Account" [level=3] [ref=f1e101]'
+              - paragraph [ref=f1e102]: Register with email or phone number.
+          - article [ref=f1e103]:
+            - generic [aria-hidden] [ref=f1e104]: "3"
+            - generic [ref=f1e105]:
+              - 'heading "Step 3: Enter the Invitation Code" [level=3] [ref=f1e106]'
+              - paragraph [ref=f1e107]:
+                - text: During registration, enter this code
+                - generic [ref=f1e108]: 79DTZ5
+                - text: to join an official agency and receive the benefits.
+          - article [ref=f1e109]:
+            - generic [aria-hidden] [ref=f1e110]: "4"
+            - generic [ref=f1e111]:
+              - 'heading "Step 4: Start Your Journey!" [level=3] [ref=f1e112]'
+              - paragraph [ref=f1e113]: Once successful, you’re ready to livestream as a host or build your agency team on Olamet!
+        - img "Olamet Ecosystem - Livestreaming Hosts, Agency Dashboard, and Worldwide Rewards" [ref=f1e115]
+    - generic [ref=f1e117]:
+      - generic [ref=f1e118]:
+        - heading "Frequently Asked Questions" [level=2] [ref=f1e119]
+        - paragraph [ref=f1e120]: Learn what our hosts and agents are commonly asking before you proceed any further
+      - generic [ref=f1e121]:
+        - article [ref=f1e122]:
+          - button "Is this an official Olamet agency?" [ref=f1e123] [cursor=pointer]
+          - paragraph [ref=f1e127]: Yes, we have been partners for years with Olamet as an official Olamet agency. We have helped hosts and agents around the world to start their live streaming partner on Olamet and earn on their own.
+        - article [ref=f1e128]:
+          - button "How does an Olamet host or agent work?" [ref=f1e129] [cursor=pointer]
+          - paragraph [ref=f1e133]: As an Olamet host, you simply have to live stream and chat with the viewers. For an agent, you’re working as a manager for the hosts, and get an income from the hosts’ earnings as an agency commission.
+        - article [ref=f1e134]:
+          - button "How can I withdraw my money on Olamet?" [ref=f1e135] [cursor=pointer]
+          - paragraph [ref=f1e139]: Olamet supports various withdrawal methods, from bank transfer, digital wallet/e-wallet, to cryptocurrency. Any agents can withdraw their live streaming income any time, however the process may take up to 1-3 business days.
+        - article [ref=f1e140]:
+          - button "Is there a basic/base salary?" [ref=f1e141] [cursor=pointer]
+          - paragraph [ref=f1e145]: No. To earn a salary or some sort of stable income, it depends on your team. If your team earns a stable income, automatically you will earn one as well.
+        - article [ref=f1e146]:
+          - button "Is my privacy or data safe as a host or agent?" [ref=f1e147] [cursor=pointer]
+          - paragraph [ref=f1e151]: Yes, Olamet only requires your phone number or email during registration. Olamet also has strict rules regarding privacy and personal information breach.
+        - article [ref=f1e152]:
+          - button "What if I have problems with the official Olamet app?" [ref=f1e153] [cursor=pointer]
+          - paragraph [ref=f1e157]: As an official agency partner, if you have problems regarding your account, withdrawal, or others on the platform, we are obligated to help you solve it with the official Olamet admin.
+    - generic [ref=f1e160]:
+      - heading "One App. Two Ways to Earn as Host or Agent." [level=2] [ref=f1e161]
+      - paragraph [ref=f1e162]: And just four easy registration steps to start your live streaming career. Let’s join right now and let our team guide you.
+      - generic [ref=f1e163]:
+        - link "Join as Host" [ref=f1e164] [cursor=pointer]:
+          - /url: https://olamet-client.olamet.net/build2/index.html#/memberInvitation?key=6c46753b47532ae24bd082a7c2810610&guildName=We&nick=We&lang=en
+        - link "Join as an Agent" [ref=f1e165] [cursor=pointer]:
+          - /url: https://olamet-client.olamet.net/build2/index.html#/subagentRegister?key=6c46753b47532ae24bd082a7c2810610&guildName=We&nick=We&lang=en
+  - contentinfo [ref=f1e166]:
+    - generic [ref=f1e167]:
+      - generic [ref=f1e168]:
+        - generic [ref=f1e169]:
+          - link "Olamet Home" [ref=f1e170] [cursor=pointer]:
+            - /url: /
+            - img "Olamet Logo" [ref=f1e171]
+            - generic [ref=f1e172]: Olamet
+          - paragraph [ref=f1e173]: One App. Two Ways to Earn from Anywhere.
+          - generic "Social Media Links" [ref=f1e174]:
+            - link "Email" [ref=f1e175] [cursor=pointer]:
+              - /url: mailto:olamet994@gmail.com
+            - link "Telegram" [ref=f1e179] [cursor=pointer]:
+              - /url: https://telegram.me/olametappservice
+            - link "Instagram" [ref=f1e183] [cursor=pointer]:
+              - /url: https://instagram.com/olametagency
+            - link "TikTok" [ref=f1e187] [cursor=pointer]:
+              - /url: https://tiktok.com/@olametapp
+            - link "WhatsApp" [ref=f1e190] [cursor=pointer]:
+              - /url: https://wa.me/6285353344593
+            - link "Official Website" [ref=f1e193] [cursor=pointer]:
+              - /url: https://olametapp.com
+        - generic [ref=f1e197]:
+          - heading "Quick Links" [level=4] [ref=f1e198]
+          - list [ref=f1e199]:
+            - listitem [ref=f1e200]:
+              - link "Agency Cooperation" [ref=f1e201] [cursor=pointer]:
+                - /url: /agency-cooperation
+            - listitem [ref=f1e202]:
+              - link "Host Cooperation" [ref=f1e203] [cursor=pointer]:
+                - /url: /host-cooperation
+            - listitem [ref=f1e204]:
+              - link "About Us" [ref=f1e205] [cursor=pointer]:
+                - /url: https://olametapp.com/about-us/
+            - listitem [ref=f1e206]:
+              - link "Blog" [ref=f1e207] [cursor=pointer]:
+                - /url: https://olametapp.com/blog/
+            - listitem [ref=f1e208]:
+              - link "Privacy Policy" [ref=f1e209] [cursor=pointer]:
+                - /url: https://olametapp.com/privacy-policy/
+        - generic [ref=f1e210]:
+          - heading "Contact & Support" [level=4] [ref=f1e211]
+          - list [ref=f1e212]:
+            - listitem [ref=f1e213]:
+              - link "+62821-1812-261 (WhatsApp)" [ref=f1e214] [cursor=pointer]:
+                - /url: https://wa.me/628211812261
+            - listitem [ref=f1e215]:
+              - link "+62853-5334-4593 (WhatsApp)" [ref=f1e216] [cursor=pointer]:
+                - /url: https://wa.me/6285353344593
+            - listitem [ref=f1e217]:
+              - link "@olametappservice (Telegram)" [ref=f1e218] [cursor=pointer]:
+                - /url: https://telegram.me/olametappservice
+            - listitem [ref=f1e219]:
+              - link "@olametofficial (Instagram)" [ref=f1e220] [cursor=pointer]:
+                - /url: https://instagram.com/olametofficial
+            - listitem [ref=f1e221]:
+              - link "@olametapp (Facebook)" [ref=f1e222] [cursor=pointer]:
+                - /url: https://facebook.com/olametapp
+      - paragraph [ref=f1e224]: © 2023–2026 Olamet Agency. All rights reserved.

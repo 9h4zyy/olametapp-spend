@@ -1,0 +1,195 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - navigation "Main Navigation" [ref=e11]:
+      - link "Olamet Home" [ref=e12] [cursor=pointer]:
+        - /url: /
+        - img "Olamet Logo" [ref=e13]
+        - generic [ref=e14]: Olamet
+      - menubar [ref=e15]:
+        - menuitem "Home" [ref=e16] [cursor=pointer]
+        - menuitem "Agency Cooperation" [ref=e17] [cursor=pointer]
+        - menuitem "Host Cooperation" [ref=e18] [cursor=pointer]
+        - menuitem "About Us" [ref=e19] [cursor=pointer]
+        - menuitem "Contact" [ref=e20] [cursor=pointer]
+        - menuitem "More navigation options" [ref=e21] [cursor=pointer]:
+          - generic [ref=e22]: More
+      - link "Sign in" [ref=e26] [cursor=pointer]:
+        - /url: https://h5.olamet.net
+    - generic [ref=e27]:
+      - generic [ref=e39]:
+        - generic [ref=e41]:
+          - paragraph [ref=e46]: "Translate:"
+          - generic [ref=e51]:
+            - link [ref=e52] [cursor=pointer]:
+              - /url: "#"
+              - img "ar" [ref=e53]
+            - link [ref=e54] [cursor=pointer]:
+              - /url: "#"
+              - img "en" [ref=e55]
+            - link [ref=e56] [cursor=pointer]:
+              - /url: "#"
+              - img "hi" [ref=e57]
+            - link [ref=e58] [cursor=pointer]:
+              - /url: "#"
+              - img "id" [ref=e59]
+            - link [ref=e60] [cursor=pointer]:
+              - /url: "#"
+              - img "pt" [ref=e61]
+            - link [ref=e62] [cursor=pointer]:
+              - /url: "#"
+              - img "ru" [ref=e63]
+            - link [ref=e64] [cursor=pointer]:
+              - /url: "#"
+              - img "es" [ref=e65]
+        - heading "Olamet - Video live stream. Join as AGENT and HOST now!" [level=1] [ref=e68]
+        - paragraph [ref=e71]: "Olamet Agency Notice : After join as Agent, Do not Login with Gmail or Facebook on Olamet app. Use only Registered Mobile Number. If you want Register your number click below Buttons"
+        - list [ref=e74]:
+          - listitem [ref=e75]:
+            - link "Envelope" [ref=e76] [cursor=pointer]:
+              - /url: http://olamet994@gmail.com
+              - generic [aria-hidden] [ref=e78]: 
+          - listitem [ref=e79]:
+            - link "Telegram" [ref=e80] [cursor=pointer]:
+              - /url: https://telegram.me/olametappservice
+              - generic [aria-hidden] [ref=e82]: 
+          - listitem [ref=e83]:
+            - link "Instagram" [ref=e84] [cursor=pointer]:
+              - /url: https://www.instagram.com/olametagency
+              - generic [aria-hidden] [ref=e86]: 
+          - listitem [ref=e87]:
+            - link "Facebook" [ref=e88] [cursor=pointer]:
+              - /url: https://www.facebook.com/olametapp/
+              - generic [aria-hidden] [ref=e90]: 
+          - listitem [ref=e91]:
+            - link "Tiktok" [ref=e92] [cursor=pointer]:
+              - /url: https://www.tiktok.com/@olametagency
+              - generic [aria-hidden] [ref=e94]: 
+          - listitem [ref=e95]:
+            - link "Whatsapp" [ref=e96] [cursor=pointer]:
+              - /url: https://wa.me/628211812261
+              - generic [aria-hidden] [ref=e98]: 
+          - listitem [ref=e99]:
+            - link "Whatsapp" [ref=e100] [cursor=pointer]:
+              - /url: https://wa.me/6285353344593
+              - generic [aria-hidden] [ref=e102]: 
+      - generic [ref=e110]:
+        - generic [ref=e124]:
+          - heading "What is Olamet?" [level=6] [ref=e127]
+          - heading "Meet Friend all over the world !" [level=2] [ref=e130]
+          - paragraph [ref=e133]: "Talk to Strangers with olamet agency video call & chat makes meeting new friends easy.Olamet agency Free app all world is a free video call application that will enable you to make friends from all over the world.Olamet agency is free : Random Video Call with girls, you can have video chat with millions of people and have live talk with talented or humorous people from different countries at any time.Meet Daily new people around you. Olamet is best way to talk new people and friend.olamet agency is a free online live video chat app. You can go live and connect with real-time video chat, and connect with girls/ boys all over the world."
+          - list [ref=e136]:
+            - listitem [ref=e137]:
+              - generic [aria-hidden] [ref=e139]: 
+              - generic [ref=e140]: Meet and Chat
+            - listitem [ref=e141]:
+              - generic [aria-hidden] [ref=e143]: 
+              - generic [ref=e144]: More than video chat
+            - listitem [ref=e145]:
+              - generic [aria-hidden] [ref=e147]: 
+              - generic [ref=e148]: Extreme Video Quality
+            - listitem [ref=e149]:
+              - generic [aria-hidden] [ref=e151]: 
+              - generic [ref=e152]: Real-time Translation
+        - generic [ref=e160]:
+          - 'heading "Meet and Chat: Find New Friends Worldwide" [level=2] [ref=e163]'
+          - paragraph [ref=e166]: You can use Olamet to find new people and start video chat with them instantly. Spare your boring time while meeting interesting people all over the world.
+          - 'heading "More than video chat: Communicate The Way You Want" [level=2] [ref=e169]'
+          - paragraph [ref=e172]: Like someone, text someone, video chat someone and send your gifts to make a surprise. You can also watch short videos of your favorites.
+        - generic [ref=e176]:
+          - 'heading "Extreme Video Quality: Great Video Chat Experience" [level=2] [ref=e179]'
+          - paragraph [ref=e182]: Great video quality, clear sound and extreme smooth make your video chat experience fantastic. It’s like talk to each other in real life!
+          - 'heading "Real-time Translation: No Barrier in Worldwide Chat" [level=2] [ref=e185]'
+          - paragraph [ref=e188]: In Olamet, you will never miss a chance to chat with them because of the language barrier anymore. Click the translation button to break the language barrier in both video or message chat easily.
+          - link "Join as Agent" [ref=e192] [cursor=pointer]:
+            - /url: https://olamet-client.olamet.net/build2/index.html#/subagentRegister?key=6c46753b47532ae24bd082a7c2810610&guildName=We&nick=We&lang=en
+          - link "Join as Host" [ref=e202] [cursor=pointer]:
+            - /url: https://olamet-client.olamet.net/build2/index.html#/memberInvitation?key=6c46753b47532ae24bd082a7c2810610&guildName=We&nick=We&lang=en
+      - generic [ref=e212]:
+        - heading "Download on Google Play Store" [level=2] [ref=e215]
+        - paragraph [ref=e218]: Inside Olamet, you will find funny and interesting people around the world.It’s up to you who and what you want to talk about in person!Would you like to meet new friends? Chatting with someone cool? Video chat with people around the world?
+        - generic [ref=e220]:
+          - generic [ref=e225]:
+            - generic [ref=e226]: Active Users
+            - generic [ref=e227]:
+              - generic [ref=e229]: "0"
+              - generic [ref=e230]: K+
+          - generic [ref=e235]:
+            - generic [ref=e236]: Total Downloads
+            - generic [ref=e237]:
+              - generic [ref=e239]: "0"
+              - generic [ref=e240]: K+
+          - generic [ref=e245]:
+            - generic [ref=e246]: review
+            - generic [ref=e247]:
+              - generic [ref=e249]: "0"
+              - generic [ref=e250]: +
+          - generic [ref=e255]:
+            - generic [ref=e256]: Google ratings
+            - generic [ref=e257]:
+              - generic [ref=e259]: "0"
+              - generic [ref=e260]: "*"
+        - generic [ref=e262]:
+          - generic [ref=e264]:
+            - link "Join as Host" [ref=e268] [cursor=pointer]:
+              - /url: https://olamet-client.olamet.net/build2/index.html#/memberInvitation?key=6c46753b47532ae24bd082a7c2810610&guildName=We&nick=We&lang=en
+            - link "Join as Agent" [ref=e278] [cursor=pointer]:
+              - /url: https://olamet-client.olamet.net/build2/index.html#/subagentRegister?key=6c46753b47532ae24bd082a7c2810610&guildName=We&nick=We&lang=en
+          - generic [ref=e286]:
+            - link [ref=e289] [cursor=pointer]:
+              - /url: https://olamet-client.olamet.net/build2/index.html#/share?inviteCode=79DTZ5
+            - link [ref=e292] [cursor=pointer]:
+              - /url: https://olamet-client.olamet.net/build2/index.html#/share?inviteCode=79DTZ5
+    - generic [ref=e293]:
+      - generic [ref=e301]:
+        - heading "Keep in touch" [level=2] [ref=e315]
+        - list [ref=e318]:
+          - listitem [ref=e319]:
+            - link [ref=e320] [cursor=pointer]:
+              - /url: http://olamet994@gmail.com
+              - generic [aria-hidden] [ref=e322]: 
+          - listitem [ref=e323]:
+            - link [ref=e324] [cursor=pointer]:
+              - /url: https://telegram.me/olametappservice
+              - generic [aria-hidden] [ref=e326]: 
+          - listitem [ref=e327]:
+            - link [ref=e328] [cursor=pointer]:
+              - /url: https://www.instagram.com/olametagency
+              - generic [aria-hidden] [ref=e330]: 
+          - listitem [ref=e331]:
+            - link [ref=e332] [cursor=pointer]:
+              - /url: https://www.facebook.com/olametapp/
+              - generic [aria-hidden] [ref=e334]: 
+          - listitem [ref=e335]:
+            - link [ref=e336] [cursor=pointer]:
+              - /url: https://www.tiktok.com/@olametagency
+              - generic [aria-hidden] [ref=e338]: 
+          - listitem [ref=e339]:
+            - link [ref=e340] [cursor=pointer]:
+              - /url: https://wa.me/628211812261
+              - generic [aria-hidden] [ref=e342]: 
+          - listitem [ref=e343]:
+            - link [ref=e344] [cursor=pointer]:
+              - /url: https://wa.me/6285353344593
+              - generic [aria-hidden] [ref=e346]: 
+        - paragraph [ref=e349]: © 2023 Olamet App
+      - list [ref=e356]:
+        - listitem [ref=e357]:
+          - link "Telegram" [ref=e358] [cursor=pointer]:
+            - /url: https://t.me/olametappservice
+            - generic [aria-hidden] [ref=e360]: 
+        - listitem [ref=e361]:
+          - link "Whatsapp" [ref=e362] [cursor=pointer]:
+            - /url: https://wa.me/628211812261
+            - generic [aria-hidden] [ref=e364]: 
+        - listitem [ref=e365]:
+          - link "Whatsapp" [ref=e366] [cursor=pointer]:
+            - /url: https://wa.me/6285353344593
+            - generic [aria-hidden] [ref=e368]: 
+  - generic:
+    - generic [ref=e370] [cursor=pointer]
+    - generic [ref=e372]:
+      - generic [ref=e373] [cursor=pointer]
+      - generic [ref=e374]: Shopping Basket
+    - text: 
+  - generic [ref=e376] [cursor=pointer]
+  - generic [ref=e379]: desktop

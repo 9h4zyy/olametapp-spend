@@ -1,0 +1,153 @@
+- main [ref=e2]:
+  - region [ref=e3]:
+    - generic [ref=e5]:
+      - generic [ref=e6]:
+        - generic [ref=e7]: Official Partner Agency
+        - heading "Grow Your Income Anywhere with Official Niki Live Agency" [level=1] [ref=e8]
+        - paragraph [ref=e9]: Take part with Niki Live host opportunity with flexible work schedules, or become a live streaming agent to earn a competitive commission.
+        - generic [ref=e10]:
+          - link "Join as Host" [ref=e11] [cursor=pointer]:
+            - /url: /become-a-host
+          - link "Join as Agency" [ref=e12] [cursor=pointer]:
+            - /url: /become-a-agent
+      - generic [ref=e14]:
+        - generic [ref=e16]: Live Streaming Global Network
+        - generic [ref=e20]: Weekly Payout Fast & Transparent
+        - img "Official Niki Live Agency multiple live streamers broadcasting with coins, gifts, and party celebration" [ref=e39]
+  - region [ref=e40]:
+    - generic [ref=e41]:
+      - generic [ref=e42]:
+        - text: Global Trust
+        - heading "Downloaded by Millions. Trusted by Thousand Agencies" [level=2] [ref=e43]
+        - paragraph [ref=e44]: Join a worldwide live streaming agent and host network with thousands of agencies receiving full official support and guidance.
+      - generic [ref=e45]:
+        - article [ref=e46]:
+          - generic [ref=e47]: 10M+
+          - paragraph [ref=e48]: Niki Live has been downloaded over 5M+ times globally
+        - article [ref=e49]:
+          - generic [ref=e50]: "4.6 â\x90 & 4.5 â\x90"
+          - paragraph [ref=e51]: Niki Live is highly trusted on Play Store and App Store
+        - article [ref=e52]:
+          - generic [ref=e53]: 4+ Years
+          - paragraph [ref=e54]: More than four years Niki Live has been making opportunities globally
+  - region [ref=e55]:
+    - generic [ref=e56]:
+      - generic [ref=e57]:
+        - text: Why Partner With Us
+        - heading "We Offer Full Support & Mentoring for Hosts & Agencies" [level=2] [ref=e58]
+        - paragraph [ref=e59]: Whether you're a new or experienced live streaming agent and host, we offer full mentoring with full transparency about agency, platforms, and host network.
+      - generic [ref=e60]:
+        - article [ref=e61]:
+          - heading "Full Support & Mentoring" [level=3] [ref=e68]
+          - paragraph [ref=e69]: You will receive comprehensive guidance from the start and full mentoring about the official Niki app
+        - article [ref=e70]:
+          - heading "Transparent Commissions" [level=3] [ref=e74]
+          - paragraph [ref=e75]: We ensure you always know exactly how your commissions, gifts, and bonuses are calculated.
+        - article [ref=e76]:
+          - heading "Official Partnership" [level=3] [ref=e79]
+          - paragraph [ref=e80]: You will be joining as an official Niki Live agency, giving you the perks and benefits.
+  - region [ref=e81]:
+    - generic [ref=e82]:
+      - generic [ref=e83]:
+        - text: Key Advantages
+        - heading "Flexible Work Yet Competitive Revenue" [level=2] [ref=e84]
+        - paragraph [ref=e85]: Experience financial freedom and global creative opportunities through our proven partnership structure.
+      - generic [ref=e86]:
+        - article [ref=e87]:
+          - text: "01"
+          - heading "Generous Base Salary" [level=3] [ref=e91]
+          - paragraph [ref=e92]: We reward your consistency with a guaranteed daily base salary of up to $8. Providing a reliable host earning.
+        - article [ref=e93]:
+          - text: "02"
+          - heading "Competitive Commission" [level=3] [ref=e98]
+          - paragraph [ref=e99]: We offer a fixed 70% share on gifts for our hosts. For our live streaming agents, you can get up to 20% commissions.
+        - article [ref=e100]:
+          - text: "03"
+          - heading "Multiple Income Sources" [level=3] [ref=e103]
+          - paragraph [ref=e104]: From standard live stream, collaborative Party, to PK Battles and interactive platform tools & games for hosts to benefit.
+        - article [ref=e105]:
+          - text: "04"
+          - heading "Flexible Work" [level=3] [ref=e109]
+          - paragraph [ref=e110]: Work exactly how, when, and where you want. Niki Live gives you flexibility, allowing you to stream or manage your team globally.
+  - region [ref=e111]:
+    - generic [ref=e112]:
+      - generic [ref=e113]:
+        - text: Ecosystem Tools
+        - heading "Features Built to Maximize Your Revenue" [level=2] [ref=e114]
+        - paragraph [ref=e115]: Designed with industry-leading features for both active content creators and agency leaders.
+      - generic [ref=e116]:
+        - generic [ref=e117]:
+          - generic [ref=e118]:
+            - heading "ðŸŒŸ Host Opportunities" [level=3] [ref=e119]
+            - text: Creators
+          - generic [ref=e120]:
+            - article [ref=e121]:
+              - 'heading "Host Feature 1: Host Dashboard" [level=4] [ref=e122]'
+              - paragraph [ref=e123]: Track your daily earnings, analyze your engagement, and monitor your progress through one easy-to-use host dashboard.
+            - article [ref=e124]:
+              - 'heading "Host Feature 2: Live Streaming Tools" [level=4] [ref=e125]'
+              - paragraph [ref=e126]: Utilize our live streaming, video calls, and PK Battles to drive engagement and multiply your daily income.
+            - article [ref=e127]:
+              - 'heading "Host Feature 3: Gift System" [level=4] [ref=e128]'
+              - paragraph [ref=e129]: Our highly rewarding virtual gifting system allows you to take home 70% commission on every single gift you receive.
+            - article [ref=e130]:
+              - 'heading "Host Feature 4: Star Host" [level=4] [ref=e131]'
+              - paragraph [ref=e132]: Hit your targets to unlock "Star Host" status and earn a guaranteed basic daily salary on top of your standard commissions.
+          - link "Become a Host" [ref=e134] [cursor=pointer]:
+            - /url: /become-a-host
+        - generic [ref=e135]:
+          - generic [ref=e136]:
+            - heading "ðŸš€ Agency Opportunities" [level=3] [ref=e137]
+            - text: Managers
+          - generic [ref=e138]:
+            - article [ref=e139]:
+              - 'heading "Agent Feature 1: Agent Level" [level=4] [ref=e140]'
+              - paragraph [ref=e141]: We reward high-performing live streaming agents, the more revenue your team generates, the higher your commission goes, reaching up to 20%.
+            - article [ref=e142]:
+              - 'heading "Agent Feature 2: Host management" [level=4] [ref=e143]'
+              - paragraph [ref=e144]: Invite new hosts, monitor stream hours, and analyze host earnings using our dedicated host management dashboard.
+            - article [ref=e145]:
+              - 'heading "Agent Feature 3: Commission System" [level=4] [ref=e146]'
+              - paragraph [ref=e147]: As an agent, you don't just earn from your own hosts, you also earn commission from any sub-agenciesâ€™ revenue you help register.
+            - article [ref=e148]:
+              - 'heading "Agent Feature 4: Referral rewards" [level=4] [ref=e149]'
+              - paragraph [ref=e150]: Invite new users to the app and earn a direct percentage of their top-ups and registrations via our referral program.
+          - link "Join as Agent" [ref=e152] [cursor=pointer]:
+            - /url: /become-a-agent
+  - region [ref=e153]:
+    - generic [ref=e154]:
+      - generic [ref=e155]:
+        - text: Knowledge Center
+        - heading "Frequently Asked Questions" [level=2] [ref=e156]
+        - paragraph [ref=e157]: Letâ€™s answer the most common questions regarding Niki Live registrations, earning, and how it works as agent or host.
+      - region "Frequently Asked Questions Accordion" [ref=e158]:
+        - article [ref=e159]:
+          - button "Is this an official Niki Live agency?" [expanded] [ref=e160]
+          - paragraph [ref=e165]: Yes, we are an official partner agency. We have a track record of successfully helping hosts and agents worldwide build and scale their live streaming careers on Niki Live.
+        - article [ref=e166]:
+          - button "How do hosts and agents actually work?" [ref=e167]
+          - paragraph [ref=e172]: As a Niki Live host, they stream and interact with audiences to earn revenue. Then, Niki Live agency act as managers, recruiting hosts and earning a commission based on their team's total live streaming revenue.
+        - article [ref=e173]:
+          - button "How can I withdraw my money on Niki Live?" [ref=e174]
+          - paragraph [ref=e179]: Niki Live processes withdrawals via bank transfer, PayPal, Epay, Binance, USDT, G-cash, and e-wallet (availability depends on your country).
+        - article [ref=e180]:
+          - button "Is there a basic/base salary available?" [ref=e181]
+          - paragraph [ref=e186]: Yes, hosts can get a daily basic/base salary that starts from $1 to $5 per day.
+        - article [ref=e187]:
+          - button "Can I open multiple host or agent accounts?" [ref=e188]
+          - paragraph [ref=e193]: No. To keep the live streaming agency recruitment fair, Niki Live strictly enforces a limit of one host or agent account per device.
+        - article [ref=e194]:
+          - button "Is my personal data safe?" [ref=e195]
+          - paragraph [ref=e200]: Yes. Registration requires only basic contact info (phone or email), and Niki Live enforces strict data protection rules against privacy breaches.
+        - article [ref=e201]:
+          - button "What if I have problems with the official Niki Live app?" [ref=e202]
+          - paragraph [ref=e207]: As an official agency, if you have withdrawal issues or account problems, we will solve it together with Niki Liveâ€™s admins for you as soon as possible.
+  - region [ref=e208]:
+    - generic [ref=e211]:
+      - heading "Ready to Earn as Host or Agent? Fast Registration and 100% Free for Everyone." [level=2] [ref=e212]
+      - paragraph [ref=e213]: No hidden fees, no confusing steps. Just download Niki Live, join us in a few simple steps, and start getting paid today.
+      - generic [ref=e214]:
+        - link "Become an Agent" [ref=e215] [cursor=pointer]:
+          - /url: /become-a-agent
+        - link "Join as Host" [ref=e216] [cursor=pointer]:
+          - /url: /become-a-host

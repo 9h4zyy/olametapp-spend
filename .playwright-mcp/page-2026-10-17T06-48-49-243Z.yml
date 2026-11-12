@@ -1,0 +1,196 @@
+- generic [active] [ref=f1e1]:
+  - banner:
+    - generic [ref=f1e2]:
+      - link "Hala Live Home" [ref=f1e3] [cursor=pointer]:
+        - /url: /hala-live
+        - img "Hala Live Official Logo" [ref=f1e4]
+      - navigation "Main Navigation" [ref=f1e5]:
+        - link "Home" [ref=f1e6] [cursor=pointer]:
+          - /url: /hala-live
+        - button "Agency" [ref=f1e8] [cursor=pointer]
+        - button "Host" [ref=f1e13] [cursor=pointer]
+        - link "News" [ref=f1e17] [cursor=pointer]:
+          - /url: /category/blog/
+        - link "Contact" [ref=f1e18] [cursor=pointer]:
+          - /url: /contact
+      - button "Join Hala" [ref=f1e21] [cursor=pointer]
+  - main [ref=f1e25]:
+    - generic [ref=f1e26]:
+      - text: HALA
+      - generic [ref=f1e28]:
+        - generic [ref=f1e29]:
+          - generic [ref=f1e30]: Official Hala Live Platform
+          - heading "A Free Video Chat & Calls App for New Friends & Connections" [level=1] [ref=f1e33]
+          - paragraph [ref=f1e34]: Hala is a place to make new friends, relationships, or have fun with people from around the world in one free app with a lot of potential to earn.
+          - generic [ref=f1e35]:
+            - link "Learn More" [ref=f1e36] [cursor=pointer]:
+              - /url: "#what-is-hala"
+            - link "Join as Agent" [ref=f1e37] [cursor=pointer]:
+              - /url: https://web.hehala.com/h5/index.html#/share_agentPage?uid=2088653
+        - generic [ref=f1e38]:
+          - generic [ref=f1e45]:
+            - generic [ref=f1e46]: Live Streaming
+            - generic [ref=f1e47]: Connect Worldwide
+          - generic [ref=f1e55]:
+            - generic [ref=f1e56]: Global Community
+            - generic [ref=f1e57]: Millions of Live Users
+          - img "A Free Video Chat & Calls App for New Friends & Connections" [ref=f1e59]
+    - generic [ref=f1e62]:
+      - img "Hala Live Ecosystem" [ref=f1e65]
+      - generic [ref=f1e66]:
+        - generic [ref=f1e67]: About Platform
+        - heading "What is Hala?" [level=2] [ref=f1e68]
+        - paragraph [ref=f1e69]: Hala is a platform where you can do video chat, voice call, and messaging for free. Alongside those features, Hala also offers various ways to earn when you’re joining the platform.
+        - generic [ref=f1e70]:
+          - link "Explore Agency" [ref=f1e71] [cursor=pointer]:
+            - /url: /agency
+          - link "Explore Host" [ref=f1e72] [cursor=pointer]:
+            - /url: /host
+    - generic [ref=f1e74]:
+      - generic [ref=f1e75]:
+        - heading "Hala Agent vs Host" [level=2] [ref=f1e76]
+        - paragraph [ref=f1e77]: Find the best path tailored to your passion and goals
+      - table [ref=f1e79]:
+        - rowgroup [ref=f1e80]:
+          - row [ref=f1e81]:
+            - columnheader "Hala Host" [ref=f1e82]
+            - columnheader "Hala Agent" [ref=f1e83]
+        - rowgroup [ref=f1e84]:
+          - row [ref=f1e85]:
+            - cell "Make voice call, video call, and interact with other users" [ref=f1e86]
+            - cell "Build and manage a team of hosts" [ref=f1e87]
+          - row [ref=f1e88]:
+            - cell "Receives gifts and points" [ref=f1e89]
+            - cell "Receives percentage of the team earnings" [ref=f1e90]
+          - row [ref=f1e91]:
+            - cell "For anyone who prefers in front of a camera" [ref=f1e92]
+            - cell "For anyone who prefers to work behind a screen" [ref=f1e93]
+          - row [ref=f1e94]:
+            - cell [ref=f1e95]:
+              - link "About Host" [ref=f1e96] [cursor=pointer]:
+                - /url: /host
+            - cell [ref=f1e97]:
+              - link "About Agency" [ref=f1e98] [cursor=pointer]:
+                - /url: /agency
+    - generic [ref=f1e100]:
+      - generic [ref=f1e101]:
+        - heading "How to Get Started on Hala" [level=2] [ref=f1e102]
+        - paragraph [ref=f1e103]: Follow four simple steps to begin your journey and earn rewards
+      - generic [ref=f1e104]:
+        - generic [ref=f1e105]:
+          - generic [ref=f1e106]: "1"
+          - 'heading "Step 1: Choose Your Preferred Role" [level=3] [ref=f1e107]'
+          - paragraph [ref=f1e108]: Decide whether you want to shine as an on-camera live Host or build a thriving network as an Agency partner.
+        - generic [ref=f1e109]:
+          - generic [ref=f1e110]: "2"
+          - 'heading "Step 2: Download & Register on the App" [level=3] [ref=f1e111]'
+          - paragraph [ref=f1e112]: Download the official Hala app from Play Store, complete registration, and set up your verified profile.
+        - generic [ref=f1e113]:
+          - generic [ref=f1e114]: "3"
+          - 'heading "Step 3: Receive Help & Mentoring" [level=3] [ref=f1e115]'
+          - paragraph [ref=f1e116]: Connect with our dedicated team and mentors to get hands-on guidance, tips, and step-by-step assistance.
+        - generic [ref=f1e117]:
+          - generic [ref=f1e118]: "4"
+          - 'heading "Step 4: Start Your Journey & Earning" [level=3] [ref=f1e119]'
+          - paragraph [ref=f1e120]: Go live or expand your agency team to start earning gifts, points, bonuses, and real weekly payouts.
+    - generic [ref=f1e122]:
+      - generic [ref=f1e123]:
+        - heading "Hala Benefits for Everyone" [level=2] [ref=f1e124]
+        - paragraph [ref=f1e125]: Empowering our community with true flexibility, reach, and rewards
+      - generic [ref=f1e126]:
+        - generic [ref=f1e127]:
+          - heading "Flexible Schedule" [level=3] [ref=f1e131]
+          - paragraph [ref=f1e132]: Whether you’re a host or an agent, you can freely set your own schedule or to maximize your rewards.
+        - generic [ref=f1e133]:
+          - heading "Work from Anywhere" [level=3] [ref=f1e138]
+          - paragraph [ref=f1e139]: Hala is available in various regions all over the world, there’s no limit where people connect to each other.
+        - generic [ref=f1e140]:
+          - heading "Generous Platform & User" [level=3] [ref=f1e146]
+          - paragraph [ref=f1e147]: Hala will make your time valuable with its generous events, rewards, and user base
+    - generic [ref=f1e149]:
+      - generic [ref=f1e150]:
+        - heading "Frequently Asked Questions" [level=2] [ref=f1e151]
+        - paragraph [ref=f1e152]: Everything you need to know about getting started on Hala
+      - generic [ref=f1e153]:
+        - generic [ref=f1e154]:
+          - button "1. Is Hala Live free?" [ref=f1e155] [cursor=pointer]
+          - paragraph [ref=f1e159]: Yes. Everyone can start on Hala for free.
+        - generic [ref=f1e160]:
+          - button "2. What is the difference between Hala Host vs Hala Agent?" [ref=f1e161] [cursor=pointer]
+          - paragraph [ref=f1e165]: To put it simply, a host is the one doing video calls and other interactions on the app, and an agent is the one working behind the scenes to manage or recruit new hosts.
+        - generic [ref=f1e166]:
+          - button "3. Where can I download Hala?" [ref=f1e167] [cursor=pointer]
+          - paragraph [ref=f1e171]: You can find Hala on the Play Store.
+        - generic [ref=f1e172]:
+          - button "4. Can I start on Hala if I don’t have any experience?" [ref=f1e173] [cursor=pointer]
+          - paragraph [ref=f1e177]: Yes. There aren’t any mandatory requirements to earn on Hala. We will also guide and mentor you along the way.
+        - generic [ref=f1e178]:
+          - button "5. Where can I send my questions regarding Hala?" [ref=f1e179] [cursor=pointer]
+          - paragraph [ref=f1e183]:
+            - text: Feel free to contact our team
+            - link "right here" [ref=f1e184] [cursor=pointer]:
+              - /url: /contact
+            - text: .
+    - generic [ref=f1e187]:
+      - heading "Say Hala to a Free Way to Make New Friends & Earnings" [level=2] [ref=f1e188]
+      - paragraph [ref=f1e189]: Join our vibrant global community today and unlock endless possibilities.
+      - generic [ref=f1e190]:
+        - link "Join Hala as Agent" [ref=f1e191] [cursor=pointer]:
+          - /url: https://web.hehala.com/h5/index.html#/share_agentPage?uid=2088653
+        - link "Join Hala as Host" [ref=f1e192] [cursor=pointer]:
+          - /url: https://web.hehala.com/h5/index.html#/share_hostPage?uid=2088653
+  - contentinfo [ref=f1e193]:
+    - generic [ref=f1e194]:
+      - generic [ref=f1e195]:
+        - generic [ref=f1e196]:
+          - link "Hala Live Home" [ref=f1e197] [cursor=pointer]:
+            - /url: /hala-live
+            - img "Hala Live Official Logo" [ref=f1e198]
+          - paragraph [ref=f1e199]: Hala is a free video chat and calling app to meet new friends worldwide, enjoy social connections, and explore earning opportunities.
+        - generic [ref=f1e200]:
+          - heading "Navigation" [level=4] [ref=f1e201]
+          - list [ref=f1e202]:
+            - listitem [ref=f1e203]:
+              - link "Home" [ref=f1e204] [cursor=pointer]:
+                - /url: /hala-live
+            - listitem [ref=f1e205]:
+              - link "Agency" [ref=f1e206] [cursor=pointer]:
+                - /url: /agency
+            - listitem [ref=f1e207]:
+              - link "Host" [ref=f1e208] [cursor=pointer]:
+                - /url: /host
+            - listitem [ref=f1e209]:
+              - link "Contact" [ref=f1e210] [cursor=pointer]:
+                - /url: /contact
+        - generic [ref=f1e211]:
+          - heading "Join Programs" [level=4] [ref=f1e212]
+          - list [ref=f1e213]:
+            - listitem [ref=f1e214]:
+              - link "Become Host" [ref=f1e215] [cursor=pointer]:
+                - /url: https://web.hehala.com/h5/index.html#/share_hostPage?uid=2088653
+            - listitem [ref=f1e216]:
+              - link "Become Agent" [ref=f1e217] [cursor=pointer]:
+                - /url: https://web.hehala.com/h5/index.html#/share_agentPage?uid=2088653
+        - generic [ref=f1e218]:
+          - heading "Connect With Us" [level=4] [ref=f1e219]
+          - generic "Social Media Links" [ref=f1e220]:
+            - link "TikTok @halalivechat" [ref=f1e221] [cursor=pointer]:
+              - /url: https://www.tiktok.com/@halalivechat
+            - link "Instagram @halalivechat" [ref=f1e224] [cursor=pointer]:
+              - /url: https://www.instagram.com/halalivechat
+            - link "Threads @halalivechat" [ref=f1e227] [cursor=pointer]:
+              - /url: https://www.threads.net/@halalivechat
+            - link "X Twitter @halalivechat" [ref=f1e230] [cursor=pointer]:
+              - /url: https://x.com/halalivechat
+            - link "Facebook halalivechat" [ref=f1e233] [cursor=pointer]:
+              - /url: https://www.facebook.com/halalivechat
+            - link "YouTube @halalivechat" [ref=f1e236] [cursor=pointer]:
+              - /url: https://www.youtube.com/@halalivechat
+            - link "Email halalive2026@gmail.com" [ref=f1e239] [cursor=pointer]:
+              - /url: mailto:halalive2026@gmail.com
+      - generic [ref=f1e242]:
+        - paragraph [ref=f1e243]: © 2026 Hala Live. All rights reserved.
+        - paragraph [ref=f1e244]:
+          - text: "Official Website:"
+          - link "halavoicechat.com" [ref=f1e245] [cursor=pointer]:
+            - /url: https://halavoicechat.com/

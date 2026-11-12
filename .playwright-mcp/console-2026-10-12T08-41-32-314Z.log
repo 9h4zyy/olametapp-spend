@@ -1,0 +1,36 @@
+[    1899ms] [LOG] JQMIGRATE: Migrate is installed, version 3.4.1 @ https://olametapp.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1:1
+[    3740ms] [WARNING] <meta name="apple-mobile-web-app-capable" content="yes"> is deprecated. Please include <meta name="mobile-web-app-capable" content="yes"> @ https://olametapp.com/:0
+[    4032ms] [WARNING] Failed to execute 'postMessage' on 'DOMWindow': The target origin provided ('https://www.youtube.com') does not match the recipient window's origin ('https://olametapp.com'). @ https://www.youtube.com/s/player/5203c085/www-widgetapi.vflset/www-widgetapi.js:162
+[    4048ms] [WARNING] Failed to execute 'postMessage' on 'DOMWindow': The target origin provided ('https://www.youtube.com') does not match the recipient window's origin ('https://olametapp.com'). @ https://www.youtube.com/s/player/5203c085/www-widgetapi.vflset/www-widgetapi.js:162
+[    4289ms] [WARNING] Failed to execute 'postMessage' on 'DOMWindow': The target origin provided ('https://www.youtube.com') does not match the recipient window's origin ('https://olametapp.com'). @ https://www.youtube.com/s/player/5203c085/www-widgetapi.vflset/www-widgetapi.js:162
+[    4299ms] [WARNING] Failed to execute 'postMessage' on 'DOMWindow': The target origin provided ('https://www.youtube.com') does not match the recipient window's origin ('https://olametapp.com'). @ https://www.youtube.com/s/player/5203c085/www-widgetapi.vflset/www-widgetapi.js:162
+[    6588ms] [WARNING] The powerPreference option is currently ignored when calling requestAdapter() on Windows. See https://crbug.com/369219127 @ :0
+[    7155ms] [WARNING] The powerPreference option is currently ignored when calling requestAdapter() on Windows. See https://crbug.com/369219127 @ :0
+[  172780ms] TypeError: callback is not a function
+    at HTMLDivElement.load_tlib (https://olametapp.com/wp-content/plugins/gtranslate/js/flags.js?ver=5.0.1:119:350)
+[  173896ms] TypeError: callback is not a function
+    at HTMLDivElement.load_tlib (https://olametapp.com/wp-content/plugins/gtranslate/js/flags.js?ver=5.0.1:119:350)
+[  173996ms] TypeError: callback is not a function
+    at HTMLDivElement.load_tlib (https://olametapp.com/wp-content/plugins/gtranslate/js/flags.js?ver=5.0.1:119:350)
+[  174714ms] TypeError: callback is not a function
+    at HTMLDivElement.load_tlib (https://olametapp.com/wp-content/plugins/gtranslate/js/flags.js?ver=5.0.1:119:350)
+[  175147ms] TypeError: callback is not a function
+    at HTMLDivElement.load_tlib (https://olametapp.com/wp-content/plugins/gtranslate/js/flags.js?ver=5.0.1:119:350)
+[  176117ms] TypeError: callback is not a function
+    at HTMLDivElement.load_tlib (https://olametapp.com/wp-content/plugins/gtranslate/js/flags.js?ver=5.0.1:119:350)
+[  176266ms] TypeError: callback is not a function
+    at HTMLDivElement.load_tlib (https://olametapp.com/wp-content/plugins/gtranslate/js/flags.js?ver=5.0.1:119:350)
+[  176550ms] TypeError: callback is not a function
+    at HTMLDivElement.load_tlib (https://olametapp.com/wp-content/plugins/gtranslate/js/flags.js?ver=5.0.1:119:350)
+[  177519ms] TypeError: callback is not a function
+    at HTMLDivElement.load_tlib (https://olametapp.com/wp-content/plugins/gtranslate/js/flags.js?ver=5.0.1:119:350)
+[  177751ms] TypeError: callback is not a function
+    at HTMLDivElement.load_tlib (https://olametapp.com/wp-content/plugins/gtranslate/js/flags.js?ver=5.0.1:119:350)
+[  178519ms] TypeError: callback is not a function
+    at HTMLDivElement.load_tlib (https://olametapp.com/wp-content/plugins/gtranslate/js/flags.js?ver=5.0.1:119:350)
+[  179688ms] TypeError: callback is not a function
+    at HTMLDivElement.load_tlib (https://olametapp.com/wp-content/plugins/gtranslate/js/flags.js?ver=5.0.1:119:350)
+[  183726ms] TypeError: callback is not a function
+    at HTMLDivElement.load_tlib (https://olametapp.com/wp-content/plugins/gtranslate/js/flags.js?ver=5.0.1:119:350)
+[  422261ms] TypeError: callback is not a function
+    at HTMLDivElement.load_tlib (https://olametapp.com/wp-content/plugins/gtranslate/js/flags.js?ver=5.0.1:119:350)

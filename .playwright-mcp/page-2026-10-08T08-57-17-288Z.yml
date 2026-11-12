@@ -1,0 +1,371 @@
+- generic [active] [ref=f3e1]:
+  - main [ref=f3e2]:
+    - region [ref=f3e3]:
+      - generic [ref=f3e5]:
+        - generic [ref=f3e6]:
+          - generic [ref=f3e7]: Agency Opportunities
+          - heading "Start Your Journey as an Official Niki Live Agent" [level=1] [ref=f3e9]:
+            - text: Start Your Journey as an
+            - generic [ref=f3e10]: Official Niki Live Agent
+          - paragraph [ref=f3e11]: Build your agency from anywhere, at any time, free of charge, but full of rewards and bonuses!
+          - generic [ref=f3e12]:
+            - link "Agency Registration" [ref=f3e13] [cursor=pointer]:
+              - /url: "#register"
+            - link "Learn More" [ref=f3e14] [cursor=pointer]:
+              - /url: "#commission"
+        - generic [ref=f3e16]:
+          - generic [ref=f3e22]:
+            - generic [ref=f3e23]: Agency Commission
+            - generic [ref=f3e24]: Up to 20% Share
+          - generic [ref=f3e32]:
+            - generic [ref=f3e33]: Host Management
+            - generic [ref=f3e34]: Global Network
+          - img "Official Niki Live Agency Leader standing proudly with team dashboard and upward growth arrow" [ref=f3e36]
+    - region [ref=f3e37]:
+      - generic [ref=f3e38]:
+        - generic [ref=f3e39]:
+          - generic [ref=f3e40]: Agency Registration
+          - heading "Become a Niki Live Agent" [level=2] [ref=f3e41]
+          - paragraph [ref=f3e42]: Follow these straightforward steps to activate your official Niki Live agency account.
+        - generic [ref=f3e43]:
+          - article [ref=f3e44]:
+            - generic [ref=f3e45]: "1"
+            - generic [ref=f3e46]:
+              - strong [ref=f3e47]: Download & Sign Up
+              - text: Download Niki Live app for Android and IOS and Sign Up on the Niki Live App
+          - article [ref=f3e48]:
+            - generic [ref=f3e49]: "2"
+            - generic [ref=f3e50]:
+              - strong [ref=f3e51]: Copy Niki ID
+              - text: Visit your Niki app profile and copy the Niki ID
+          - article [ref=f3e52]:
+            - generic [ref=f3e53]: "3"
+            - generic [ref=f3e54]:
+              - strong [ref=f3e55]: Open Registration Link
+              - text: Click on the Agency Registration Link button below
+          - article [ref=f3e56]:
+            - generic [ref=f3e57]: "4"
+            - generic [ref=f3e58]:
+              - strong [ref=f3e59]: Submit ID
+              - text: Paste your Niki ID and click ‘Get’
+          - article [ref=f3e60]:
+            - generic [ref=f3e61]: "5"
+            - generic [ref=f3e62]:
+              - strong [ref=f3e63]: Get Verification Code
+              - text: Receive a verification code in your Niki app messages
+          - article [ref=f3e64]:
+            - generic [ref=f3e65]: "6"
+            - generic [ref=f3e66]:
+              - strong [ref=f3e67]: Complete Application
+              - text: Enter the code and click ‘Submit’
+        - generic [ref=f3e68]:
+          - link [ref=f3e70] [cursor=pointer]:
+            - /url: https://nikilive.id/wp-content/uploads/2026/03/How-to-Become-Niki-Live-Agent-Tutorial-2026-Steos.png
+            - img "How to Become Niki Live Agent Tutorial 2026 Steps" [ref=f3e71]
+            - generic [aria-hidden]:
+              - generic: Click to Zoom
+          - generic [ref=f3e72]:
+            - link "Join as Agent" [ref=f3e73] [cursor=pointer]:
+              - /url: https://wa.me/601113244099
+            - link "Learn More" [ref=f3e74] [cursor=pointer]:
+              - /url: "#commission"
+    - region [ref=f3e75]:
+      - generic [ref=f3e76]:
+        - generic [ref=f3e77]:
+          - generic [ref=f3e78]: Commission Structure
+          - heading "Agency Commission Table" [level=2] [ref=f3e79]
+          - paragraph [ref=f3e80]: Progressive commission rates rewarded as your agency team performance scales.
+        - table [ref=f3e82]:
+          - rowgroup [ref=f3e83]:
+            - row [ref=f3e84]:
+              - columnheader "Level" [ref=f3e85]
+              - columnheader "Beans/Week" [ref=f3e86]
+              - columnheader "Commission Rate" [ref=f3e87]
+          - rowgroup [ref=f3e88]:
+            - row [ref=f3e89]:
+              - cell "Level D" [ref=f3e90]
+              - cell "0 – 500.000" [ref=f3e91]
+              - cell "4%" [ref=f3e92]
+            - row [ref=f3e93]:
+              - cell "Level C" [ref=f3e94]
+              - cell "500.000 – 2.000.000" [ref=f3e95]
+              - cell "7%" [ref=f3e96]
+            - row [ref=f3e97]:
+              - cell "Level B" [ref=f3e98]
+              - cell "2.000.000 – 11.000.000" [ref=f3e99]
+              - cell "11%" [ref=f3e100]
+            - row [ref=f3e101]:
+              - cell "Level A" [ref=f3e102]
+              - cell "11.000.000 – 30.000.000" [ref=f3e103]
+              - cell "14%" [ref=f3e104]
+            - row [ref=f3e105]:
+              - cell "Level S" [ref=f3e106]
+              - cell "30.000.000 – 65.000.000" [ref=f3e107]
+              - cell "18%" [ref=f3e108]
+            - row [ref=f3e109]:
+              - cell "Level SS" [ref=f3e110]
+              - cell "65.000.000+" [ref=f3e111]
+              - cell "20%" [ref=f3e112]
+        - generic [ref=f3e113]:
+          - heading "Note:" [level=4] [ref=f3e114]
+          - generic [ref=f3e115]:
+            - paragraph [ref=f3e116]: • Agency commission rate is based on agency team total income from Monday to Sunday as a whole week.
+            - paragraph [ref=f3e117]: "• Host income includes: income from calls, gifts, and game share beans. Task rewards from the platform are excluded."
+    - region [ref=f3e118]:
+      - generic [ref=f3e119]:
+        - generic [ref=f3e120]:
+          - generic [ref=f3e121]: Payment System
+          - heading "Niki Live Withdrawal Methods & Rules" [level=2] [ref=f3e122]
+          - paragraph [ref=f3e123]: Reliable global payouts and weekly automatic transfers for registered agencies.
+        - generic [ref=f3e124]:
+          - article [ref=f3e125]:
+            - generic [ref=f3e126]:
+              - generic [ref=f3e127]: "1"
+              - heading "Available Methods" [level=3] [ref=f3e128]
+            - generic [ref=f3e129]:
+              - generic [ref=f3e130]:
+                - generic [ref=f3e131]: "1"
+                - generic [ref=f3e132]: Epay
+              - generic [ref=f3e133]:
+                - generic [ref=f3e134]: "2"
+                - generic [ref=f3e135]: Payoneer
+              - generic [ref=f3e136]:
+                - generic [ref=f3e137]: "3"
+                - generic [ref=f3e138]: PayPal
+              - generic [ref=f3e139]:
+                - generic [ref=f3e140]: "4"
+                - generic [ref=f3e141]: Bank Transfer
+          - article [ref=f3e142]:
+            - generic [ref=f3e143]:
+              - generic [ref=f3e144]: "2"
+              - heading "Withdrawal Information" [level=3] [ref=f3e145]
+            - generic [ref=f3e146]:
+              - generic [ref=f3e147]:
+                - generic [ref=f3e148]: "1"
+                - generic [ref=f3e149]: Commission is sent to the agency account every Monday
+              - generic [ref=f3e150]:
+                - generic [ref=f3e151]: "2"
+                - generic [ref=f3e152]: Agent and host can withdraw anytime
+              - generic [ref=f3e153]:
+                - generic [ref=f3e154]: "3"
+                - generic [ref=f3e155]: Minimum withdrawal must be at least $11.5
+    - region [ref=f3e156]:
+      - generic [ref=f3e157]:
+        - generic [ref=f3e158]:
+          - generic [ref=f3e159]: Agency Performance
+          - heading "Niki Live Agent Requirements & Target" [level=2] [ref=f3e160]
+          - paragraph [ref=f3e161]: Quality standards and operational targets to maintain an official agency partnership.
+        - generic [ref=f3e162]:
+          - article [ref=f3e163]:
+            - generic [ref=f3e164]: ✓
+            - paragraph [ref=f3e165]: Must maintain at least 10 active hosts
+          - article [ref=f3e166]:
+            - generic [ref=f3e167]: ✓
+            - paragraph [ref=f3e168]: Each must stream for at least 1 hour per day, 4 days a week
+          - article [ref=f3e169]:
+            - generic [ref=f3e170]: ✓
+            - paragraph [ref=f3e171]: Agency must have income of 500.000 beans every 2 weeks
+          - article [ref=f3e172]:
+            - generic [ref=f3e173]: ✓
+            - paragraph [ref=f3e174]: Supervise host behavior and guide hosts to create high-quality content
+    - region [ref=f3e175]:
+      - generic [ref=f3e176]:
+        - generic [ref=f3e177]:
+          - generic [ref=f3e178]: Compliance & Policies
+          - heading "Niki Live Agency Rules" [level=2] [ref=f3e179]
+          - paragraph [ref=f3e180]: All agents must adhere strictly to these platform rules to ensure fair and legal operation.
+        - generic [ref=f3e181]:
+          - article [ref=f3e182]:
+            - heading "🛑 Anti-poaching" [level=3] [ref=f3e183]:
+              - generic [ref=f3e184]: 🛑
+              - text: Anti-poaching
+            - paragraph [ref=f3e185]: Agents are strictly prohibited from recruiting hosts who belong to other Niki agencies.
+            - generic [ref=f3e186]:
+              - paragraph [ref=f3e187]: "⚠ 1st Offense: $10 penalty."
+              - paragraph [ref=f3e188]: "⚠ 2nd Offense: $100 penalty."
+              - paragraph [ref=f3e189]: "⚠ Repeated Violations: Forfeiture of all commissions and termination of the agency."
+          - article [ref=f3e190]:
+            - heading "🚫 Multi Host & Platform Rules" [level=3] [ref=f3e191]:
+              - generic [ref=f3e192]: 🚫
+              - text: Multi Host & Platform Rules
+            - paragraph [ref=f3e193]: It is strictly forbidden to promote other apps on Niki, and from joining more than one agency simultaneously
+            - generic [ref=f3e194]:
+              - paragraph [ref=f3e195]: ⚠ Promoting other apps will result in suspension and eventually permanent ban
+              - paragraph [ref=f3e196]: ⚠ Using multiple accounts to join one agency will result the host’s newest account be banned
+          - article [ref=f3e197]:
+            - heading "⚖️ Host Payment & Exchange Rate" [level=3] [ref=f3e198]:
+              - generic [ref=f3e199]: ⚖️
+              - text: Host Payment & Exchange Rate
+            - paragraph [ref=f3e200]: Unauthorized deductions from a host’s salary is forbidden, and when paying off hosts’ salary, agents must not exceed 5% of Google’s international exchange rate.
+            - paragraph [ref=f3e202]: ⚠ If a verified complaint is received from a host, Niki will stop distributing that host’s income share to the agent.
+          - article [ref=f3e203]:
+            - heading "📋 Management & Liability" [level=3] [ref=f3e204]:
+              - generic [ref=f3e205]: 📋
+              - text: Management & Liability
+            - paragraph [ref=f3e206]: Agents must maintain good relationships with hosts. actively manage their live schedules, and make sure they adhere to Niki Live’s rules.
+            - paragraph [ref=f3e208]: ⚠ If an agency’s violation causes serious financial losses to Niki, the responsible party will face legal punishment.
+    - region [ref=f3e209]:
+      - generic [ref=f3e210]:
+        - generic [ref=f3e211]:
+          - generic [ref=f3e212]: Milestone Rewards
+          - heading "Agency Growth Rewards" [level=2] [ref=f3e213]
+          - paragraph [ref=f3e214]: Key criteria, rank limitations, and rules governing agency growth rewards.
+        - generic [ref=f3e215]:
+          - tablist "Agency Growth Tabs" [ref=f3e216]:
+            - tab "Eligibility & Claims" [selected] [ref=f3e217] [cursor=pointer]
+            - tab "Eligible Host Criteria" [ref=f3e218] [cursor=pointer]
+            - tab "Ranking Limitations" [ref=f3e219] [cursor=pointer]
+            - tab "Penalties & Quality" [ref=f3e220] [cursor=pointer]
+          - tabpanel [ref=f3e221]:
+            - generic [ref=f3e222]:
+              - generic [ref=f3e223]: Reward Eligibility & Claim Rules
+              - generic [ref=f3e224]: Slide 1
+            - generic [ref=f3e225]:
+              - generic [ref=f3e226]:
+                - generic [ref=f3e227]: ✦
+                - paragraph [ref=f3e228]: Rewards are only unlocked when both the required number of eligible hosts and the shareable performance targets are met simultaneously.
+              - generic [ref=f3e229]:
+                - generic [ref=f3e230]: ✦
+                - paragraph [ref=f3e231]: Rewards earned this week are collected independently the following week.
+              - generic [ref=f3e232]:
+                - generic [ref=f3e233]: ✦
+                - paragraph [ref=f3e234]: Only the current level of rewards can be claimed each week.
+            - link [ref=f3e237] [cursor=pointer]:
+              - /url: https://nikilive.id/wp-content/uploads/2026/05/agency-growth-ranking-reward-explanation.png
+              - img "Niki Live Agency Growth Ranking Reward Explanation Chart" [ref=f3e238]
+              - generic [aria-hidden]:
+                - generic: Click to Zoom
+    - region [ref=f3e239]:
+      - generic [ref=f3e241]:
+        - generic [ref=f3e242]:
+          - generic [ref=f3e243]: Scale Your Team
+          - heading "Niki Live Sub-agent" [level=2] [ref=f3e244]
+          - paragraph [ref=f3e245]: A sub-agent is a partner operating under your primary agency account. Sub-agent operate as an independent agency with the exact same rights, rules, and privileges as a main agency.
+        - generic [ref=f3e246]:
+          - generic [ref=f3e247]:
+            - heading "⚡ Benefits" [level=3] [ref=f3e248]:
+              - generic [ref=f3e249]: ⚡
+              - text: Benefits
+            - generic [ref=f3e250]:
+              - paragraph [ref=f3e251]: ⚠ Their revenue is added to your overall weekly income calculation
+              - paragraph [ref=f3e252]: ⚠ Allows you to reach higher commission levels much faster.
+          - generic [ref=f3e253]:
+            - heading "📌 Notes" [level=3] [ref=f3e254]:
+              - generic [ref=f3e255]: 📌
+              - text: Notes
+            - generic [ref=f3e256]:
+              - paragraph [ref=f3e257]: ⚠ Sub-agent commission rate is determined entirely by their own total income.
+              - paragraph [ref=f3e258]: ⚠ The commission earned by the main agency from a sub-agency is a bonus provided directly by Niki Live. It is never deducted from the sub-agent’s earnings.
+    - region [ref=f3e259]:
+      - generic [ref=f3e260]:
+        - generic [ref=f3e261]:
+          - generic [ref=f3e262]: Exclusive Incentives
+          - heading "Niki Live New Agency Rewards" [level=2] [ref=f3e263]
+          - paragraph [ref=f3e264]: To collect this reward, you need to have prior experience as agents in other similar apps, with minimum weekly income of $1000.
+        - generic [ref=f3e265]:
+          - article [ref=f3e266]:
+            - heading "📋 Information We Collect" [level=3] [ref=f3e267]:
+              - generic [ref=f3e268]: 📋
+              - text: Information We Collect
+            - paragraph [ref=f3e269]: Required data for verification
+            - generic [ref=f3e270]:
+              - generic [ref=f3e271]: 1. Niki id
+              - generic [ref=f3e273]: 2. Agency Name
+              - generic [ref=f3e275]: 3. Phone Number
+              - generic [ref=f3e277]: 4. Country
+              - generic [ref=f3e279]: 5. Apps name
+              - generic [ref=f3e281]: 6. Previously apps weekly & total income
+          - article [ref=f3e283]:
+            - heading "💰 New Agency Rewards" [level=3] [ref=f3e284]:
+              - generic [ref=f3e285]: 💰
+              - text: New Agency Rewards
+            - paragraph [ref=f3e286]: Determined by your weekly income on the other apps
+            - generic [ref=f3e287]:
+              - generic [ref=f3e288]:
+                - generic [ref=f3e289]: 1000 USD
+                - generic [ref=f3e290]: 200.000 Coins
+              - generic [ref=f3e291]:
+                - generic [ref=f3e292]: 2000 USD
+                - generic [ref=f3e293]: 300.000 Coins
+              - generic [ref=f3e294]:
+                - generic [ref=f3e295]: 4000 USD
+                - generic [ref=f3e296]: 500.000 Coins
+              - generic [ref=f3e297]:
+                - generic [ref=f3e298]: 6000 USD
+                - generic [ref=f3e299]: 700.000 Coins
+              - generic [ref=f3e300]:
+                - generic [ref=f3e301]: 8000 USD
+                - generic [ref=f3e302]: 1.000.000 Coins
+          - article [ref=f3e303]:
+            - heading "🎁 New Hosts Rewards" [level=3] [ref=f3e304]:
+              - generic [ref=f3e305]: 🎁
+              - text: New Hosts Rewards
+            - paragraph [ref=f3e306]: Niki Live rewards any new agency successfully invited numbers of eligible hosts for the first month
+            - generic [ref=f3e307]:
+              - generic [ref=f3e308]:
+                - generic [ref=f3e309]: 5 Eligible Hosts
+                - generic [ref=f3e310]: 100.000 Coins (one time)
+              - generic [ref=f3e311]:
+                - generic [ref=f3e312]: 10 Eligible Hosts
+                - generic [ref=f3e313]: 150.000 Coins (one time)
+              - generic [ref=f3e314]:
+                - generic [ref=f3e315]: 15 Eligible Hosts
+                - generic [ref=f3e316]: 200.000 Coins (one time)
+            - paragraph [ref=f3e317]:
+              - strong [ref=f3e318]: "Notes:"
+              - text: Hosts must stream for at least 1 hour a day (counted as 1 effective day). Host with 6 effective days and 18 hours in a week will be counted as Eligible
+          - article [ref=f3e319]:
+            - heading "🏆 Agency Income & Club" [level=3] [ref=f3e320]:
+              - generic [ref=f3e321]: 🏆
+              - text: Agency Income & Club
+            - paragraph [ref=f3e322]: Any agency is incentives to reach a certain income and create or participate in club activity.
+            - generic [ref=f3e323]:
+              - generic [ref=f3e324]:
+                - generic [ref=f3e325]: 100 USD weekly income + 30 club members + level 2 rewards
+                - generic [ref=f3e326]: 100.000 Coins
+              - generic [ref=f3e327]:
+                - generic [ref=f3e328]: 250 USD weekly income
+                - generic [ref=f3e329]: 150.000 Coins
+              - generic [ref=f3e330]:
+                - generic [ref=f3e331]: 400 USD weekly income
+                - generic [ref=f3e332]: 200.000 Coins
+    - region [ref=f3e333]:
+      - generic [ref=f3e334]:
+        - generic [ref=f3e335]:
+          - generic [ref=f3e336]: Knowledge Base
+          - heading "Frequently Asked Questions" [level=2] [ref=f3e337]
+          - paragraph [ref=f3e338]: Find answers to the most common questions about agency recruitment, commissions, and policies.
+        - region "Agency Frequently Asked Questions Accordion" [ref=f3e339]:
+          - article [ref=f3e340]:
+            - 'button "FAQ 1: How can I become a Niki Live Agent?" [expanded] [ref=f3e341] [cursor=pointer]'
+            - list [ref=f3e348]:
+              - listitem [ref=f3e349]: • Download the Niki Live app on Android or iOS and sign up.
+              - listitem [ref=f3e350]: • Open your Niki Live profile and copy your Niki ID.
+              - listitem [ref=f3e351]: • Click the Agency Registration Link.
+              - listitem [ref=f3e352]: • Paste your Niki ID and click “Get”.
+              - listitem [ref=f3e353]: • Receive the verification code in your Niki Live messages.
+              - listitem [ref=f3e354]: • Enter the code and click “Submit” to complete registration.
+          - article [ref=f3e355]:
+            - 'button "FAQ 2: How is the Niki Live Agency commission calculated?" [ref=f3e356] [cursor=pointer]'
+          - article [ref=f3e361]:
+            - 'button "FAQ 3: What are the requirements to become a Niki Live Agency?" [ref=f3e362] [cursor=pointer]'
+          - article [ref=f3e367]:
+            - 'button "FAQ 4: What are the withdrawal methods and rules for Niki Live Agents?" [ref=f3e368] [cursor=pointer]'
+          - article [ref=f3e373]:
+            - 'button "FAQ 5: What are the punishments for violating the rules?" [ref=f3e374] [cursor=pointer]'
+    - region [ref=f3e379]:
+      - generic [ref=f3e382]:
+        - heading "Let’s Become an Official Niki Live Agency" [level=2] [ref=f3e383]
+        - paragraph [ref=f3e384]: Join tens of thousands other agencies in turning your skills into actual and reliable rewards.
+        - generic [ref=f3e385]:
+          - link "Join as Agent" [ref=f3e386] [cursor=pointer]:
+            - /url: "#register"
+          - link "Contact our Team" [ref=f3e387] [cursor=pointer]:
+            - /url: https://wa.me/601113244099
+  - dialog [aria-hidden]:
+    - generic:
+      - button: ✕
+      - generic:
+        - link:
+          - /url: "#"
+          - generic: Open Full Original in New Tab

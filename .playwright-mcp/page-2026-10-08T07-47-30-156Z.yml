@@ -1,0 +1,26 @@
+- generic:
+  - banner:
+    - generic [ref=e1]:
+      - link "Niki Live Official Agency Homepage" [ref=e2] [cursor=pointer]:
+        - /url: /
+        - img "Niki Live Official Logo" [ref=e3]
+        - generic [ref=e4]: Niki Live
+      - button "Toggle navigation menu" [expanded] [ref=e19] [cursor=pointer]
+      - generic [ref=e20]:
+        - navigation "Mobile Navigation" [ref=e21]:
+          - link "Home" [ref=e22] [cursor=pointer]:
+            - /url: /
+          - link "Become a Host" [ref=e23] [cursor=pointer]:
+            - /url: /become-a-host
+          - link "Become an Agency" [ref=e24] [cursor=pointer]:
+            - /url: /become-a-agent
+          - link "Coin Seller" [ref=e25] [cursor=pointer]:
+            - /url: /coin-seller
+          - link "Download" [ref=e26] [cursor=pointer]:
+            - /url: /download-niki
+          - button "Other" [active] [ref=e28] [cursor=pointer]
+        - generic [ref=e29]:
+          - link "Join as Agency" [ref=e30] [cursor=pointer]:
+            - /url: https://nh5013pidw.akamaized.net/ghmanage/ghmanage/invite_agent.html?guild_id=17666&guild_code=cd227867f95d4e479609912f41cdaad2&uid=0&version=&v=240819&roomid=0&lang=en&_app=niki&platform=&version_code=
+          - link "Join as Host" [ref=e31] [cursor=pointer]:
+            - /url: https://nm4138jpcid.akamaized.net/agent/invite/landing?uid=63555330&token=63555330&lang=en&_app=niki&imgId=&channelId=copy&templateId=1

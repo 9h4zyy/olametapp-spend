@@ -1,0 +1,204 @@
+- generic [active] [ref=f2e1]:
+  - main [ref=f2e2]:
+    - region [ref=f2e3]:
+      - generic [ref=f2e5]:
+        - generic [ref=f2e6]:
+          - generic [ref=f2e7]: Host Tutorial
+          - heading "Niki Live Host Tutorial & Guidelines" [level=1] [ref=f2e8]:
+            - generic [ref=f2e9]: Niki Live Host
+            - text: Tutorial & Guidelines
+          - paragraph [ref=f2e10]: Checkout how being a livestream host on Niki Live works, complete with rules and guidelines from an official agency.
+          - generic [ref=f2e11]:
+            - link "Face Verification Guide" [ref=f2e12] [cursor=pointer]:
+              - /url: "#verification"
+            - link "How to Withdraw" [ref=f2e13] [cursor=pointer]:
+              - /url: "#withdraw"
+        - img "Official Niki Live Host Broadcaster Tutorial and Guidelines" [ref=f2e17]
+    - region [ref=f2e18]:
+      - generic [ref=f2e19]:
+        - generic [ref=f2e20]:
+          - generic [ref=f2e21]: Compliance & Policy
+          - heading "Niki Live Rules" [level=2] [ref=f2e22]
+          - paragraph [ref=f2e23]: Essential registration and broadcasting standards all hosts must strictly observe.
+        - generic [ref=f2e24]:
+          - article [ref=f2e25]:
+            - heading "📋 Registration Rules" [level=3] [ref=f2e26]:
+              - generic [ref=f2e27]: 📋
+              - text: Registration Rules
+            - generic [ref=f2e28]:
+              - paragraph [ref=f2e29]: ⚠ 1. Hosts are prohibited from registering multiple accounts
+              - paragraph [ref=f2e30]: ⚠ 2. Engaging in pornographic or sexuality content is prohibited
+              - paragraph [ref=f2e31]: ⚠ 3. Promotion of third-party platforms is prohibited
+              - paragraph [ref=f2e32]: ⚠ 4. Minors are prohibited from live streaming
+          - article [ref=f2e33]:
+            - heading "📸 Live Cover Photo Rules" [level=3] [ref=f2e34]:
+              - generic [ref=f2e35]: 📸
+              - text: Live Cover Photo Rules
+            - generic [ref=f2e36]:
+              - paragraph [ref=f2e37]: ⚠ 1. Only hosts with qualified cover photos will appear on the live page
+              - paragraph [ref=f2e38]: ⚠ 2. Your live cover photo must look presentable and attractive
+              - paragraph [ref=f2e39]: ⚠ 3. Your live background should be clean and bright
+              - paragraph [ref=f2e40]: ⚠ 4. Hosts should use a high-quality upper body photo for the live cover.
+    - region [ref=f2e41]:
+      - generic [ref=f2e42]:
+        - generic [ref=f2e43]:
+          - generic [ref=f2e44]: Best Practices
+          - heading "Niki Live Host Guidelines" [level=2] [ref=f2e45]
+          - paragraph [ref=f2e46]: Follow these practical steps across each broadcasting phase to increase audience engagement and virtual gifts.
+        - generic [ref=f2e47]:
+          - article [ref=f2e48]:
+            - generic [ref=f2e49]:
+              - generic [ref=f2e50]: Phase 1
+              - heading "Before Livestream" [level=3] [ref=f2e51]
+            - generic [ref=f2e52]:
+              - generic [ref=f2e53]:
+                - generic [ref=f2e54]: ✓
+                - paragraph [ref=f2e55]: Set up a clean and tidy background
+              - generic [ref=f2e56]:
+                - generic [ref=f2e57]: ✓
+                - paragraph [ref=f2e58]: Show your upper body, not just your face or head
+              - generic [ref=f2e59]:
+                - generic [ref=f2e60]: ✓
+                - paragraph [ref=f2e61]: Apply makeup before going live
+              - generic [ref=f2e62]:
+                - generic [ref=f2e63]: ✓
+                - paragraph [ref=f2e64]: Avoid low-quality setups such as lying down or filming empty spaces
+          - article [ref=f2e65]:
+            - generic [ref=f2e66]:
+              - generic [ref=f2e67]: Phase 2
+              - heading "During Livestream" [level=3] [ref=f2e68]
+            - generic [ref=f2e69]:
+              - generic [ref=f2e70]:
+                - generic [ref=f2e71]: ✓
+                - paragraph [ref=f2e72]: Check your livestream periodically
+              - generic [ref=f2e73]:
+                - generic [ref=f2e74]: ✓
+                - paragraph [ref=f2e75]: Interact with viewers properly. Greet, talk, and thank them
+              - generic [ref=f2e76]:
+                - generic [ref=f2e77]: ✓
+                - paragraph [ref=f2e78]: Guide viewers to follow or gifts your room
+          - article [ref=f2e79]:
+            - generic [ref=f2e80]:
+              - generic [ref=f2e81]: Phase 3
+              - heading "After Livestream" [level=3] [ref=f2e82]
+            - generic [ref=f2e83]:
+              - generic [ref=f2e84]:
+                - generic [ref=f2e85]: ✓
+                - paragraph [ref=f2e86]: Get in touch with the gifters to further maintain the relationship
+              - generic [ref=f2e87]:
+                - generic [ref=f2e88]: ✓
+                - paragraph [ref=f2e89]: Post the highlight moment to the community page to get more traffic
+        - link [ref=f2e92] [cursor=pointer]:
+          - /url: https://nikilive.id/wp-content/uploads/2026/10/Image-Niki.jpeg
+          - img "Niki Live Host Guidelines Example Demonstration" [ref=f2e93]
+          - generic [aria-hidden]:
+            - generic: Click to Zoom
+    - region [ref=f2e94]:
+      - generic [ref=f2e95]:
+        - generic [ref=f2e96]:
+          - generic [ref=f2e97]: Verification Walkthrough
+          - heading "How to Complete Face Verification for Host" [level=2] [ref=f2e98]
+          - paragraph [ref=f2e99]: Complete your biometric verification to activate your official host broadcasting features.
+        - generic [ref=f2e100]:
+          - article [ref=f2e101]:
+            - generic [ref=f2e102]: "1"
+            - paragraph [ref=f2e103]: Go to your Niki Live homepage then click ‘Start Live’
+          - article [ref=f2e104]:
+            - generic [ref=f2e105]: "2"
+            - paragraph [ref=f2e106]: Click ‘Verify Now’
+          - article [ref=f2e107]:
+            - generic [ref=f2e108]: "3"
+            - paragraph [ref=f2e109]: Follow the on-screen instructions for face verification
+          - article [ref=f2e110]:
+            - generic [ref=f2e111]: "4"
+            - paragraph [ref=f2e112]: Once completed, we will verify it. The process can take up to 3 business days
+        - link [ref=f2e115] [cursor=pointer]:
+          - /url: https://nikilive.id/wp-content/uploads/2026/03/How-to-Complete-Niki-Live-Host-Face-Verification-Step-by-step.jpg
+          - img "How to Complete Niki Live Host Face Verification Step by Step Guide" [ref=f2e116]
+          - generic [aria-hidden]:
+            - generic: Click to Zoom
+    - region [ref=f2e117]:
+      - generic [ref=f2e118]:
+        - generic [ref=f2e119]:
+          - generic [ref=f2e120]: Cashout Walkthrough
+          - heading "How to Withdraw Your Earnings" [level=2] [ref=f2e121]
+          - paragraph [ref=f2e122]: Step-by-step procedure to exchange your Beans and withdraw funds directly to your preferred payment account.
+        - generic [ref=f2e123]:
+          - article [ref=f2e124]:
+            - generic [ref=f2e125]:
+              - generic [ref=f2e126]: "1"
+              - heading "Access Beans Menu" [level=3] [ref=f2e127]
+            - paragraph [ref=f2e128]: Log in to your host or agent account and open your profile
+            - generic [ref=f2e129]:
+              - paragraph [ref=f2e130]: ▸ Your account needs to be verified and is an active host before you can receive your balance.
+              - paragraph [ref=f2e131]: ▸ In the profile you will see your ‘Beans’
+          - article [ref=f2e132]:
+            - generic [ref=f2e133]:
+              - generic [ref=f2e134]: "2"
+              - heading "Select Payout Method" [level=3] [ref=f2e135]
+            - paragraph [ref=f2e136]: Click the ‘Beans’ menu
+            - generic [ref=f2e137]:
+              - paragraph [ref=f2e138]: ▸ Click the ‘Recharge’ button
+              - paragraph [ref=f2e139]: ▸ Click ‘Withdraw’
+              - paragraph [ref=f2e140]: ▸ Choose your preferred methods. We offer bank transfer, PayPal, Epay, Binance, USDT, G-cash, and e-wallet (availability depends on your country)
+          - article [ref=f2e141]:
+            - generic [ref=f2e142]:
+              - generic [ref=f2e143]: "3"
+              - heading "Submit Payout Details" [level=3] [ref=f2e144]
+            - paragraph [ref=f2e145]: Enter your preferred payout information
+            - generic [ref=f2e146]:
+              - paragraph [ref=f2e147]: ▸ If using bank, fill in your name, account number, and bank name
+              - paragraph [ref=f2e148]: ▸ If using PayPal, fill in your PayPal email address
+              - paragraph [ref=f2e149]: ▸ Enter the correct information, otherwise it will fail
+              - paragraph [ref=f2e150]: ▸ Determine the amount you want to exchange to USD
+              - paragraph [ref=f2e151]: ▸ Minimum payout amount is 2,000,000 beans or 200 USD. This amount may change.
+              - paragraph [ref=f2e152]: ▸ After everything is correct, click ‘Submit’
+        - generic [ref=f2e153]:
+          - generic [ref=f2e154]:
+            - generic [ref=f2e155]: Step 1 Visual Guide
+            - link [ref=f2e156] [cursor=pointer]:
+              - /url: https://nikilive.id/wp-content/uploads/2026/03/Withdraw-Niki-Live-Step-1.jpg
+              - img "Niki Live Host Withdrawal Step 1 Beans Menu and Recharge" [ref=f2e157]
+              - generic [aria-hidden]:
+                - generic: Click to Zoom
+          - generic [ref=f2e158]:
+            - generic [ref=f2e159]: Step 2 Visual Guide
+            - link [ref=f2e160] [cursor=pointer]:
+              - /url: https://nikilive.id/wp-content/uploads/2026/03/Withdraw-Niki-Live-Step-2.jpg
+              - img "Niki Live Host Withdrawal Step 2 Enter Payout Details and Methods" [ref=f2e161]
+              - generic [aria-hidden]:
+                - generic: Click to Zoom
+    - region [ref=f2e162]:
+      - generic [ref=f2e163]:
+        - generic [ref=f2e164]:
+          - generic [ref=f2e165]: Knowledge Base
+          - heading "Frequently Asked Questions" [level=2] [ref=f2e166]
+          - paragraph [ref=f2e167]: Clear answers to common questions regarding host guidelines, face verification, and withdrawals.
+        - region "Tutorial Host Frequently Asked Questions Accordion" [ref=f2e168]:
+          - article [ref=f2e169]:
+            - 'button "FAQ 1: What are the general rules for hosts?" [expanded] [ref=f2e170] [cursor=pointer]'
+            - paragraph [ref=f2e176]: Hosts may only have one account each, and content must never be pornographic or sexual in nature. Promoting third-party platforms is not allowed, and minors are prohibited from livestreaming.
+          - article [ref=f2e177]:
+            - 'button "FAQ 2: What are the rules for a live cover photo?" [ref=f2e178] [cursor=pointer]'
+          - article [ref=f2e183]:
+            - 'button "FAQ 3: What should hosts do before, during, and after a livestream?" [ref=f2e184] [cursor=pointer]'
+          - article [ref=f2e189]:
+            - 'button "FAQ 4: How do I complete face verification?" [ref=f2e190] [cursor=pointer]'
+          - article [ref=f2e195]:
+            - 'button "FAQ 5: How do I withdraw my earnings?" [ref=f2e196] [cursor=pointer]'
+    - region [ref=f2e201]:
+      - generic [ref=f2e204]:
+        - heading "Start your livestream host career with an official agency partner" [level=2] [ref=f2e205]
+        - paragraph [ref=f2e206]: Free to register with full guide and mentoring from us. Start whenever you want, we are always ready to help you start.
+        - generic [ref=f2e207]:
+          - link "Join as Host" [ref=f2e208] [cursor=pointer]:
+            - /url: /become-a-host
+          - link "Contact our Team" [ref=f2e209] [cursor=pointer]:
+            - /url: https://wa.me/601113244099
+  - dialog [aria-hidden]:
+    - generic:
+      - button: ✕
+      - generic:
+        - link:
+          - /url: "#"
+          - generic: Open Full Original in New Tab

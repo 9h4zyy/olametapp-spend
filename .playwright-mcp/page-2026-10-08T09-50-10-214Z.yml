@@ -1,0 +1,250 @@
+- generic [active] [ref=e1]:
+  - main [ref=e2]:
+    - region [ref=e3]:
+      - generic [ref=e5]:
+        - generic [ref=e6]:
+          - generic [ref=e7]: Coin Trading Program
+          - heading "Become a Niki Live Coin Seller" [level=1] [ref=e8]:
+            - generic [ref=e9]: Become a Niki Live
+            - text: Coin Seller
+          - paragraph [ref=e10]: Your alternative income source as an agent on Niki Live! Coin Seller is for anyone who’s eligible to buy coins from Niki and sell them to users for profit.
+          - generic [ref=e11]:
+            - link "How to Buy Coins" [ref=e12] [cursor=pointer]:
+              - /url: "#how-to-buy"
+            - link "Coin Seller Guides" [ref=e13] [cursor=pointer]:
+              - /url: "#guides"
+        - img "Official Niki Live Coin Seller Program and Digital Currency Trading" [ref=e17]
+    - region [ref=e18]:
+      - generic [ref=e19]:
+        - generic [ref=e20]:
+          - generic [ref=e21]: Profit Margins
+          - heading "Coin Seller Benefits" [level=2] [ref=e22]
+          - paragraph [ref=e23]: Generate reliable daily earnings through attractive profit spreads when supplying trading coins.
+        - generic [ref=e24]:
+          - article [ref=e25]:
+            - generic [ref=e26]: 10% to 21%
+            - heading "Profit" [level=3] [ref=e27]
+            - paragraph [ref=e28]: For selling coins to users
+          - article [ref=e29]:
+            - generic [ref=e30]: 7% to 14%
+            - heading "Profit" [level=3] [ref=e31]
+            - paragraph [ref=e32]: For selling coins to other agents
+    - region [ref=e33]:
+      - generic [ref=e34]:
+        - generic [ref=e35]:
+          - generic [ref=e36]: Eligibility Criteria
+          - heading "Two Ways to Become a Coin Seller" [level=2] [ref=e37]
+          - paragraph [ref=e38]: Qualify for official coin trader status by fulfilling either of the following requirements.
+        - generic [ref=e39]:
+          - article [ref=e40]:
+            - generic [ref=e41]: Option One
+            - paragraph [ref=e42]: An agent with $1000+ weekly earnings, made a one-time purchase of $1000 worth of coins from Niki Live
+          - article [ref=e43]:
+            - generic [ref=e44]: Option Two
+            - paragraph [ref=e45]: A one time purchase of $1600 worth of coins from Niki Live
+    - region [ref=e46]:
+      - generic [ref=e47]:
+        - generic [ref=e48]:
+          - generic [ref=e49]: Acquisition Methods
+          - heading "How to Buy Coins to Sell" [level=2] [ref=e50]
+          - paragraph [ref=e51]: Acquire your initial coin inventory via in-app recharge or direct bean conversion.
+        - generic [ref=e52]:
+          - article [ref=e53]:
+            - generic [ref=e54]:
+              - heading "Recharge on Niki" [level=3] [ref=e55]
+              - generic [ref=e56]: Direct Purchase
+            - generic [ref=e57]:
+              - generic [ref=e58]:
+                - generic [ref=e59]: Step 1
+                - paragraph [ref=e60]: On your profile page, tap “Coin Seller” menu
+              - generic [ref=e61]:
+                - generic [ref=e62]: Step 2
+                - paragraph [ref=e63]: Then, tap “Recharge Now”
+              - generic [ref=e64]:
+                - generic [ref=e65]: Step 3
+                - paragraph [ref=e66]: Lastly, select the amount and follow the instructions
+            - generic [ref=e67]:
+              - generic [ref=e68]:
+                - generic [ref=e69]: Step 1 Screen
+                - link [ref=e70] [cursor=pointer]:
+                  - /url: https://nikilive.id/wp-content/uploads/2023/12/a-Buy-trading-coins-from-Niki-1.webp
+                  - img "Recharge Coins on Niki Live Profile Coin Seller Menu" [ref=e71]
+                  - generic [aria-hidden]:
+                    - generic: Click to Zoom
+              - generic [ref=e72]:
+                - generic [ref=e73]: Step 2 Screen
+                - link [ref=e74] [cursor=pointer]:
+                  - /url: https://nikilive.id/wp-content/uploads/2023/12/a-Buy-trading-coins-from-Niki-2.webp
+                  - img "Recharge Now Button in Niki Live Coin Seller Page" [ref=e75]
+                  - generic [aria-hidden]:
+                    - generic: Click to Zoom
+              - generic [ref=e76]:
+                - generic [ref=e77]: Step 3 Screen
+                - link [ref=e78] [cursor=pointer]:
+                  - /url: https://nikilive.id/wp-content/uploads/2023/12/a-Buy-trading-coins-from-Niki-3-2.webp
+                  - img "Select Coin Amount and Follow Recharge Instructions" [ref=e79]
+                  - generic [aria-hidden]:
+                    - generic: Click to Zoom
+          - article [ref=e80]:
+            - generic [ref=e81]:
+              - heading "Exchange Beans for Coins" [level=3] [ref=e82]
+              - generic [ref=e83]: Bean Conversion
+            - generic [ref=e84]:
+              - generic [ref=e85]:
+                - generic [ref=e86]: Step 1
+                - paragraph [ref=e87]: On your profile page, tap “Coin Seller” menu
+              - generic [ref=e88]:
+                - generic [ref=e89]: Step 2
+                - paragraph [ref=e90]: Click the “Exchange Bean for Trading Coins” button
+              - generic [ref=e91]:
+                - generic [ref=e92]: Step 3
+                - paragraph [ref=e93]: Enter the amount you wish to exchange and confirm
+            - generic [ref=e94]:
+              - generic [ref=e95]:
+                - generic [ref=e96]: Step 1 Screen
+                - link [ref=e97] [cursor=pointer]:
+                  - /url: https://nikilive.id/wp-content/uploads/2023/12/a-Buy-trading-coins-from-Niki-1.webp
+                  - img "Access Coin Seller Menu on Niki Live Profile" [ref=e98]
+                  - generic [aria-hidden]:
+                    - generic: Click to Zoom
+              - generic [ref=e99]:
+                - generic [ref=e100]: Step 2 Screen
+                - link [ref=e101] [cursor=pointer]:
+                  - /url: https://nikilive.id/wp-content/uploads/2023/12/a.-Proper-setup-of-seller-accounts.webp
+                  - img "Select Exchange Bean for Trading Coins Option" [ref=e102]
+                  - generic [aria-hidden]:
+                    - generic: Click to Zoom
+              - generic [ref=e103]:
+                - generic [ref=e104]: Step 3 Screen
+                - link [ref=e105] [cursor=pointer]:
+                  - /url: https://nikilive.id/wp-content/uploads/2023/12/b-Use-beans-to-exchange-for-trading-coins-2.webp
+                  - img "Enter Beans Exchange Amount and Confirm Transaction" [ref=e106]
+                  - generic [aria-hidden]:
+                    - generic: Click to Zoom
+    - region [ref=e107]:
+      - generic [ref=e108]:
+        - generic [ref=e109]:
+          - generic [ref=e110]: Operational Standards
+          - heading "Coin Seller Guides" [level=2] [ref=e111]
+          - paragraph [ref=e112]: Essential instructions for account configuration, balance maintenance, and transaction processing.
+        - article [ref=e113]:
+          - generic [ref=e114]:
+            - text: Guide 1
+            - heading "Properly Setup Your Account" [level=3] [ref=e115]
+          - paragraph [ref=e116]: Setup your region, currencies, and phone number properly to increase your visibility on the platform
+          - generic [ref=e117]:
+            - generic [ref=e118]:
+              - generic [ref=e119]: "1"
+              - paragraph [ref=e120]: On the Coin Seller page, click on the icon in the top right corner.
+            - generic [ref=e121]:
+              - generic [ref=e122]: "2"
+              - paragraph [ref=e123]: On the trading account management menu, select “Tradable currencies” menu
+            - generic [ref=e124]:
+              - generic [ref=e125]: "3"
+              - paragraph [ref=e126]: Choose the region/currencies you want to use and fill in your phone number
+            - generic [ref=e127]:
+              - generic [ref=e128]: 💡
+              - paragraph [ref=e129]: Users can contact you via the phone number
+          - generic [ref=e130]:
+            - generic [ref=e131]:
+              - generic [ref=e132]: Account Settings
+              - link [ref=e133] [cursor=pointer]:
+                - /url: https://nikilive.id/wp-content/uploads/2023/12/a.-Proper-setup-of-seller-accounts-2-3.webp
+                - img "Coin Seller Account Settings Setup Step 1" [ref=e134]
+                - generic [aria-hidden]:
+                  - generic: Click to Zoom
+            - generic [ref=e135]:
+              - generic [ref=e136]: Currency Selection
+              - link [ref=e137] [cursor=pointer]:
+                - /url: https://nikilive.id/wp-content/uploads/2023/12/a.-Proper-setup-of-seller-accounts-2-3.webp
+                - img "Coin Seller Tradable Currencies Menu Setup" [ref=e138]
+                - generic [aria-hidden]:
+                  - generic: Click to Zoom
+            - generic [ref=e139]:
+              - generic [ref=e140]: Contact Registration
+              - link [ref=e141] [cursor=pointer]:
+                - /url: https://nikilive.id/wp-content/uploads/2023/12/a.-Proper-setup-of-seller-accounts-3-1.webp
+                - img "Add Region and Phone Number for Coin Seller Buyers" [ref=e142]
+                - generic [aria-hidden]:
+                  - generic: Click to Zoom
+        - article [ref=e143]:
+          - generic [ref=e144]:
+            - text: Guide 2
+            - heading "Maintaining Enough Trading Coins" [level=3] [ref=e145]
+          - paragraph [ref=e146]: With a good amount of coins in your account, you will earn various perks and benefits
+          - generic [ref=e147]:
+            - generic [ref=e148]:
+              - generic [ref=e149]: ⭐
+              - paragraph [ref=e150]: "1M+ Coins: access to “Customer Management” menu, where you can manage customers and find potential buyers"
+            - generic [ref=e151]:
+              - generic [ref=e152]: ⭐
+              - paragraph [ref=e153]: "1M+ Coins: your account will receive the official coin seller logo/icon. When you have fewer than 1M, the logo will disappear."
+            - generic [ref=e154]:
+              - generic [ref=e155]: ⭐
+              - paragraph [ref=e156]: "Purchased 3M coins + have 2M+ coins: you will receive more exposure and promotion on the official Coin Seller page."
+        - article [ref=e157]:
+          - generic [ref=e158]:
+            - text: Guide 3
+            - heading "Selling Your Trading Coins" [level=3] [ref=e159]
+          - paragraph [ref=e160]: "You can sell your coins at any price you want, however, if you’re new, we recommend you to follow this information:"
+          - generic [ref=e161]:
+            - generic [ref=e162]:
+              - table [ref=e163]:
+                - rowgroup [ref=e164]:
+                  - row [ref=e165]:
+                    - columnheader "Purchase amount" [ref=e166]
+                    - columnheader "Recommended Price" [ref=e167]
+                - rowgroup [ref=e168]:
+                  - row [ref=e169]:
+                    - cell "Less than $20" [ref=e170]
+                    - cell "9300 Coins per $1" [ref=e171]
+                  - row [ref=e172]:
+                    - cell "More than $20" [ref=e173]
+                    - cell "9500 Coins per $1" [ref=e174]
+              - generic [ref=e175]:
+                - heading "How to sell" [level=4] [ref=e176]
+                - paragraph [ref=e177]: On the “Coin Trade” page, select your account, then enter the buyer’s ID and the amount they buy, and lastly confirm the transfer.
+            - generic [ref=e178]:
+              - generic [ref=e179]: Coin Trade Interface
+              - link [ref=e180] [cursor=pointer]:
+                - /url: https://nikilive.id/wp-content/uploads/2023/12/b.-How-can-you-sell-your-trading-coins-1.webp
+                - img "Niki Live Coin Trade Page How to Sell Trading Coins Interface" [ref=e181]
+                - generic [aria-hidden]:
+                  - generic: Click to Zoom
+        - article [ref=e183]:
+          - generic [ref=e184]: Important Notice
+          - heading "Coin Seller Account Deactivation" [level=3] [ref=e185]
+          - paragraph [ref=e186]: "We will automatically deactivate your Ccoin Seller account if: you have less than 200.000 coins transactions for 15 consecutive days and your account balance is less than 1M coins."
+    - region [ref=e187]:
+      - generic [ref=e188]:
+        - heading "Frequently Asked Questions" [level=2] [ref=e190]
+        - region "Coin Seller FAQs" [ref=e191]:
+          - article [ref=e192]:
+            - button "What is a Niki Live Coin Seller?" [expanded] [ref=e193] [cursor=pointer]
+            - region "What is a Niki Live Coin Seller?" [ref=e197]:
+              - paragraph [ref=e198]: A Niki Live Coin Seller is a user who can purchase coins from Niki Live and sell them to other users or agents. It allows eligible users to earn additional income through coin trading on the platform.
+          - article [ref=e199]:
+            - button "How much profit can I earn as a Coin Seller?" [ref=e200] [cursor=pointer]
+          - article [ref=e204]:
+            - button "Who can become a Niki Live Coin Seller?" [ref=e205] [cursor=pointer]
+          - article [ref=e209]:
+            - button "How do I get coins to start selling?" [ref=e210] [cursor=pointer]
+          - article [ref=e214]:
+            - button "How can I increase my visibility and attract more buyers as a Coin Seller?" [ref=e215] [cursor=pointer]
+    - region [ref=e219]:
+      - generic [ref=e221]:
+        - generic [ref=e222]: Direct Official Assistance
+        - heading "Have more questions regarding Coin Seller?" [level=2] [ref=e223]
+        - paragraph [ref=e224]: Reach out to our dedicated agency managers for coin inventory allocations, currency setup, or bulk trading requirements.
+        - generic [ref=e225]:
+          - link "Contact Our Team" [ref=e226] [cursor=pointer]:
+            - /url: https://t.me/NikiLiveSupport
+          - link "Become an Agent" [ref=e227] [cursor=pointer]:
+            - /url: /become-a-agent
+  - dialog [aria-hidden]:
+    - generic:
+      - button: ✕
+      - generic:
+        - link:
+          - /url: "#"
+          - generic: Open Full Original in New Tab

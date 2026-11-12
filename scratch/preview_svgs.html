@@ -1,0 +1,367 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Hero SVGs Preview</title>
+  <style>
+    body {
+      margin: 0;
+      padding: 40px;
+      background: #090614;
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+      color: #fff;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      min-height: 100vh;
+    }
+    h1 {
+      margin-bottom: 30px;
+      background: linear-gradient(135deg, #f472b6, #c084fc);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+    }
+    .preview-grid {
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      gap: 30px;
+      max-width: 1000px;
+      width: 100%;
+    }
+    .card {
+      background: rgba(255, 255, 255, 0.04);
+      border: 1px solid rgba(255, 255, 255, 0.1);
+      border-radius: 16px;
+      padding: 30px 20px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      position: relative;
+      overflow: hidden;
+    }
+    .card::before {
+      content: '';
+      position: absolute;
+      width: 120px;
+      height: 120px;
+      border-radius: 50%;
+      background: radial-gradient(circle, rgba(168, 85, 247, 0.25), transparent 70%);
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      z-index: 0;
+    }
+    .card h3 {
+      margin-top: 20px;
+      margin-bottom: 5px;
+      font-size: 15px;
+      color: #e2e8f0;
+      z-index: 1;
+    }
+    .card span {
+      font-size: 12px;
+      color: #94a3b8;
+      z-index: 1;
+    }
+    .svg-wrapper {
+      position: relative;
+      z-index: 1;
+      filter: drop-shadow(0 12px 25px rgba(0, 0, 0, 0.6)) drop-shadow(0 0 15px rgba(147, 51, 234, 0.35));
+    }
+    
+    /* Specific sizes */
+    .preview-live {
+      width: 120px;
+      height: auto;
+    }
+    .preview-heart {
+      width: 80px;
+      height: auto;
+    }
+    .preview-gift {
+      width: 85px;
+      height: auto;
+    }
+    .preview-beans {
+      width: 95px;
+      height: auto;
+    }
+  </style>
+</head>
+<body>
+  <h1>Olamet Hero Vector SVGs Test</h1>
+  <div class="preview-grid">
+    <!-- 1. LIVE BADGE -->
+    <div class="card">
+      <div class="svg-wrapper">
+        <svg class="preview-live" viewBox="0 0 160 54" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Olamet Live Streaming Badge">
+          <defs>
+            <linearGradient id="livePillBg" x1="0%" y1="0%" x2="100%" y2="100%">
+              <stop offset="0%" stop-color="#3b0764" stop-opacity="0.95"/>
+              <stop offset="50%" stop-color="#581c87" stop-opacity="0.92"/>
+              <stop offset="100%" stop-color="#9d174d" stop-opacity="0.95"/>
+            </linearGradient>
+            <linearGradient id="livePillBorder" x1="0%" y1="0%" x2="100%" y2="100%">
+              <stop offset="0%" stop-color="#c084fc"/>
+              <stop offset="50%" stop-color="#f472b6"/>
+              <stop offset="100%" stop-color="#ffffff" stop-opacity="0.8"/>
+            </linearGradient>
+            <radialGradient id="liveDotPulse" cx="50%" cy="50%" r="50%">
+              <stop offset="0%" stop-color="#ff0055"/>
+              <stop offset="40%" stop-color="#ff0055" stop-opacity="0.9"/>
+              <stop offset="70%" stop-color="#ff0055" stop-opacity="0.3"/>
+              <stop offset="100%" stop-color="#ff0055" stop-opacity="0"/>
+            </radialGradient>
+            <radialGradient id="liveDotCore" cx="38%" cy="38%" r="62%">
+              <stop offset="0%" stop-color="#ffffff"/>
+              <stop offset="25%" stop-color="#ff4d79"/>
+              <stop offset="80%" stop-color="#e11d48"/>
+              <stop offset="100%" stop-color="#9f1239"/>
+            </radialGradient>
+            <linearGradient id="liveGlassGloss" x1="0%" y1="0%" x2="0%" y2="100%">
+              <stop offset="0%" stop-color="#ffffff" stop-opacity="0.45"/>
+              <stop offset="100%" stop-color="#ffffff" stop-opacity="0.0"/>
+            </linearGradient>
+            <filter id="liveNeonGlow" x="-20%" y="-20%" width="140%" height="140%">
+              <feGaussianBlur stdDeviation="3" result="blur"/>
+              <feComposite in="SourceGraphic" in2="blur" operator="over"/>
+            </filter>
+          </defs>
+
+          <!-- Outer Glass Capsule -->
+          <rect x="2" y="2" width="156" height="50" rx="25" fill="url(#livePillBg)" stroke="url(#livePillBorder)" stroke-width="2"/>
+          
+          <!-- Upper Glass Specular Curve -->
+          <path d="M 26 5 Q 80 12 134 5 Q 148 5 152 14 C 130 19 80 20 8 14 Q 12 5 26 5 Z" fill="url(#liveGlassGloss)"/>
+
+          <!-- Live Recording Orb with Glowing Halo -->
+          <circle cx="32" cy="27" r="16" fill="url(#liveDotPulse)"/>
+          <circle cx="32" cy="27" r="8" fill="url(#liveDotCore)" filter="url(#liveNeonGlow)"/>
+          <circle cx="30" cy="24" r="2.5" fill="#ffffff" opacity="0.9"/>
+
+          <!-- Vectorized Bold LIVE Text -->
+          <path d="M 60 18 H 67 V 32 H 76 V 37 H 60 Z" fill="#ffffff"/>
+          <path d="M 81 18 H 88 V 37 H 81 Z" fill="#ffffff"/>
+          <path d="M 93 18 H 100 L 106.5 32 L 113 18 H 120 L 110.5 37 H 102.5 Z" fill="#ffffff"/>
+          <path d="M 125 18 H 142 V 23 H 132 V 25.5 H 140 V 30 H 132 V 32 H 142 V 37 H 125 Z" fill="#ffffff"/>
+
+          <!-- Sparkle Accent -->
+          <path d="M 148 10 Q 148 15 153 15 Q 148 15 148 20 Q 148 15 143 15 Q 148 15 148 10 Z" fill="#ffffff" opacity="0.9"/>
+        </svg>
+      </div>
+      <h3>Live Badge</h3>
+      <span>.float-badge-live</span>
+    </div>
+
+    <!-- 2. 3D HEART -->
+    <div class="card">
+      <div class="svg-wrapper">
+        <svg class="preview-heart" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Olamet Live Heart Interaction">
+          <defs>
+            <radialGradient id="heartCoreGrad" cx="42%" cy="40%" r="58%">
+              <stop offset="0%" stop-color="#ff71a2"/>
+              <stop offset="35%" stop-color="#ff0066"/>
+              <stop offset="70%" stop-color="#d90057"/>
+              <stop offset="100%" stop-color="#70003b"/>
+            </radialGradient>
+            <linearGradient id="heartRimGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+              <stop offset="0%" stop-color="#ffffff" stop-opacity="0.85"/>
+              <stop offset="40%" stop-color="#ff66a3" stop-opacity="0.5"/>
+              <stop offset="80%" stop-color="#ff0077" stop-opacity="0.8"/>
+              <stop offset="100%" stop-color="#c026d3" stop-opacity="0.9"/>
+            </linearGradient>
+            <linearGradient id="heartHighlight" x1="20%" y1="0%" x2="50%" y2="80%">
+              <stop offset="0%" stop-color="#ffffff" stop-opacity="0.9"/>
+              <stop offset="60%" stop-color="#ffffff" stop-opacity="0.2"/>
+              <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+            </linearGradient>
+            <radialGradient id="heartCenterGlow" cx="48%" cy="45%" r="35%">
+              <stop offset="0%" stop-color="#ffe4f0" stop-opacity="0.7"/>
+              <stop offset="50%" stop-color="#ff2e80" stop-opacity="0.3"/>
+              <stop offset="100%" stop-color="#ff0066" stop-opacity="0"/>
+            </radialGradient>
+            <filter id="heartSoftGlow" x="-20%" y="-20%" width="140%" height="140%">
+              <feGaussianBlur stdDeviation="4" result="glow"/>
+              <feComposite in="SourceGraphic" in2="glow" operator="over"/>
+            </filter>
+          </defs>
+
+          <!-- Ambient Outer Glow -->
+          <path d="M 50 86 C 24 68 8 50 8 32 C 8 16 20 8 35 8 C 43 8 48 12 50 16 C 52 12 57 8 65 8 C 80 8 92 16 92 32 C 92 50 76 68 50 86 Z" fill="#ff0066" opacity="0.25" filter="url(#heartSoftGlow)"/>
+
+          <!-- 3D Heart Main Body -->
+          <path d="M 50 86 C 24 68 8 50 8 32 C 8 16 20 8 35 8 C 43 8 48 12 50 16 C 52 12 57 8 65 8 C 80 8 92 16 92 32 C 92 50 76 68 50 86 Z" fill="url(#heartCoreGrad)" stroke="url(#heartRimGrad)" stroke-width="2"/>
+
+          <!-- Radiant Inner Glow -->
+          <ellipse cx="48" cy="42" rx="24" ry="20" fill="url(#heartCenterGlow)"/>
+
+          <!-- Specular 3D Glass Curve (Top Left) -->
+          <path d="M 22 28 C 22 18 29 13 36 13 C 41 13 44 15 41 18 C 34 19 28 24 26 31 C 25 34 22 34 22 28 Z" fill="url(#heartHighlight)"/>
+          <!-- Specular 3D Glass Arc (Top Right) -->
+          <path d="M 64 14 C 71 14 78 19 78 27 C 78 30 75 30 74 27 C 73 22 68 18 63 17 C 61 16 62 14 64 14 Z" fill="url(#heartHighlight)"/>
+
+          <!-- Specular Sparkle Star -->
+          <path d="M 33 22 Q 33 27 38 27 Q 33 27 33 32 Q 33 27 28 27 Q 33 27 33 22 Z" fill="#ffffff" opacity="0.95"/>
+          <circle cx="70" cy="54" r="2" fill="#ffffff" opacity="0.6"/>
+        </svg>
+      </div>
+      <h3>3D Heart</h3>
+      <span>.float-heart</span>
+    </div>
+
+    <!-- 3. GIFT BOX -->
+    <div class="card">
+      <div class="svg-wrapper">
+        <svg class="preview-gift" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Olamet Streamer Gift Box">
+          <defs>
+            <linearGradient id="giftBoxLeft" x1="0%" y1="0%" x2="100%" y2="100%">
+              <stop offset="0%" stop-color="#9333ea"/>
+              <stop offset="70%" stop-color="#581c87"/>
+              <stop offset="100%" stop-color="#3b0764"/>
+            </linearGradient>
+            <linearGradient id="giftBoxRight" x1="0%" y1="0%" x2="100%" y2="100%">
+              <stop offset="0%" stop-color="#a855f7"/>
+              <stop offset="60%" stop-color="#6b21a8"/>
+              <stop offset="100%" stop-color="#4c1d95"/>
+            </linearGradient>
+            <linearGradient id="giftLidTop" x1="0%" y1="0%" x2="100%" y2="100%">
+              <stop offset="0%" stop-color="#d946ef"/>
+              <stop offset="50%" stop-color="#a855f7"/>
+              <stop offset="100%" stop-color="#7e22ce"/>
+            </linearGradient>
+            <linearGradient id="giftGoldRibbon" x1="0%" y1="0%" x2="100%" y2="100%">
+              <stop offset="0%" stop-color="#fef08a"/>
+              <stop offset="40%" stop-color="#fbbf24"/>
+              <stop offset="80%" stop-color="#f59e0b"/>
+              <stop offset="100%" stop-color="#b45309"/>
+            </linearGradient>
+            <radialGradient id="giftMagicalBurst" cx="50%" cy="50%" r="50%">
+              <stop offset="0%" stop-color="#ffffff"/>
+              <stop offset="35%" stop-color="#fef08a" stop-opacity="0.9"/>
+              <stop offset="70%" stop-color="#f59e0b" stop-opacity="0.5"/>
+              <stop offset="100%" stop-color="#fbbf24" stop-opacity="0"/>
+            </radialGradient>
+          </defs>
+
+          <!-- Magical Light Burst Radiating Upwards -->
+          <ellipse cx="50" cy="45" rx="30" ry="18" fill="url(#giftMagicalBurst)"/>
+          
+          <!-- Floating Sparkles -->
+          <path d="M 50 15 Q 50 20 54 20 Q 50 20 50 25 Q 50 20 46 20 Q 50 20 50 15 Z" fill="#fef08a"/>
+          <path d="M 28 26 Q 28 29 31 29 Q 28 29 28 32 Q 28 29 25 29 Q 28 29 28 26 Z" fill="#ffffff" opacity="0.9"/>
+          <path d="M 72 24 Q 72 27 75 27 Q 72 27 72 30 Q 72 27 69 27 Q 72 27 72 24 Z" fill="#fde047" opacity="0.9"/>
+
+          <!-- Gift Box Body: Left Face -->
+          <polygon points="18,52 50,68 50,94 18,78" fill="url(#giftBoxLeft)"/>
+          <!-- Gift Box Body: Right Face -->
+          <polygon points="50,68 82,52 82,78 50,94" fill="url(#giftBoxRight)"/>
+
+          <!-- Left Gold Ribbon Strip -->
+          <polygon points="31,58.5 37,61.5 37,87.5 31,84.5" fill="url(#giftGoldRibbon)"/>
+          <!-- Right Gold Ribbon Strip -->
+          <polygon points="63,61.5 69,58.5 69,84.5 63,87.5" fill="url(#giftGoldRibbon)"/>
+
+          <!-- Golden Light Beams Inside the Open Box -->
+          <polygon points="21,50.5 50,65 79,50.5 50,38" fill="#fef08a" opacity="0.85"/>
+          <polygon points="26,50 50,62 74,50 50,40" fill="#ffffff" opacity="0.9"/>
+
+          <!-- Open Lid Floating Tilted at Angle -->
+          <polygon points="14,46 50,60 86,46 86,41 50,55 14,41" fill="#581c87"/>
+          <polygon points="14,41 50,27 86,41 50,55" fill="url(#giftLidTop)" stroke="#c084fc" stroke-width="1"/>
+
+          <!-- Lid Golden Ribbon Crossing -->
+          <polygon points="29,35 35,33 71,47 65,49" fill="url(#giftGoldRibbon)"/>
+          <polygon points="65,33 71,35 35,49 29,47" fill="url(#giftGoldRibbon)"/>
+
+          <!-- Big 3D Golden Bow on Top of Lid -->
+          <path d="M 50 38 C 42 27 30 25 32 32 C 34 38 45 37 50 38 Z" fill="url(#giftGoldRibbon)" stroke="#fef08a" stroke-width="0.8"/>
+          <path d="M 50 38 C 58 27 70 25 68 32 C 66 38 55 37 50 38 Z" fill="url(#giftGoldRibbon)" stroke="#fef08a" stroke-width="0.8"/>
+          <ellipse cx="50" cy="38" rx="4.5" ry="3.5" fill="#fef08a" stroke="#d97706" stroke-width="0.8"/>
+          <path d="M 48 39 Q 44 48 40 52 Q 44 49 49 42 Z" fill="url(#giftGoldRibbon)"/>
+          <path d="M 52 39 Q 56 48 60 52 Q 56 49 51 42 Z" fill="url(#giftGoldRibbon)"/>
+        </svg>
+      </div>
+      <h3>3D Gift Box</h3>
+      <span>.float-gift</span>
+    </div>
+
+    <!-- 4. GOLDEN BEANS -->
+    <div class="card">
+      <div class="svg-wrapper">
+        <svg class="preview-beans" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Olamet Golden Reward Beans">
+          <defs>
+            <linearGradient id="beanGoldLight" x1="0%" y1="0%" x2="100%" y2="100%">
+              <stop offset="0%" stop-color="#fffbeb"/>
+              <stop offset="25%" stop-color="#fef08a"/>
+              <stop offset="60%" stop-color="#f59e0b"/>
+              <stop offset="100%" stop-color="#b45309"/>
+            </linearGradient>
+            <linearGradient id="beanGoldRim" x1="0%" y1="0%" x2="100%" y2="100%">
+              <stop offset="0%" stop-color="#fef08a"/>
+              <stop offset="50%" stop-color="#f59e0b"/>
+              <stop offset="100%" stop-color="#78350f"/>
+            </linearGradient>
+            <linearGradient id="beanGoldFace" x1="20%" y1="10%" x2="80%" y2="90%">
+              <stop offset="0%" stop-color="#fef9c3"/>
+              <stop offset="40%" stop-color="#fbbf24"/>
+              <stop offset="80%" stop-color="#d97706"/>
+              <stop offset="100%" stop-color="#92400e"/>
+            </linearGradient>
+            <filter id="goldSparkleGlow" x="-30%" y="-30%" width="160%" height="160%">
+              <feGaussianBlur stdDeviation="3" result="blur"/>
+              <feComposite in="SourceGraphic" in2="blur" operator="over"/>
+            </filter>
+          </defs>
+
+          <!-- Ambient Gold Glow -->
+          <circle cx="50" cy="55" r="38" fill="#f59e0b" opacity="0.25" filter="url(#goldSparkleGlow)"/>
+
+          <!-- Back/Left Bean (Bean #1) -->
+          <g transform="rotate(-22 32 45)">
+            <path d="M 18 42 C 14 32 20 20 32 18 C 44 16 52 24 50 34 C 48 44 40 48 28 48 C 22 48 19 46 18 42 Z" fill="#92400e"/>
+            <path d="M 18 38 C 14 28 20 16 32 14 C 44 12 52 20 50 30 C 48 40 40 44 28 44 C 22 44 19 42 18 38 Z" fill="url(#beanGoldFace)" stroke="url(#beanGoldRim)" stroke-width="1.5"/>
+            <path d="M 27 27 C 32 25 36 27 38 31" stroke="#b45309" stroke-width="2.5" stroke-linecap="round"/>
+            <path d="M 27 26 C 32 24 36 26 38 30" stroke="#fef08a" stroke-width="1.2" stroke-linecap="round"/>
+          </g>
+
+          <!-- Back/Right Bean (Bean #2) -->
+          <g transform="rotate(35 68 46)">
+            <path d="M 52 46 C 48 36 54 24 66 22 C 78 20 86 28 84 38 C 82 48 74 52 62 52 C 56 52 53 50 52 46 Z" fill="#78350f"/>
+            <path d="M 52 42 C 48 32 54 20 66 18 C 78 16 86 24 84 34 C 82 44 74 48 62 48 C 56 48 53 46 52 42 Z" fill="url(#beanGoldLight)" stroke="url(#beanGoldRim)" stroke-width="1.5"/>
+            <path d="M 61 31 C 66 29 70 31 72 35" stroke="#92400e" stroke-width="2.5" stroke-linecap="round"/>
+            <path d="M 61 30 C 66 28 70 30 72 34" stroke="#ffffff" stroke-width="1.2" stroke-linecap="round"/>
+          </g>
+
+          <!-- Front/Main Giant Golden Bean (Bean #3) -->
+          <g transform="rotate(-6 50 64)">
+            <path d="M 22 68 C 16 54 26 40 42 38 C 56 36 68 40 76 46 C 84 52 86 64 80 74 C 72 86 52 88 38 86 C 26 84 23 78 22 68 Z" fill="#78350f"/>
+            <path d="M 22 62 C 16 48 26 34 42 32 C 56 30 68 34 76 40 C 84 46 86 58 80 68 C 72 80 52 82 38 80 C 26 78 23 72 22 62 Z" fill="url(#beanGoldFace)" stroke="url(#beanGoldRim)" stroke-width="2"/>
+            <path d="M 28 46 C 34 38 45 35 56 36 C 65 37 72 41 76 44" stroke="#ffffff" stroke-width="2.5" stroke-linecap="round" opacity="0.8"/>
+            <path d="M 38 56 C 45 51 53 53 58 59" stroke="#92400e" stroke-width="4" stroke-linecap="round"/>
+            <path d="M 38 55 C 45 50 53 52 58 58" stroke="#fef08a" stroke-width="2" stroke-linecap="round"/>
+            <ellipse cx="61" cy="62" rx="3" ry="2.2" fill="#fef08a" opacity="0.9"/>
+          </g>
+
+          <!-- Brilliant Gleaming Sparkles / Flares -->
+          <g transform="translate(68, 38)">
+            <path d="M 0 -9 Q 0 0 9 0 Q 0 0 0 9 Q 0 0 -9 0 Q 0 0 0 -9 Z" fill="#ffffff" filter="url(#goldSparkleGlow)"/>
+            <circle cx="0" cy="0" r="2.5" fill="#ffffff"/>
+          </g>
+          <g transform="translate(24, 22)">
+            <path d="M 0 -6 Q 0 0 6 0 Q 0 0 0 6 Q 0 0 -6 0 Q 0 0 0 -6 Z" fill="#fef08a"/>
+            <circle cx="0" cy="0" r="1.5" fill="#ffffff"/>
+          </g>
+          <g transform="translate(84, 62)">
+            <path d="M 0 -5 Q 0 0 5 0 Q 0 0 0 5 Q 0 0 -5 0 Q 0 0 0 -5 Z" fill="#fde047"/>
+          </g>
+          <circle cx="16" cy="56" r="2" fill="#fef08a" opacity="0.8"/>
+          <circle cx="82" cy="22" r="2.5" fill="#ffffff" opacity="0.85"/>
+        </svg>
+      </div>
+      <h3>Golden Beans</h3>
+      <span>.float-beans</span>
+    </div>
+  </div>
+</body>
+</html>

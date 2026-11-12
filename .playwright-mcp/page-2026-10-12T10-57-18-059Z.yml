@@ -1,0 +1,155 @@
+- generic [active] [ref=f4e1]:
+  - banner:
+    - navigation "Main Navigation" [ref=f4e2]:
+      - link "Olamet Home" [ref=f4e3] [cursor=pointer]:
+        - /url: /
+        - img "Olamet Logo" [ref=f4e4]
+        - generic [ref=f4e5]: Olamet
+      - menubar [ref=f4e6]:
+        - menuitem "Home" [ref=f4e7] [cursor=pointer]
+        - menuitem "Agency Cooperation" [ref=f4e8] [cursor=pointer]
+        - menuitem "Host Cooperation" [ref=f4e9] [cursor=pointer]
+        - menuitem "About Us" [ref=f4e10] [cursor=pointer]
+        - menuitem "Contact" [ref=f4e11] [cursor=pointer]
+        - menuitem "More navigation options" [ref=f4e12] [cursor=pointer]:
+          - generic [ref=f4e13]: More
+      - link "Sign in" [ref=f4e17] [cursor=pointer]:
+        - /url: https://h5.olamet.net
+  - main [ref=f4e18]:
+    - generic [ref=f4e21]:
+      - generic [ref=f4e22]:
+        - generic [ref=f4e23]: 24/7 Partnership Support
+        - heading "Contact Us" [level=1] [ref=f4e24]
+        - paragraph [ref=f4e25]: Reach out to our official Olamet Agency team directly. We are ready to help guide your registration, team setup, and technical assistance every day.
+        - generic [ref=f4e26]:
+          - link "Email olamet994@gmail.com" [ref=f4e27] [cursor=pointer]:
+            - /url: mailto:olamet994@gmail.com
+            - generic [ref=f4e32]:
+              - generic [ref=f4e33]: Email
+              - generic [ref=f4e34]: olamet994@gmail.com
+          - link "Telegram telegram.me/olametappservice" [ref=f4e35] [cursor=pointer]:
+            - /url: https://telegram.me/olametappservice
+            - generic [ref=f4e40]:
+              - generic [ref=f4e41]: Telegram
+              - generic [ref=f4e42]: telegram.me/olametappservice
+          - link "WhatsApp Support 1 +62 853-5334-4593" [ref=f4e43] [cursor=pointer]:
+            - /url: https://wa.me/+6285353344593
+            - generic [ref=f4e47]:
+              - generic [ref=f4e48]: WhatsApp Support 1
+              - generic [ref=f4e49]: +62 853-5334-4593
+          - link "WhatsApp Support 2 +62 821-1812-261" [ref=f4e50] [cursor=pointer]:
+            - /url: https://wa.me/+628211812261
+            - generic [ref=f4e54]:
+              - generic [ref=f4e55]: WhatsApp Support 2
+              - generic [ref=f4e56]: +62 821-1812-261
+          - link "Instagram @olametagency" [ref=f4e57] [cursor=pointer]:
+            - /url: https://www.instagram.com/olametagency
+            - generic [ref=f4e62]:
+              - generic [ref=f4e63]: Instagram
+              - generic [ref=f4e64]: "@olametagency"
+          - link "TikTok @olametapp" [ref=f4e65] [cursor=pointer]:
+            - /url: https://www.tiktok.com/@olametapp
+            - generic [ref=f4e69]:
+              - generic [ref=f4e70]: TikTok
+              - generic [ref=f4e71]: "@olametapp"
+      - generic [ref=f4e72]:
+        - region "Olamet App Showcase Carousel" [ref=f4e73]:
+          - generic [ref=f4e76]:
+            - generic [ref=f4e77]:
+              - link [ref=f4e79] [cursor=pointer]:
+                - /url: https://olametapp.com/wp-content/uploads/2025/06/unnamed-4.webp
+                - img "Olamet App Interface - Live Video & Interactive Streaming" [ref=f4e80]
+                - generic: Click to view
+              - link [ref=f4e82] [cursor=pointer]:
+                - /url: https://olametapp.com/wp-content/uploads/2025/06/unnamed-5.webp
+                - img "Olamet App Feature - Real-time Host Chat & Gifting" [ref=f4e83]
+                - generic: Click to view
+              - link [ref=f4e85] [cursor=pointer]:
+                - /url: https://olametapp.com/wp-content/uploads/2025/06/unnamed-6.webp
+                - img "Olamet App Profile & Reward Earnings Management" [ref=f4e86]
+                - generic: Click to view
+              - link [ref=f4e88] [cursor=pointer]:
+                - /url: https://olametapp.com/wp-content/uploads/2025/06/unnamed-7.webp
+                - img "Olamet App Community - Global Video Connection" [ref=f4e89]
+                - generic: Click to view
+            - button "Previous slide" [ref=f4e90] [cursor=pointer]
+            - button "Next slide" [ref=f4e91] [cursor=pointer]
+          - tablist "Carousel slide controls" [ref=f4e92]:
+            - tab "Slide 1" [selected] [ref=f4e93] [cursor=pointer]
+            - tab "Slide 2" [ref=f4e94] [cursor=pointer]
+            - tab "Slide 3" [ref=f4e95] [cursor=pointer]
+            - tab "Slide 4" [ref=f4e96] [cursor=pointer]
+        - img "Olamet Live Streaming Badge"
+        - img "Olamet Live Heart Interaction"
+  - contentinfo [ref=f4e97]:
+    - generic [ref=f4e98]:
+      - generic [ref=f4e99]:
+        - generic [ref=f4e100]:
+          - link "Olamet Home" [ref=f4e101] [cursor=pointer]:
+            - /url: /
+            - img "Olamet Logo" [ref=f4e102]
+            - generic [ref=f4e103]: Olamet
+          - paragraph [ref=f4e104]: One App. Two Ways to Earn from Anywhere.
+          - generic "Social Media Links" [ref=f4e105]:
+            - link "Email" [ref=f4e106] [cursor=pointer]:
+              - /url: mailto:olamet994@gmail.com
+            - link "Telegram" [ref=f4e110] [cursor=pointer]:
+              - /url: https://telegram.me/olametappservice
+            - link "Instagram" [ref=f4e114] [cursor=pointer]:
+              - /url: https://instagram.com/olametagency
+            - link "TikTok" [ref=f4e118] [cursor=pointer]:
+              - /url: https://tiktok.com/@olametapp
+            - link "WhatsApp" [ref=f4e121] [cursor=pointer]:
+              - /url: https://wa.me/6285353344593
+            - link "Official Website" [ref=f4e124] [cursor=pointer]:
+              - /url: https://olametapp.com
+          - generic "Download App" [ref=f4e128]:
+            - link "Download on Google Play Store" [ref=f4e129] [cursor=pointer]:
+              - /url: https://olamet-client.olamet.net/build2/index.html#/share?inviteCode=79DTZ5
+              - generic [ref=f4e132]: Play Store
+            - link "Download on Apple App Store" [ref=f4e133] [cursor=pointer]:
+              - /url: https://olamet-client.olamet.net/build2/index.html#/share?inviteCode=79DTZ5
+              - generic [ref=f4e136]: App Store
+        - generic [ref=f4e137]:
+          - heading "Quick Links" [level=4] [ref=f4e138]
+          - list [ref=f4e139]:
+            - listitem [ref=f4e140]:
+              - link "Agency Cooperation" [ref=f4e141] [cursor=pointer]:
+                - /url: /agency-cooperation
+            - listitem [ref=f4e142]:
+              - link "Host Cooperation" [ref=f4e143] [cursor=pointer]:
+                - /url: /host-cooperation
+            - listitem [ref=f4e144]:
+              - link "About Us" [ref=f4e145] [cursor=pointer]:
+                - /url: /about-us
+            - listitem [ref=f4e146]:
+              - link "Blog" [ref=f4e147] [cursor=pointer]:
+                - /url: https://olametapp.com/blog/
+            - listitem [ref=f4e148]:
+              - link "Privacy Policy" [ref=f4e149] [cursor=pointer]:
+                - /url: https://olametapp.com/privacy-policy/
+            - listitem [ref=f4e150]:
+              - link "Sign in" [ref=f4e151] [cursor=pointer]:
+                - /url: https://h5.olamet.net
+        - generic [ref=f4e152]:
+          - heading "Contact & Support" [level=4] [ref=f4e153]
+          - list [ref=f4e154]:
+            - listitem [ref=f4e155]:
+              - link "olamet994@gmail.com (Email)" [ref=f4e156] [cursor=pointer]:
+                - /url: mailto:olamet994@gmail.com
+            - listitem [ref=f4e157]:
+              - link "+62 853-5334-4593 (WhatsApp)" [ref=f4e158] [cursor=pointer]:
+                - /url: https://wa.me/+6285353344593
+            - listitem [ref=f4e159]:
+              - link "+62 821-1812-261 (WhatsApp)" [ref=f4e160] [cursor=pointer]:
+                - /url: https://wa.me/+628211812261
+            - listitem [ref=f4e161]:
+              - link "telegram.me/olametappservice (Telegram)" [ref=f4e162] [cursor=pointer]:
+                - /url: https://telegram.me/olametappservice
+            - listitem [ref=f4e163]:
+              - link "@olametagency (Instagram)" [ref=f4e164] [cursor=pointer]:
+                - /url: https://www.instagram.com/olametagency
+            - listitem [ref=f4e165]:
+              - link "@olametapp (TikTok)" [ref=f4e166] [cursor=pointer]:
+                - /url: https://www.tiktok.com/@olametapp
+      - paragraph [ref=f4e168]: © 2023–2026 Olamet Agency. All rights reserved.

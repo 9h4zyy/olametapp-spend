@@ -1,0 +1,272 @@
+- generic [active] [ref=f18e1]:
+  - banner:
+    - navigation "Main Navigation" [ref=f18e2]:
+      - link "Olamet Home" [ref=f18e3] [cursor=pointer]:
+        - /url: /
+        - img "Olamet Logo" [ref=f18e4]
+        - generic [ref=f18e5]: Olamet
+      - generic [ref=f18e6]:
+        - link "Sign in" [ref=f18e7] [cursor=pointer]:
+          - /url: https://h5.olamet.net
+        - button "Toggle navigation menu" [ref=f18e8] [cursor=pointer]
+  - main [ref=f18e12]:
+    - generic [ref=f18e15]:
+      - generic [ref=f18e16]:
+        - generic [ref=f18e17]: Agency Cooperation
+        - heading "Create Your Own Olamet Agency" [level=1] [ref=f18e18]
+        - paragraph [ref=f18e19]: Explore how you can create, manage, and earn from Olamet as an official agency alongside full benefits and guidance from us
+        - link "Become an Agent" [ref=f18e21] [cursor=pointer]:
+          - /url: https://olamet-client.olamet.net/build2/index.html#/subagentRegister?key=6c46753b47532ae24bd082a7c2810610&guildName=We&nick=We&lang=en
+      - generic [ref=f18e22]:
+        - button "Olamet Agency Video Live Stream Call - Connect Hosts and Agents - Click to enlarge" [ref=f18e23]
+        - img "Olamet Live Streaming Badge"
+        - img "Olamet Live Heart Interaction"
+        - img "Olamet Streamer Gift Box"
+        - generic [aria-hidden]:
+          - generic:
+            - strong: 24/7
+            - text: Mentoring Support
+    - generic [ref=f18e25]:
+      - generic [ref=f18e26]:
+        - generic [ref=f18e27]: Step by Step Guide
+        - heading "Olamet Agency Registration Tutorial" [level=2] [ref=f18e28]
+      - generic [ref=f18e29]:
+        - article [ref=f18e30]:
+          - generic [aria-hidden] [ref=f18e31]: "1"
+          - generic [ref=f18e32]:
+            - heading [level=3] [ref=f18e33]:
+              - text: "Step 1: Open this"
+              - link "agency registration link" [ref=f18e34] [cursor=pointer]:
+                - /url: https://olamet-client.olamet.net/build2/index.html#/subagentRegister?key=6c46753b47532ae24bd082a7c2810610&guildName=We&nick=We&lang=en
+            - paragraph [ref=f18e35]: Do not worry if the page says “We invite you to be the host of Olamet”, as long as you click our link you’re in the right step.
+        - article [ref=f18e36]:
+          - generic [aria-hidden] [ref=f18e37]: "2"
+          - generic [ref=f18e38]:
+            - 'heading "Step 2: Fill out your information" [level=3] [ref=f18e39]'
+            - paragraph [ref=f18e40]: Enter your active phone number
+        - article [ref=f18e41]:
+          - generic [aria-hidden] [ref=f18e42]: "3"
+          - generic [ref=f18e43]:
+            - 'heading "Step 3: Click “Send” to receive the OTP code" [level=3] [ref=f18e44]'
+            - paragraph [ref=f18e45]: Try again in every few minutes if you haven’t received the code
+        - article [ref=f18e46]:
+          - generic [aria-hidden] [ref=f18e47]: "4"
+          - generic [ref=f18e48]:
+            - 'heading "Step 4: Download the App" [level=3] [ref=f18e49]'
+            - paragraph [ref=f18e50]:
+              - text: Search for “Olamet” on the
+              - link "Play Store" [ref=f18e51] [cursor=pointer]:
+                - /url: https://olamet-client.olamet.net/build2/index.html#/share?inviteCode=79DTZ5
+        - article [ref=f18e52]:
+          - generic [aria-hidden] [ref=f18e53]: "5"
+          - generic [ref=f18e54]:
+            - heading [level=3] [ref=f18e55]:
+              - text: "Step 5:"
+              - link "Login" [ref=f18e56] [cursor=pointer]:
+                - /url: https://h5.olamet.net
+              - text: with the registered number
+            - paragraph [ref=f18e57]: Important! Do not use any other registration method
+        - article [ref=f18e58]:
+          - generic [aria-hidden] [ref=f18e59]: "6"
+          - 'heading "Step 6: Congratulations! Your agency is ready!" [level=3] [ref=f18e61]'
+    - generic [ref=f18e63]:
+      - generic [ref=f18e64]:
+        - generic [ref=f18e65]: Agency Models
+        - heading "Two Ways to Earn as Olamet Agency" [level=2] [ref=f18e66]
+        - paragraph [ref=f18e67]: Olamet offers two agencies, with both having the same commission rate, but each have their own benefits and advantages.
+      - generic [ref=f18e68]:
+        - article [ref=f18e69]:
+          - generic [ref=f18e70]: Card Agency 1
+          - heading "Video Room Agency" [level=3] [ref=f18e71]
+          - paragraph [ref=f18e72]: It’s an agency solely focusing on their hosts’ video call and call features.
+          - generic [ref=f18e73]:
+            - generic [ref=f18e74]: Free call opportunity
+            - generic [ref=f18e78]: Better exposure in the live video section
+        - article [ref=f18e82]:
+          - generic [ref=f18e83]: Card Agency 2
+          - heading "Party Room Agency" [level=3] [ref=f18e84]
+          - paragraph [ref=f18e85]: It’s an agency solely focusing on their hosts’ party room feature.
+          - generic [ref=f18e86]:
+            - generic [ref=f18e87]: Extra rewards from party room gifts
+            - generic [ref=f18e91]: Additional 30% regular gift share
+      - button "Olamet Agency Roles - Video Room Agency and Multi-Seat Party Room Management - Click to enlarge" [ref=f18e96]
+    - generic [ref=f18e98]:
+      - generic [ref=f18e99]:
+        - generic [ref=f18e100]: Earnings Breakdown
+        - heading "Olamet Agency Commission Rate" [level=2] [ref=f18e101]
+      - table "Olamet Agency Commission Rate Table" [ref=f18e103]:
+        - rowgroup [ref=f18e104]:
+          - row [ref=f18e105]:
+            - columnheader "Weekly Beans Revenue" [ref=f18e106]
+            - columnheader "Commission" [ref=f18e107]
+        - rowgroup [ref=f18e108]:
+          - row [ref=f18e109]:
+            - cell "< 500K Beans" [ref=f18e110]
+            - cell "5%" [ref=f18e111]
+          - row [ref=f18e113]:
+            - cell "500K Beans" [ref=f18e114]
+            - cell "8%" [ref=f18e115]
+          - row [ref=f18e117]:
+            - cell "1.5M Beans" [ref=f18e118]
+            - cell "10%" [ref=f18e119]
+          - row [ref=f18e121]:
+            - cell "4M Beans" [ref=f18e122]
+            - cell "18%" [ref=f18e123]
+          - row [ref=f18e125]:
+            - cell "10M Beans" [ref=f18e126]
+            - cell "22%" [ref=f18e127]
+          - row [ref=f18e129]:
+            - cell "15M Beans" [ref=f18e130]
+            - cell "24%" [ref=f18e131]
+          - row [ref=f18e133]:
+            - cell "20M Beans" [ref=f18e134]
+            - cell "26%" [ref=f18e135]
+          - row [ref=f18e137]:
+            - cell "25M Beans" [ref=f18e138]
+            - cell "28%" [ref=f18e139]
+          - row [ref=f18e141]:
+            - cell "45M Beans" [ref=f18e142]
+            - cell "30%" [ref=f18e143]
+          - row [ref=f18e145]:
+            - cell "100M Beans" [ref=f18e146]
+            - cell "35%" [ref=f18e147]
+          - row [ref=f18e149]:
+            - cell "500M Beans" [ref=f18e150]
+            - cell "36%" [ref=f18e151]
+      - list [ref=f18e153]:
+        - listitem [ref=f18e154]: The total weekly revenue is the sum of your hosts’ earnings + your sub-agents revenue on that week.
+        - listitem [ref=f18e155]: Your agency commission rate changes weekly following the table above.
+    - generic [ref=f18e157]:
+      - generic [ref=f18e158]:
+        - generic [ref=f18e159]: Payout Rules
+        - heading "Olamet Agency & Host Withdrawal Information" [level=2] [ref=f18e160]
+      - generic [ref=f18e161]:
+        - article [ref=f18e162]:
+          - heading "Withdrawal Information" [level=3] [ref=f18e163]
+          - list [ref=f18e164]:
+            - listitem [ref=f18e165]: The withdrawal amount must be $10 or more; any unused gold beans will be accumulated and can be cashed out later.
+            - listitem [ref=f18e166]: The withdrawal amount must be a multiple of $10, and any remaining balance will be accumulated and cashed out in the next settlement cycle.
+            - listitem [ref=f18e167]: The settlement cycle runs from Monday to Sunday. The settlement time is 10:00 AM (UTC+7) every Monday.
+            - listitem [ref=f18e168]: We will pay your salary to your withdrawal account every Monday.
+        - article [ref=f18e169]:
+          - heading "Sub-agency Commission" [level=3] [ref=f18e170]
+          - generic [ref=f18e171]: "Commission Formula: Your agency daily commission = (Your daily ratio - sub-agent’s daily ratio) × Your sub-agent’s daily revenue"
+          - list [ref=f18e172]:
+            - listitem [ref=f18e173]: If you have multiple sub-agents, separate calculation is needed for each individual sub-agents
+            - listitem [ref=f18e174]: Your daily commission revenue is determined by your total earnings for the last 30 days
+          - button "Olamet Sub-agency Daily Commission Calculation Formula - Click to enlarge" [ref=f18e176]
+      - article [ref=f18e177]:
+        - heading "How to Withdraw on Olamet" [level=3] [ref=f18e178]
+        - list [ref=f18e179]:
+          - listitem [ref=f18e180]: "Go to Your Profile: Launch the app and tap your profile icon."
+          - listitem [ref=f18e181]: "Open 'My Income': Select the My Income menu to view your current bean balance."
+          - listitem [ref=f18e182]: "Click 'Withdraw': Tap the withdrawal button to start your cash out."
+          - listitem [ref=f18e183]: "Click the Top Right Arrow: Find the banner at the top of the screen and tap the arrow in the top right corner to access your payout settings."
+          - listitem [ref=f18e184]: "Fill Out Your Info: Enter your personal withdrawal information. Make sure it matches your bank or e-wallet details exactly!"
+          - listitem [ref=f18e185]: "Choose a Payment Method: Select how you want to receive your money (bank transfer or e-wallet)."
+          - listitem [ref=f18e186]:
+            - text: "Enter the Amount: Type in how much you want to withdraw and submit."
+            - paragraph [ref=f18e187]: "a. Note: The minimum payout is $10 USD."
+            - paragraph [ref=f18e188]: "b. Note: The withdrawal ratio is 10,000 beans = $1 USD (100,000 beans = $10)."
+        - button "Step-by-step How to Withdraw Beans on Olamet App - Click to enlarge" [ref=f18e190]
+    - generic [ref=f18e192]:
+      - generic [ref=f18e193]:
+        - generic [ref=f18e194]: Got Questions?
+        - heading "Frequently Asked Questions" [level=2] [ref=f18e195]
+      - generic [ref=f18e196]:
+        - article [ref=f18e197]:
+          - 'button "FAQ 1: What is Olamet Agency?" [ref=f18e198] [cursor=pointer]'
+          - paragraph [ref=f18e202]: Olamet Agency is an official partner who can manage hosts, grow your agency, and earn commissions from your team’s activity. We provide support, guidance and benefits to help your agency grow.
+        - article [ref=f18e203]:
+          - 'button "FAQ 2: How can I register as an Olamet Agency?" [ref=f18e204] [cursor=pointer]'
+          - generic:
+            - paragraph [ref=f18e208]: To register, open the official agency registration link and complete your information using an active phone number. After submitting your number, click “Send” to receive the OTP code. Once registered, download the Olamet app from the Play Store and log in using the same registered phone number.
+            - paragraph [ref=f18e209]: If the registration page shows “We invite you to be the host of Olamet”, do not worry. As long as you accessed the page through the official registration link, you are following the correct process.
+        - article [ref=f18e210]:
+          - 'button "FAQ 3: What are the types of Olamet Agency?" [ref=f18e211] [cursor=pointer]'
+          - generic:
+            - paragraph [ref=f18e215]: "Olamet provides two agency options with the same commission rate but different advantages:"
+            - paragraph [ref=f18e216]: ● Video Room Agency focuses on hosts using video call and call features. This agency provides free call opportunities and better exposure in the live video section.
+            - paragraph [ref=f18e217]: ● Party Room Agency focuses on hosts using the party room feature. This agency provides extra rewards from party room gifts and an additional 30% regular gift share.
+        - article [ref=f18e218]:
+          - 'button "FAQ 4: How much commission can an Olamet Agency earn?" [ref=f18e219] [cursor=pointer]'
+          - paragraph [ref=f18e223]: Olamet Agency commission depends on the total weekly Beans revenue generated by your hosts and sub-agents. The commission rate increases based on weekly performance, starting from 5% for revenue below 500K Beans and reaching up to 36% for 500M Beans revenue.
+        - article [ref=f18e224]:
+          - 'button "FAQ 5: How is the weekly commission calculated?" [ref=f18e225] [cursor=pointer]'
+          - paragraph [ref=f18e229]: Your weekly revenue is calculated from the combined earnings of your hosts and your sub-agents during that week. The agency commission rate is updated weekly according to the total Beans revenue achieved. Reaching higher revenue levels allows your agency to receive a higher commission percentage.
+    - generic [ref=f18e232]:
+      - heading "Let’s Create & Build Your Olamet Agency with Us" [level=2] [ref=f18e233]
+      - link "Become an Agent" [ref=f18e235] [cursor=pointer]:
+        - /url: https://olamet-client.olamet.net/build2/index.html#/subagentRegister?key=6c46753b47532ae24bd082a7c2810610&guildName=We&nick=We&lang=en
+  - contentinfo [ref=f18e236]:
+    - generic [ref=f18e237]:
+      - generic [ref=f18e238]:
+        - generic [ref=f18e239]:
+          - link "Olamet Home" [ref=f18e240] [cursor=pointer]:
+            - /url: /
+            - img "Olamet Logo" [ref=f18e241]
+            - generic [ref=f18e242]: Olamet
+          - paragraph [ref=f18e243]: One App. Two Ways to Earn from Anywhere.
+          - generic "Social Media Links" [ref=f18e244]:
+            - link "Email" [ref=f18e245] [cursor=pointer]:
+              - /url: mailto:olamet994@gmail.com
+            - link "Telegram" [ref=f18e249] [cursor=pointer]:
+              - /url: https://telegram.me/olametappservice
+            - link "Instagram" [ref=f18e253] [cursor=pointer]:
+              - /url: https://instagram.com/olametagency
+            - link "TikTok" [ref=f18e257] [cursor=pointer]:
+              - /url: https://tiktok.com/@olametapp
+            - link "WhatsApp" [ref=f18e260] [cursor=pointer]:
+              - /url: https://wa.me/6285353344593
+            - link "Official Website" [ref=f18e263] [cursor=pointer]:
+              - /url: https://olametapp.com
+          - generic "Download App" [ref=f18e267]:
+            - link "Download on Google Play Store" [ref=f18e268] [cursor=pointer]:
+              - /url: https://olamet-client.olamet.net/build2/index.html#/share?inviteCode=79DTZ5
+              - generic [ref=f18e271]: Play Store
+            - link "Download on Apple App Store" [ref=f18e272] [cursor=pointer]:
+              - /url: https://olamet-client.olamet.net/build2/index.html#/share?inviteCode=79DTZ5
+              - generic [ref=f18e275]: App Store
+        - generic [ref=f18e276]:
+          - heading "Quick Links" [level=4] [ref=f18e277]
+          - list [ref=f18e278]:
+            - listitem [ref=f18e279]:
+              - link "Agency Cooperation" [ref=f18e280] [cursor=pointer]:
+                - /url: /agency-cooperation
+            - listitem [ref=f18e281]:
+              - link "Host Cooperation" [ref=f18e282] [cursor=pointer]:
+                - /url: /host-cooperation
+            - listitem [ref=f18e283]:
+              - link "About Us" [ref=f18e284] [cursor=pointer]:
+                - /url: /about-us
+            - listitem [ref=f18e285]:
+              - link "Blog" [ref=f18e286] [cursor=pointer]:
+                - /url: https://olametapp.com/blog/
+            - listitem [ref=f18e287]:
+              - link "Privacy Policy" [ref=f18e288] [cursor=pointer]:
+                - /url: https://olametapp.com/privacy-policy/
+            - listitem [ref=f18e289]:
+              - link "Sign in" [ref=f18e290] [cursor=pointer]:
+                - /url: https://h5.olamet.net
+        - generic [ref=f18e291]:
+          - heading "Contact & Support" [level=4] [ref=f18e292]
+          - list [ref=f18e293]:
+            - listitem [ref=f18e294]:
+              - link "olamet994@gmail.com (Email)" [ref=f18e295] [cursor=pointer]:
+                - /url: mailto:olamet994@gmail.com
+            - listitem [ref=f18e296]:
+              - link "+62 853-5334-4593 (WhatsApp)" [ref=f18e297] [cursor=pointer]:
+                - /url: https://wa.me/+6285353344593
+            - listitem [ref=f18e298]:
+              - link "+62 821-1812-261 (WhatsApp)" [ref=f18e299] [cursor=pointer]:
+                - /url: https://wa.me/+628211812261
+            - listitem [ref=f18e300]:
+              - link "telegram.me/olametappservice (Telegram)" [ref=f18e301] [cursor=pointer]:
+                - /url: https://telegram.me/olametappservice
+            - listitem [ref=f18e302]:
+              - link "@olametagency (Instagram)" [ref=f18e303] [cursor=pointer]:
+                - /url: https://www.instagram.com/olametagency
+            - listitem [ref=f18e304]:
+              - link "@olametapp (TikTok)" [ref=f18e305] [cursor=pointer]:
+                - /url: https://www.tiktok.com/@olametapp
+      - paragraph [ref=f18e307]: © 2023–2026 Olamet Agency. All rights reserved.

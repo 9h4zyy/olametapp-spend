@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Olamet Header Component</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="header-wrapper" id="site-header">
+    <nav class="navbar-rounded" aria-label="Main Navigation">
+      <a href="/" class="nav-brand" aria-label="Olamet Home">
+        <img src="https://olametapp.com/wp-content/uploads/2026/10/logo.png" alt="Olamet Logo" class="nav-brand-logo" width="36" height="36">
+        <span>Olamet</span>
+      </a>
+
+      <ul class="nav-menu" role="menubar">
+        <li role="none"><a href="/" class="nav-link" role="menuitem">Home</a></li>
+        <li role="none"><a href="/agency-cooperation" class="nav-link" role="menuitem">Agency Cooperation</a></li>
+        <li role="none"><a href="/host-cooperation" class="nav-link" role="menuitem">Host Cooperation</a></li>
+        <li role="none"><a href="/about-us" class="nav-link" role="menuitem">About Us</a></li>
+        <li role="none"><a href="/contact" class="nav-link" role="menuitem">Contact</a></li>
+        <li class="nav-item-dropdown" role="none">
+          <button class="nav-link nav-dropdown-btn" role="menuitem" aria-haspopup="true" aria-expanded="false" aria-label="More navigation options">
+            <span>More</span>
+            <svg class="dropdown-chevron" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polyline points="6 9 12 15 18 9"></polyline></svg>
+          </button>
+          <ul class="nav-dropdown-menu" role="menu" aria-label="More Menu">
+            <li role="none"><a href="https://olamet-cdn.olamet.net/payermax/index.html#/pay" class="dropdown-link" role="menuitem" target="_blank" rel="noopener noreferrer">Recharger</a></li>
+            <li role="none"><a href="https://olametapp.com/blog/" class="dropdown-link" role="menuitem" target="_blank" rel="noopener noreferrer">Blog</a></li>
+            <li role="none"><a href="https://olametapp.com/privacy-policy/" class="dropdown-link" role="menuitem" target="_blank" rel="noopener noreferrer">Privacy Policy</a></li>
+          </ul>
+        </li>
+      </ul>
+
+      <div class="nav-actions">
+        <a href="https://h5.olamet.net" class="btn-signin" target="_blank" rel="noopener noreferrer">Sign in</a>
+        <button class="nav-toggle-btn" id="navToggleBtn" aria-label="Toggle navigation menu" aria-expanded="false" type="button">
+          <svg class="icon-hamburger" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <line x1="4" y1="6" x2="20" y2="6"></line>
+            <line x1="4" y1="12" x2="20" y2="12"></line>
+            <line x1="4" y1="18" x2="20" y2="18"></line>
+          </svg>
+          <svg class="icon-close" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <line x1="18" y1="6" x2="6" y2="18"></line>
+            <line x1="6" y1="6" x2="18" y2="18"></line>
+          </svg>
+          <span></span>
+          <span></span>
+          <span></span>
+        </button>
+      </div>
+    </nav>
+
+    <!-- Mobile Navigation Backdrop -->
+    <div class="mobile-nav-backdrop" id="mobileNavBackdrop" aria-hidden="true"></div>
+
+    <!-- Mobile Navigation Drawer -->
+    <div class="mobile-nav-drawer" id="mobileNavDrawer" aria-hidden="true">
+      <ul class="mobile-nav-list">
+        <li><a href="/" class="mobile-nav-link">Home</a></li>
+        <li><a href="/agency-cooperation" class="mobile-nav-link">Agency Cooperation</a></li>
+        <li><a href="/host-cooperation" class="mobile-nav-link">Host Cooperation</a></li>
+        <li><a href="/about-us" class="mobile-nav-link">About Us</a></li>
+        <li><a href="https://olametapp.com/privacy-policy/" class="mobile-nav-link" target="_blank" rel="noopener noreferrer">Privacy Policy</a></li>
+        <li><a href="https://olametapp.com/blog/" class="mobile-nav-link" target="_blank" rel="noopener noreferrer">Blog</a></li>
+        <li><a href="/contact" class="mobile-nav-link">Contact</a></li>
+        <li><a href="https://olamet-cdn.olamet.net/payermax/index.html#/pay" class="mobile-nav-link" target="_blank" rel="noopener noreferrer">Recharger</a></li>
+        <li><a href="https://h5.olamet.net" class="mobile-nav-link" target="_blank" rel="noopener noreferrer">Sign in</a></li>
+      </ul>
+    </div>
+  </header>
+
+  <script>
+    (function () {
+      const toggleBtn = document.getElementById('navToggleBtn');
+      const drawer = document.getElementById('mobileNavDrawer');
+      const backdrop = document.getElementById('mobileNavBackdrop');
+
+      function closeMenu() {
+        if (!drawer) return;
+        drawer.classList.remove('open');
+        if (toggleBtn) {
+          toggleBtn.classList.remove('active');
+          toggleBtn.setAttribute('aria-expanded', 'false');
+        }
+        drawer.setAttribute('aria-hidden', 'true');
+        if (backdrop) backdrop.classList.remove('open');
+      }
+
+      function openMenu() {
+        if (!drawer) return;
+        drawer.classList.add('open');
+        if (toggleBtn) {
+          toggleBtn.classList.add('active');
+          toggleBtn.setAttribute('aria-expanded', 'true');
+        }
+        drawer.setAttribute('aria-hidden', 'false');
+        if (backdrop) backdrop.classList.add('open');
+      }
+
+      if (toggleBtn && drawer) {
+        toggleBtn.addEventListener('click', function (e) {
+          e.stopPropagation();
+          const isOpen = drawer.classList.contains('open');
+          if (isOpen) {
+            closeMenu();
+          } else {
+            openMenu();
+          }
+        });
+
+        if (backdrop) {
+          backdrop.addEventListener('click', closeMenu);
+        }
+
+        document.addEventListener('click', function (event) {
+          if (!toggleBtn.contains(event.target) && !drawer.contains(event.target)) {
+            closeMenu();
+          }
+        });
+
+        const links = drawer.querySelectorAll('.mobile-nav-link');
+        links.forEach(function (link) {
+          link.addEventListener('click', function () {
+            closeMenu();
+          });
+        });
+      }
+    })();
+  </script>
+</body>
+</html>

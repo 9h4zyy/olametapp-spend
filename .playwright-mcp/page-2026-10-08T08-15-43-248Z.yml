@@ -1,0 +1,11 @@
+- generic:
+  - banner:
+    - generic [ref=e1]:
+      - link "Niki Live Agency Home" [ref=e2] [cursor=pointer]:
+        - /url: /
+        - img "Official Niki Live Agency Partner Logo" [ref=e3]
+        - generic [ref=e4]: Niki Live
+      - generic [ref=e20]:
+        - link "Join Now" [ref=e21] [cursor=pointer]:
+          - /url: /become-a-host
+        - button "Toggle navigation menu" [active] [ref=e29] [cursor=pointer]

@@ -1,0 +1,45 @@
+- generic:
+  - banner:
+    - generic [ref=e1]:
+      - link "Niki Live Agency Home" [ref=e2] [cursor=pointer]:
+        - /url: /
+        - img "Official Niki Live Agency Partner Logo" [ref=e3]
+        - generic [ref=e4]: Niki Live
+      - generic [ref=e20]:
+        - link "Join Now" [ref=e21] [cursor=pointer]:
+          - /url: /become-a-host
+        - button "Toggle navigation menu" [expanded] [ref=e29] [cursor=pointer]
+    - generic [ref=e30]:
+      - list [ref=e31]:
+        - listitem [ref=e32]:
+          - link "Home" [ref=e33] [cursor=pointer]:
+            - /url: /
+        - listitem [ref=e34]:
+          - link "Become Host" [ref=e35] [cursor=pointer]:
+            - /url: /become-a-host
+        - listitem [ref=e36]:
+          - link "Become Agent" [ref=e37] [cursor=pointer]:
+            - /url: /become-a-agent
+        - listitem [ref=e38]:
+          - link "Coin Seller" [ref=e39] [cursor=pointer]:
+            - /url: /coin-seller
+        - listitem [ref=e40]:
+          - link "Download" [ref=e41] [cursor=pointer]:
+            - /url: /download-niki
+        - listitem [ref=e42]:
+          - button "Other" [expanded] [active] [ref=e43] [cursor=pointer]
+          - list [ref=e47]:
+            - listitem [ref=e48]:
+              - link "About Us" [ref=e49] [cursor=pointer]:
+                - /url: /about-nikilive
+            - listitem [ref=e50]:
+              - link "Tutorial Host" [ref=e51] [cursor=pointer]:
+                - /url: /tutorial-host
+            - listitem [ref=e52]:
+              - link "Tutorial Agent" [ref=e53] [cursor=pointer]:
+                - /url: /tutorial-agent
+      - generic [ref=e44]:
+        - link "Join as Host" [ref=e45] [cursor=pointer]:
+          - /url: /become-a-host
+        - link "Join as Agency" [ref=e46] [cursor=pointer]:
+          - /url: /become-a-agent

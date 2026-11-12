@@ -1,0 +1,143 @@
+- generic [active] [ref=f8e1]:
+  - main [ref=f8e2]:
+    - region [ref=f8e3]:
+      - generic [ref=f8e5]:
+        - generic [ref=f8e6]:
+          - generic [ref=f8e7]: Agency Tutorial
+          - heading "Niki Live Agents Tutorial" [level=1] [ref=f8e8]:
+            - generic [ref=f8e9]: Niki Live Agents
+            - text: Tutorial
+          - paragraph [ref=f8e10]: Brief tutorial for any agency who wants to invite new host or sub-agent to increase their earnings
+          - generic [ref=f8e11]:
+            - link "Add New Host Guide" [ref=f8e12] [cursor=pointer]:
+              - /url: "#add-host"
+            - link "Invite Sub-agent Guide" [ref=f8e13] [cursor=pointer]:
+              - /url: "#add-subagent"
+        - generic [ref=f8e16]:
+          - img "Official Niki Live Agency Leader tutorial and team onboarding management" [ref=f8e17]
+          - generic [aria-hidden]:
+            - generic: Agent Tutorial & Guide
+    - region [ref=f8e18]:
+      - generic [ref=f8e19]:
+        - generic [ref=f8e20]:
+          - generic [ref=f8e21]: Host Onboarding
+          - heading "Add New Host as Niki Live Agent" [level=2] [ref=f8e22]
+          - paragraph [ref=f8e23]: Follow these sequential steps to invite, verify, and register new broadcasting talents directly under your agency roster.
+        - generic [ref=f8e24]:
+          - article [ref=f8e25]:
+            - generic [ref=f8e26]: "1"
+            - paragraph [ref=f8e27]: Go to your profile, then click the ‘Agency’ menu
+          - article [ref=f8e28]:
+            - generic [ref=f8e29]: "2"
+            - paragraph [ref=f8e30]: Click the ‘Add Host’ button
+          - article [ref=f8e31]:
+            - generic [ref=f8e32]: "3"
+            - paragraph [ref=f8e33]: Enter the ID of the host you are inviting
+          - article [ref=f8e34]:
+            - generic [ref=f8e35]: "4"
+            - paragraph [ref=f8e36]: After the correct host shows up, click ‘Add’
+          - article [ref=f8e37]:
+            - generic [ref=f8e38]: "5"
+            - paragraph [ref=f8e39]: The host will receive an invitation message on their own app
+          - article [ref=f8e40]:
+            - generic [ref=f8e41]: "6"
+            - paragraph [ref=f8e42]: The host need to accept the invitation and complete the verification process (face and ID verification, if they haven’t)
+          - article [ref=f8e43]:
+            - generic [ref=f8e44]: "7"
+            - paragraph [ref=f8e45]: Once they agree, the host will be officially registered with your agency and can start broadcasting.
+        - generic [ref=f8e46]:
+          - generic [ref=f8e47]:
+            - generic [ref=f8e48]: Steps 1 to 4 Visual Guide
+            - link [ref=f8e49] [cursor=pointer]:
+              - /url: https://nikilive.id/wp-content/uploads/2026/03/How-to-Invite-New-Host-as-Niki-Live-Agent-Step-1-to-4.jpg
+              - img "How to Invite New Host as Niki Live Agent Step 1 to 4" [ref=f8e50]
+              - generic [aria-hidden]:
+                - generic: Click to Zoom
+          - generic [ref=f8e51]:
+            - generic [ref=f8e52]: Steps 5 to 7 Visual Guide
+            - link [ref=f8e53] [cursor=pointer]:
+              - /url: https://nikilive.id/wp-content/uploads/2026/03/How-to-Invite-New-Host-as-Niki-Live-Agent-Step-5-to-7.jpg
+              - img "How to Invite New Host as Niki Live Agent Step 5 to 7" [ref=f8e54]
+              - generic [aria-hidden]:
+                - generic: Click to Zoom
+    - region [ref=f8e55]:
+      - generic [ref=f8e56]:
+        - generic [ref=f8e57]:
+          - generic [ref=f8e58]: Sub-Agency Onboarding
+          - heading "How to Add New Sub-agent" [level=2] [ref=f8e59]
+          - paragraph [ref=f8e60]: Scale your team by inviting sub-agents who run their own host rosters under your primary agency banner.
+        - generic [ref=f8e61]:
+          - article [ref=f8e62]:
+            - generic [ref=f8e63]: "1"
+            - paragraph [ref=f8e64]: Go to your profile, then click the ‘Agency’ menu
+          - article [ref=f8e65]:
+            - generic [ref=f8e66]: "2"
+            - paragraph [ref=f8e67]: Click the ‘Invite Sub-Agent’ button
+          - article [ref=f8e68]:
+            - generic [ref=f8e69]: "3"
+            - paragraph [ref=f8e70]: Copy the sub-agent invitation link, give the link to the sub-agent who wants to join.
+          - article [ref=f8e71]:
+            - generic [ref=f8e72]: "4"
+            - paragraph [ref=f8e73]: After that, give directions to the sub-agents you want to invite.
+            - generic [ref=f8e74]:
+              - generic [ref=f8e75]:
+                - generic [ref=f8e76]: a
+                - paragraph [ref=f8e77]: Go to profile section, “ Copy ID”
+              - generic [ref=f8e78]:
+                - generic [ref=f8e79]: b
+                - paragraph [ref=f8e80]: Enter the ID and click Send
+              - generic [ref=f8e81]:
+                - generic [ref=f8e82]: c
+                - paragraph [ref=f8e83]: The code will be sent via a message on the Niki Live account
+              - generic [ref=f8e84]:
+                - generic [ref=f8e85]: d
+                - paragraph [ref=f8e86]: Copy the code and then click submit
+        - generic [ref=f8e87]:
+          - generic [ref=f8e88]:
+            - generic [ref=f8e89]: Sub-agent Invitation Guide
+            - link [ref=f8e90] [cursor=pointer]:
+              - /url: https://nikilive.id/wp-content/uploads/2026/05/9.jpg
+              - img "How to Add New Sub-agent in Niki Live Profile and Agency Menu" [ref=f8e91]
+              - generic [aria-hidden]:
+                - generic: Click to Zoom
+          - generic [ref=f8e92]:
+            - generic [ref=f8e93]: Sub-agent Verification Guide
+            - link [ref=f8e94] [cursor=pointer]:
+              - /url: https://nikilive.id/wp-content/uploads/2026/05/10.jpg
+              - img "How to Add New Sub-agent ID and Confirmation Code Flow" [ref=f8e95]
+              - generic [aria-hidden]:
+                - generic: Click to Zoom
+    - region [ref=f8e96]:
+      - generic [ref=f8e97]:
+        - generic [ref=f8e98]:
+          - generic [ref=f8e99]: Common Questions
+          - heading "Frequently Asked Questions" [level=2] [ref=f8e100]
+          - paragraph [ref=f8e101]: Essential answers regarding sub-agency management, recruitment rules, commission perks, and reward criteria.
+        - region "Agent Tutorial FAQs" [ref=f8e102]:
+          - article [ref=f8e103]:
+            - button "What is a Niki Live sub-agent?" [ref=f8e104] [cursor=pointer]
+          - article [ref=f8e108]:
+            - button "Can I invite hosts or sub-agents from another agency?" [ref=f8e109] [cursor=pointer]
+          - article [ref=f8e113]:
+            - button "What are the benefits of inviting sub-agents?" [ref=f8e114] [cursor=pointer]
+          - article [ref=f8e118]:
+            - button "Where can I find potential hosts or sub-agents to invite?" [ref=f8e119] [cursor=pointer]
+          - article [ref=f8e123]:
+            - button "What are the rewards for inviting hosts or sub-agents?" [ref=f8e124] [cursor=pointer]
+    - region [ref=f8e128]:
+      - generic [ref=f8e130]:
+        - generic [ref=f8e131]: Scale Your Agency
+        - heading "Build Your High-Earning Live Streaming Agency Today" [level=2] [ref=f8e132]
+        - paragraph [ref=f8e133]: Invite talented creators, train top broadcasters, and earn up to 20% commission with weekly automated cashouts.
+        - generic [ref=f8e134]:
+          - link "Become an Agent" [ref=f8e135] [cursor=pointer]:
+            - /url: /become-a-agent
+          - link "Contact Support" [ref=f8e136] [cursor=pointer]:
+            - /url: https://t.me/NikiLiveSupport
+  - dialog [aria-hidden]:
+    - generic:
+      - button: ✕
+      - generic:
+        - link:
+          - /url: "#"
+          - generic: Open Full Original in New Tab
